@@ -1,0 +1,2363 @@
+Arsene Wenger criticism is unnecessary - Arsenal should be glad to have exited EFL Cup@font-face {
+font-family:'Austin News Deck Semibold';
+src: url('https://archive.is/rxvyt/c505b2e0b0ae4b475490f1d0776c41b856647fc8.woff') format('woff');
+}
+@font-face {
+font-family:'Austin News Deck Medium';
+src: url('https://archive.is/rxvyt/ab0c852361cf5853ade345a5850d61e6c8ab47e0.woff') format('woff');
+}
+@font-face {
+font-family:'Austin News Text Roman';
+src: url('https://archive.is/rxvyt/b2d9183cb60bba7c547b0a9b6850258ec6ee9f55.woff') format('woff');
+}
+@font-face {
+font-family:'Austin News Text Semibold';
+src: url('https://archive.is/rxvyt/379739f5a2c3ea6b4e879dc2b3f0de57e13bf2e3.woff') format('woff');
+}
+@font-face {
+font-family:'Telesans Text Regular';
+src: url('https://archive.is/rxvyt/b2239720179f3637092c91bf0226554c41772df2.woff') format('woff');
+}
+@font-face {
+font-family:'Marian Poster Roman';
+src: url('https://archive.is/rxvyt/b3223c1e7e0edd9c4348cf75a62d68f83b0ca4a4.woff') format('woff');
+}
+@font-face {
+font-family:iconfont;
+src: url('https://archive.is/rxvyt/7280e69884d8b8daf7609a18b968d8047c75c666.woff2') format('woff2'), url('https://archive.is/rxvyt/01919d86b9573245457b6f906a46999ee45bd20e.woff') format('woff'), url('https://archive.is/rxvyt/d711e29bd6682f43eb93d3b4c55236b73f3a7aed.ttf') format('truetype'), url('https://archive.is/rxvyt/c88639466a73398b355846bc1fc5c5f7a4c04dc7.eot'), url('https://archive.is/rxvyt/c88639466a73398b355846bc1fc5c5f7a4c04dc7') format('embedded-opentype');
+font-weight:normal;
+font-style:normal;
+}
+@font-face {
+font-family:ooyala-slick-type;
+src: url('https://archive.is/rxvyt/08d3e8a4d6a55a125baf7e9cade0aab4932d2371') format('embedded-opentype'), url('https://archive.is/rxvyt/2e7e65b2ba28c5dd9244155bf867353eb8493cda.woff') format('woff'), url('https://archive.is/rxvyt/2598d58a2f3e5324e92a915a3d8c14edc4eab103.ttf') format('truetype'), url('https://archive.is/rxvyt/ebefe9d4b0185ac0400c005d9883554193ce4157.svg') format('svg');
+font-weight:normal;
+font-style:normal;
+}
+@font-face {
+font-family:henderson-sans-basic;
+src: url('https://archive.is/rxvyt/92a446f08f9854a6e9123112552e581dd7d59f15') format('woff2'), url('https://archive.is/rxvyt/df6874c8f9a89037c918f4ba176657698aad1254') format('woff'), url('https://archive.is/rxvyt/77fa60aa9e9ea4add4a1222f4d339a46bb104d98') format('opentype');
+font-weight:100;
+font-style:italic;
+}
+@font-face {
+font-family:henderson-sans-basic;
+src: url('https://archive.is/rxvyt/f25112190319ec24f5ba0aab1986f5b730141651') format('woff2'), url('https://archive.is/rxvyt/6e7877ccf1c7c7ddbae4cee15f891119814dc39f') format('woff'), url('https://archive.is/rxvyt/3564738f80a7c6dd9d893a30743bdc0366a0addd') format('opentype');
+font-weight:100;
+font-style:normal;
+}
+@font-face {
+font-family:henderson-sans-basic;
+src: url('https://archive.is/rxvyt/660c4a92dc975e9ee78fbe08c880d3afca518c1f') format('woff2'), url('https://archive.is/rxvyt/755425bc7c429063f4e7d4d2e29405a717f790ab') format('woff'), url('https://archive.is/rxvyt/8fd33c396013ec897854dccc131e9834969ac84f') format('opentype');
+font-weight:600;
+font-style:italic;
+}
+@font-face {
+font-family:henderson-sans-basic;
+src: url('https://archive.is/rxvyt/9067bb7e0cc4493c348d5b56392618e5ca7d8afe') format('woff2'), url('https://archive.is/rxvyt/dd1e3da4ff08ac8c66503516f852a066fbe985ed') format('woff'), url('https://archive.is/rxvyt/60e3b2266878626b269fc3bac8f0de564f8e1a66') format('opentype');
+font-weight:600;
+font-style:normal;
+}
+@font-face {
+font-family:henderson-sans-basic;
+src: url('https://archive.is/rxvyt/92a446f08f9854a6e9123112552e581dd7d59f15') format('woff2'), url('https://archive.is/rxvyt/df6874c8f9a89037c918f4ba176657698aad1254') format('woff'), url('https://archive.is/rxvyt/77fa60aa9e9ea4add4a1222f4d339a46bb104d98') format('opentype');
+font-weight:100;
+font-style:italic;
+}
+@font-face {
+font-family:henderson-sans-basic;
+src: url('https://archive.is/rxvyt/f25112190319ec24f5ba0aab1986f5b730141651') format('woff2'), url('https://archive.is/rxvyt/6e7877ccf1c7c7ddbae4cee15f891119814dc39f') format('woff'), url('https://archive.is/rxvyt/3564738f80a7c6dd9d893a30743bdc0366a0addd') format('opentype');
+font-weight:100;
+font-style:normal;
+}
+@font-face {
+font-family:henderson-sans-basic;
+src: url('https://archive.is/rxvyt/660c4a92dc975e9ee78fbe08c880d3afca518c1f') format('woff2'), url('https://archive.is/rxvyt/755425bc7c429063f4e7d4d2e29405a717f790ab') format('woff'), url('https://archive.is/rxvyt/8fd33c396013ec897854dccc131e9834969ac84f') format('opentype');
+font-weight:600;
+font-style:italic;
+}
+@font-face {
+font-family:henderson-sans-basic;
+src: url('https://archive.is/rxvyt/9067bb7e0cc4493c348d5b56392618e5ca7d8afe') format('woff2'), url('https://archive.is/rxvyt/dd1e3da4ff08ac8c66503516f852a066fbe985ed') format('woff'), url('https://archive.is/rxvyt/60e3b2266878626b269fc3bac8f0de564f8e1a66') format('opentype');
+font-weight:600;
+font-style:normal;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:normal;
+font-weight:300;
+src: url('https://archive.is/rxvyt/4d907d9d7c2a3ec3d5b450cc5b5e9adfd805d4c8.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:normal;
+font-weight:300;
+src: url('https://archive.is/rxvyt/6a94f553d70d2f6a33c937172ac28230b0f43691.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:normal;
+font-weight:300;
+src: url('https://archive.is/rxvyt/b9c7821c54dad58ca7f53e42cb17cb7b85f37d0a.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/ffd2de23ffff227247b5417bc454ca5de452c7d1.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/869ef1d25cef6143e4b9298cc841de0d8410d488.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/235c384b9599ed2099f8fda87ba7bc8917eb1aa4.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:italic;
+font-weight:300;
+src: url('https://archive.is/rxvyt/3f609717d5e58e73e0162a94908faf7e036ad2a2.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:italic;
+font-weight:300;
+src: url('https://archive.is/rxvyt/9e79ab1cfb1c8847a5ed7417bbb82a251e5aa6ce.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:italic;
+font-weight:300;
+src: url('https://archive.is/rxvyt/19e0f393f7f44463d5677f41a52763c2a5902362.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/80c635636e0fd0d1ddbd5a4f60f846b1773fcd4d.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/d9b2ef60d14299632660b1f14156bc8d33e84f10.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Source Sans Pro';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/90675f06fbecae812d4e4161630f9e71268d53aa.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Abril Fatface';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/21a7590991aad86d6b42a598787154675afe507c.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Abril Fatface';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/5d8a79edd30fb53b722522ba49867bca9b41edea.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:Anton;
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/6229c4e669c701f8a22fa511e580e59864faac57.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:Anton;
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/eeaf8795958fc13a961303deabb237860f524cd7.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/434cb59d76f844385877552a1f4a57a430cf13ec.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/de4ef2dc655bfa9c974f02536156618be001e9c2.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/faf552c27da7351e5c2b229b726c89e2945beaeb.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/cf522e817009d6583363b513f932fb69af7598cc.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/rxvyt/ee73d78abdb3d0adee69d42b8bef60ce25817e5c.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/rxvyt/d943d3ccf23fe9a7815c71fad2d26dbf5a26b72e.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/rxvyt/06fb526f61d020f405561cdfd18719496e62b4eb.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/rxvyt/3aede913af5385a09d7965f6b35112fcf8971015.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/c3d1c186d92f4b88375b0d9229d513fba948a316.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/79305955b41a49c8d85a21626cfd56e1d47cb87a.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/2e3190696718604dec825f709b358e1794efedd1.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/4f8ec5a2a2b7ce2f1c9a84105337d03a21edb588.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:italic;
+font-weight:700;
+src: url('https://archive.is/rxvyt/2c02435c2c6ee49d43fb0af9642ec78d71ce7e35.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:italic;
+font-weight:700;
+src: url('https://archive.is/rxvyt/4a1053b8a8fa313fc8cfaa83cc50e4697c0b3e95.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:italic;
+font-weight:700;
+src: url('https://archive.is/rxvyt/ff86f9a1ef13afbfe1eac7a772e2eb6b2972fbfd.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Cormorant Garamond';
+font-style:italic;
+font-weight:700;
+src: url('https://archive.is/rxvyt/bb291284f600b4fe42e081fe2c7a2ea292684845.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:Oswald;
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/e8accb8df133819961f644a6c3269de1a8661465.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:Oswald;
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/da1b5d7f2fdcee9abf2647cfbcba38a1a28b8ad3.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/5d38da7188a954ffa1e17ce40b118a142d05ea0d.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/097779927133d23aa1dbb62814c4ab3e1add8bbb.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/81a86a069ac88c01fc785ae0d5dde37e5b6b1725.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/rxvyt/1299de933317f367a52cc71fb0bc3d65b2637d52.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/rxvyt/17233cb923ceed73620c7b08bd24c393822c2df3.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/rxvyt/ce09ebc733d19c2f394379628c300ce7f5f253fa.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:normal;
+font-weight:900;
+src: url('https://archive.is/rxvyt/46969a64b0e5b2a86c7620aaa7939b44a1bb4c34.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:normal;
+font-weight:900;
+src: url('https://archive.is/rxvyt/a8e0403c2cd7e46c574fa5a05250a2826912d0e3.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:normal;
+font-weight:900;
+src: url('https://archive.is/rxvyt/4a67a7ccfb87b540094348e39843361101250ebd.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/39fafb5e21eda48d667bb0ff408a2ec2a6bd8a46.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/c476b0c1209238a8af68bde7096d081add2af9cb.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:italic;
+font-weight:400;
+src: url('https://archive.is/rxvyt/1ec27431a4f6437c82ddda67b8fd71ab47edc3a8.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:italic;
+font-weight:700;
+src: url('https://archive.is/rxvyt/3fc9c5df4d650b12163729de81eac33a5181c169.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:italic;
+font-weight:700;
+src: url('https://archive.is/rxvyt/c3fad132d7c77879f1df43cfe84d5872a5bba943.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:italic;
+font-weight:700;
+src: url('https://archive.is/rxvyt/126d2edcdde17de1e238a7c4bcd046d4631a9057.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:italic;
+font-weight:900;
+src: url('https://archive.is/rxvyt/325869fdb17d5f3783f85ab4cc50f7b5c2174106.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:italic;
+font-weight:900;
+src: url('https://archive.is/rxvyt/042eb395711ec3ad1f72ad55ed1fe88ce9ab7f8b.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:'Playfair Display';
+font-style:italic;
+font-weight:900;
+src: url('https://archive.is/rxvyt/1a5e515c5fafde536be3997877ab30d20064a767.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:Shrikhand;
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/5a0f690618c7c5bd44de0f8cb259e6b5c9610799.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:Shrikhand;
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/4cb913dcdad92b2ebc18d52fbda31e0cd605a6cd.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:Shrikhand;
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/rxvyt/e5395f8d042dfea31e3bd0fdfb23276d27fd1263.woff2') format('woff2');
+unicode-range:;
+}
+@font-face {
+font-family:Almoni;
+src: url('https://archive.is/rxvyt/535b7b037ff5b8d4728b36b8d9e23bfb195fcbd6') format('embedded-opentype'), url('https://archive.is/rxvyt/e7ea173c0c10f1f828a2586332f5cbd3821639f9.woff') format('woff'), url('https://archive.is/rxvyt/b8b68dedf2ceae7138322f78aa410878173a20d1.ttf') format('truetype'), url('https://archive.is/rxvyt/535b7b037ff5b8d4728b36b8d9e23bfb195fcbd6.eot') format('embedded-opentype');
+font-weight:300;
+}
+@font-face {
+font-family:Almoni;
+src: url('https://archive.is/rxvyt/0a560c78ef39386ad29741af8d4197fb76bbec1b') format('embedded-opentype'), url('https://archive.is/rxvyt/47013b9f7ff070093d7d68155fdd567c1bc85c3d.woff') format('woff'), url('https://archive.is/rxvyt/4411c3783a6ec97fae38e64e2094748e905dcb95.ttf') format('truetype'), url('https://archive.is/rxvyt/535b7b037ff5b8d4728b36b8d9e23bfb195fcbd6.eot') format('embedded-opentype');
+font-weight:400;
+}
+@font-face {
+font-family:Almoni;
+src: url('https://archive.is/rxvyt/a4ab6a354ca2734bff7c4c97873999e30d12cabf') format('embedded-opentype'), url('https://archive.is/rxvyt/72bcb7442315c6a24c9a4c8efcc1034f0e98e420.woff') format('woff'), url('https://archive.is/rxvyt/ef646c9964c9907276e479d4a488c39fe788cc57.ttf') format('truetype'), url('https://archive.is/rxvyt/a4ab6a354ca2734bff7c4c97873999e30d12cabf.eot') format('embedded-opentype');
+font-weight:700;
+}
+@font-face {
+font-family:LatoLatin;
+src: url('https://archive.is/rxvyt/928ec3f677574a28a1b1b4ac5cc2515469ce9ae1') format('embedded-opentype'), url('https://archive.is/rxvyt/050177171b38e7b08da2d707c60187f0cf2da63b.woff2') format('woff2'), url('https://archive.is/rxvyt/805ca0a8bcdf9e25b8f8c0b945e5dd315d649937.woff') format('woff'), url('https://archive.is/rxvyt/c0069d6af8032139650770d8354796665074eeae.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:LatoLatin;
+src: url('https://archive.is/rxvyt/6878dfca5af01b9bf66520ff227af96a44a1c8ff') format('embedded-opentype'), url('https://archive.is/rxvyt/ea0ee76fdf596a22871010746d0738a9137066a8.woff2') format('woff2'), url('https://archive.is/rxvyt/214d5375cd28e763686124e92d31f989ffc48029.woff') format('woff'), url('https://archive.is/rxvyt/2e9a512fba4cbaa9aa7c11e162e77656a0a1f487.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:LatoLatin;
+src: url('https://archive.is/rxvyt/5b54f6ccc20ed3a078fbdf94d7a68ac80002624d') format('embedded-opentype'), url('https://archive.is/rxvyt/5702cb2005766b9cfc3b2affd73d1bfe3f4f6c1e.woff2') format('woff2'), url('https://archive.is/rxvyt/1437242617ce9257b6de45315c11d10f8847b78d.woff') format('woff'), url('https://archive.is/rxvyt/f13867f448ce56275bb81e86c6d1ca27a25a54ba.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:LatoLatin;
+src: url('https://archive.is/rxvyt/e18254c8533becf6de3b4f97749bea4e1690dd80') format('embedded-opentype'), url('https://archive.is/rxvyt/067ab55d2ad7b3029bc08e6b359ff9bb81bb2883.woff2') format('woff2'), url('https://archive.is/rxvyt/2e41698ea1a37f39d18280606f2fea8aa653a0e3.woff') format('woff'), url('https://archive.is/rxvyt/d0a1528dfaa6ddb981a081c00f94687a9147b7cd.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:FontAwesome;
+src: url('https://archive.is/rxvyt/ad0c0513a2fbb7326ac5e11f7c94b95aa23b02e0.0') format('embedded-opentype'), url('https://archive.is/rxvyt/7f2f3c55c2de192387c351b995115f6b79e09173.0') format('woff'), url('https://archive.is/rxvyt/c59792c0a05a4da1f9202a390a27e2d500c36752.0') format('truetype'), url('https://archive.is/rxvyt/28a0cd129eb6e57d21f8c511581f1909ee6b934a.svg') format('svg');
+font-weight:normal;
+font-style:normal;
+}
+@font-face {
+font-family:Apester-Font;
+src: url('https://archive.is/rxvyt/6e9625f88e1ae910087a77b9070833468cf4ba9d') format('embedded-opentype'), url('https://archive.is/rxvyt/1d01f8d519d7a207e1194288a3d43fed7919175d') format('woff2'), url('https://archive.is/rxvyt/f6d699a535290c4c7f06455e0216fff7c36d0f9c') format('truetype'), url('https://archive.is/rxvyt/637a4909cf6ceecffee318db4fba309a0ed1b0e6') format('woff'), url('https://archive.is/rxvyt/177c97c8cf774da4f9dea5c84393adf5df4c4fcb.svg') format('svg');
+font-weight:normal;
+font-style:normal;
+}
+@font-face {
+font-family:'Raleway Medium';
+font-style:normal;
+font-weight:500;
+src: url('https://archive.is/rxvyt/67881c4735b376fd4c450e39e35c873f866d3c6b.woff') format('woff');
+}
+@font-face {
+font-family:'Raleway Bold';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/rxvyt/a947d1c5bfb2c45ade73264e1ddde1871287eea9.woff') format('woff');
+}
+@font-face {
+font-family:'Austin Medium';
+src: url('https://archive.is/rxvyt/d3d8f461f766b2854e08d5a91366a281e1007ebe');
+font-weight:normal;
+font-style:normal;
+}
+@font-face {
+font-family:'Austin Roman';
+src: url('https://archive.is/rxvyt/2d939ad8d8518a6f3717f71d298bacc2d736b3b6');
+font-weight:normal;
+font-style:normal;
+}
+@font-face {
+font-family:Talesans;
+src: url('https://archive.is/rxvyt/ae8930210def6bcb40a5666cf3df3aa2e50731ce');
+font-weight:normal;
+font-style:normal;
+}
+@font-face {
+font-family:adobe-caslon-pro;
+src: url('https://archive.is/rxvyt/c246da83b077210ebca2e0d91eeab7c9a5d4cb6c') format('woff2'), url('https://archive.is/rxvyt/6cb69c7f87f4195344e5a07f6632d7f58b602f83') format('woff'), url('https://archive.is/rxvyt/4a3e800d8623a874e5a887af4d150dc729e99141') format('opentype');
+font-weight:400;
+font-style:normal;
+}
+@font-face {
+font-family:adobe-caslon-pro;
+src: url('https://archive.is/rxvyt/dad64ddbd479a5f591065d0ff128d9b94ffb3e37') format('woff2'), url('https://archive.is/rxvyt/306034346673cacc330930cef882301c6c8039df') format('woff'), url('https://archive.is/rxvyt/34f3c9e12e7056efe0531f66d2e561167ee350ed') format('opentype');
+font-weight:400;
+font-style:italic;
+}
+@font-face {
+font-family:futura-pt;
+src: url('https://archive.is/rxvyt/8ae903473cdca6e4cfd9f002e2f5fed66b65ebeb') format('woff2'), url('https://archive.is/rxvyt/f895906147cfe89ce284c0ad774d5e81b5eed98d') format('woff'), url('https://archive.is/rxvyt/4dcd3332c6b1fb7dc93c52886fe3140f82e50385') format('opentype');
+font-weight:400;
+font-style:normal;
+}
+@font-face {
+font-family:slick;
+font-weight:normal;
+font-style:normal;
+src: url('https://archive.is/rxvyt/2dff0768f4c0a53228761eab917e2c65556042d4') format('embedded-opentype'), url('https://archive.is/rxvyt/af91c12f0f406a4f801aeb3b398768fe41d8f864.woff') format('woff'), url('https://archive.is/rxvyt/3331eebdd4ba348ef25abe00c39ffbe867d46575.ttf') format('truetype'), url('https://archive.is/rxvyt/17f63c6f6131389462ba3d814b7ddf83344705f9.svg') format('svg');
+}
+archive.iswebpage captureSaved fromno other snapshots from this url22 Dec 2016 17:54:18 UTCAll snapshotsfrom host www.telegraph.co.ukWebpageScreenshotsharedownload .zipreport error or abuseRedditVoatTwitterVKontaktePinboardLivejournalFacebookGoogle+short linklong linkmarkdownhtml code<a href="http://archive.is/rxvyt">
+ <img style="width:300px;height:200px;background-color:white" src="https://archive.is/rxvyt/aa1622ad1a49af2c4a135f9bfe108fd45bafe409/scr.png"><br>
+ Arsene Wenger criticism is unnecessary - Arsenal should be glad to ha…<br>
+ archived 22 Dec 2016 17:54:18 UTC
+</a>wiki code{{cite web
+ | title       = Arsene Wenger criticism is unnecessary - Arsenal should be glad to ha…
+ | url         = http://www.telegraph.co.uk/football/2016/12/01/arsenal-should-glad-efl-cup/
+ | date        = 2016-12-22
+ | archiveurl  = http://archive.is/rxvyt
+ | archivedate = 2016-12-22 }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Premium 
+
+
+
+News 
+
+
+
+Sport 
+
+
+
+Business 
+
+
+
+Money 
+
+
+
+Opinion 
+
+
+
+Obituaries 
+
+
+
+Travel 
+
+
+
+Tech & Science 
+
+
+
+Culture 
+
+
+
+Film 
+
+
+
+TV 
+
+
+
+Lifestyle 
+
+
+
+Fashion 
+
+
+
+Luxury 
+
+
+
+Cars 
+
+
+
+Video 
+
+
+
+Christmas 
+
+
+
+
+
+
+
+
+
+
+
+Free Mobile App 
+
+
+
+Jobs 
+
+
+
+Financial Services 
+
+
+
+Rewards 
+
+
+
+Events 
+
+
+
+Dating 
+
+
+
+Offers 
+
+
+
+Shop 
+
+
+
+Garden Shop 
+
+
+
+Bookshop 
+
+
+
+Box Office 
+
+
+
+Puzzles 
+
+
+
+Fantasy Football 
+
+
+
+Wine Shop 
+
+
+
+Work at The Telegraph 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Login 
+
+
+
+Register 
+
+
+
+Subscribe 
+
+
+
+Rewards 
+
+
+|
+Video 
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home 
+
+|
+
+News 
+
+|
+
+Sport 
+
+|
+
+Business 
+
+ 
+
+
+
+
+|
+
+ALL SECTIONS
+
+
+
+
+
+
+
+
+Sport
+Football
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Football 
+|
+
+
+Live scores 
+|
+
+
+Fixtures 
+|
+
+
+Results 
+|
+
+
+Tables 
+|
+
+
+Premier League 
+|
+
+
+Champions League 
+|
+
+
+Fantasy Football 
+|
+
+
+FA Cup 
+|
+
+
+League Cup 
+|
+
+
+Europa League 
+|
+
+
+Euro 2016 
+|
+
+
+Transfers 
+|
+
+
+Football nerd email 
+|
+
+
+A-Z 
+
+ 
+
+
+More 
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+Telegraph
+
+›
+Sport
+
+›
+Football
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Arsene Wenger criticism is unnecessary - Arsenal should be glad to have exited EFL Cup 
+
+
+By
+
+Charlie Eccleshare
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+1 December 2016 • 11:34am
+
+
+
+
+
+
+share
+
+
+
+0 Comments
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Arsenal players react during their EFL Cup defeat to Southampton on Wednesday night 
+
+Credit:
+PA 
+
+
+
+
+
+
+
+
+
+
+
+After
+Arsenal's limp 2-0 defeat by Southampton
+in the EFL Cup quarter-final on Wednesday, it was easy to criticise the team and manager Arsene Wenger. 
+Wenger had made 10 changes for the match, and the side inevitably looked disjointed at times. 
+But aside from the knee-jerk instinct to condemn a team that has just been outplayed and lost a match, can anyone honestly say they think
+Arsenal
+going out of the EFL Cup is a major setback?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arsenal were outclassed by Southampton on Wednesday
+
+
+
+
+
+
+
+
+Does anyone really believe that winning the EFL Cup would alter Wenger's standing with the supporters, or affect his legacy when he leaves?
+You can say football is all about winning trophies but put it this way: in seven out of the last 10 seasons, the manager who has won the League Cup has been sacked within a year. 
+Kenny Dalglish, Michael Laudrup, Juande Ramos and even Jose Mourinho can tell you that the League Cup does not count as much of a defence when your chairman is about to hand out a P45. 
+
+
+
+
+
+
+
+
+
+
+
+
+Alexis Sanchez was one of many Arsenal first-team players rested on Wednesday
+
+
+
+
+
+
+
+
+Even Wenger himself was given little slack for winning consecutive FA Cups between 2014 and 2015, so it's unlikely the lesser regarded League Cup would satisfy supporters. And imagine the hand-wringing if Wenger had played a full strength team against Southampton and one of Mesut Ozil and Alexis Sanchez had got injured. As it was the likes of Lucas Perez and Kieran Gibbs got valuable minutes as they try and fight for a regular place in the first team. 
+Fundamentally Arsenal could do with having a slight reduction on their workload. They have already played 21 matches this season (the joint most in the top flight), five more than Chelsea, and are hopeful of runs in the FA Cup and the Champions League while battling with the customary cocktail of injuries. 
+The comparison with Chelsea is particularly pertinent because Antonio Conte has demonstrated how much of a difference not playing midweek football can make to the preparation of a team. With no European football and an early EFL Cup exit, Conte has been able to introduce a whole new system midway through the season and name pretty much the same team every week. Jurgen Klopp is enjoying similar benefits from no European football at Liverpool, as his predecessor Brendan Rodgers did in 2013-14 and likewise Claudio Ranieri at Leicester last season. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Telegraph 
+
+
+
+@charlie.eccleshare 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1/
+
+
+
+
+Are Arsenal better off out of the EFL Cup?
+
+
+Are Arsenal better off out of the EFL Cup?
+
+
+
+Yes - they have too many matches and injuries as it is
+
+
+
+No - it's still a trophy and worth competing for
+
+
+
+
+
+
+
+
+
+
+
+2K
+voters
+
+
+
+shares
+
+
+
+likes
+
+
+View the full list and results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECURITY WARNING: Please treat the URL above as you would your password and do not share it with anyone. See the Facebook Help Center
+for more information. 
+SECURITY WARNING: Please treat the URL above as you would your password and do not share it with anyone. See the Facebook Help Center
+for more information. 
+
+
+
+
+
+
+
+Arsenal are still in Europe of course and will be until at least March, but now they at least have two fewer matches  on the horizon. 
+And while Manchester United manager Mourinho has been praised by some for taking the EFL Cup seriously and naming a strong team against West Ham, he will be the first to complain about a fixture pile-up in January if the two-legged semi-final has an adverse affect on his team's League form. 
+Wenger's wholesale changes to the team that faced Southampton has been described by some as excessive, but it is a policy employed by many of his counterparts this season, including Saints manager Claude Puel on Wednesday night. And it's not just the likes of Conte, Klopp, Pep Guardiola and Mauricio Pochettino who have been similarly experimental, but many Championship and League One managers as well, such as Lee Johnson, who made nine changes to his Bristol City team for the visit of Hull in the fourth round. 
+
+
+
+
+
+
+
+
+
+
+
+Watch |
+Football fans spend the night at Man Utd stadium to watch Premier League game 
+
+
+
+08:01
+
+
+
+
+
+
+
+
+
+
+
+It does all beg the question as to what purpose the EFL Cup serves, especially when England players look exhausted at every major tournament. There is undoubtedly a need for a winter break in the Premier League, but the powers that be could quite easily cut a possible seven matches from a team's workload by scrapping the EFL Cup. 
+It is easy to dismiss this point of view as big-team bias, but when you have lower-league teams like Bristol City and Preston North End, among numerous others, effectively changing their entire team for the competition, it's difficult to see who the competition is really for. 
+It's certainly not for Wenger, who has never won the competition. Wednesday's defeat could prove to be debilitating to Arsenal in that it ended a 19-match unbeaten run, but the burdensome scheduling in England makes a choice like the one Wenger, and the vast majority of his peers have made this season, essential. 
+Liverpool and Southampton could each play eight matches in January after six and seven respectively in December. It's little wonder most managers have taken evasive EFL Cup action.  
+
+
+
+
+
+
+
+
+
+share
+
+
+
+0 Comments
+
+
+
+
+
+
+Follow Telegraph Football
+
+Facebook
+Follow
+
+
+
+
+
+READ MORE ABOUT:
+
+
+Brendan Rodgers
+
+
+Jose Mourinho
+
+
+Claudio Ranieri
+
+
+Antonio Conte
+
+
+Jurgen Klopp
+
+
+Arsenal FC
+
+
+Arsene Wenger
+
+
+Champions League
+
+
+Show more
+
+
+
+
+
+
+Sponsored
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Football Most Viewed
+
+
+
+
+
+
+
+
+
+
+
+21 Dec 2016,
+6:37pm
+
+
+
+Jose Mourinho targets £180 million quartet across next two windows to continue his Man Utd revolution
+
+
+
+
+
+
+
+
+
+
+
+21 Dec 2016,
+9:00pm
+
+
+
+West Ham send begging letter to Premier League's 'big five' in frantic search for January reinforcements
+
+
+
+
+
+
+
+
+
+
+
+21 Dec 2016,
+10:30pm
+
+
+
+Chelsea target two new players with £60 million warchest from Oscar sale
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+4:17pm
+
+
+
+Man Utd transfer news and rumours live: Antoine Griezmann deal could be hijacked by Man City
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+4:19pm
+
+
+
+Arsenal transfer news and rumours live: Julian Draxler pursuit complicated by Liverpool interest
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sponsored by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Engagement Ring Platinum Diamond
+
+Low estimate: 32 300 GBP
+The RealReal
+
+View lot
+
+
+
+
+
+
+4.03ct Black and 1.24ct White Diamond Ring (5.27ctw Diamonds)
+
+Low estimate: —
+Auction King
+
+View lot
+
+
+
+
+
+
+Henri Matisse Lithograph from 1950
+
+Low estimate: —
+Art Legacy
+
+View lot
+
+
+
+
+
+
+PATEK PHILIPPE
+
+Low estimate: 84 200 GBP
+Artcurial
+
+View lot
+
+
+
+
+
+
+Petrus 2010
+
+Low estimate: 4 800 GBP
+iDealwine
+
+View lot
+
+
+
+
+
+
+Rolex Lady-Datejust 'Pearlmaster' with Mother of Pearl Dial and Diamond
+
+Low estimate: 23 800 GBP
+Beladora
+
+View lot
+
+
+
+
+
+
+Rare Vintage Hermes 1950s Burgundy Matte Crocodile Sac Mallette -Excellent!
+
+Low estimate: 30 300 GBP
+Classic Collections of Palm Beach
+
+View lot
+
+
+
+
+
+
+18K White Gold Diamond Pendant Necklace by Korloff
+
+Low estimate: 260 GBP
+Everything But The House
+
+View lot
+
+
+
+
+
+
+Engagement Ring Platinum Diamond
+
+Low estimate: 32 300 GBP
+The RealReal
+
+View lot
+
+
+
+
+
+
+4.03ct Black and 1.24ct White Diamond Ring (5.27ctw Diamonds)
+
+Low estimate: —
+Auction King
+
+View lot
+
+
+
+
+
+
+Henri Matisse Lithograph from 1950
+
+Low estimate: —
+Art Legacy
+
+View lot
+
+
+
+
+
+
+PATEK PHILIPPE
+
+Low estimate: 84 200 GBP
+Artcurial
+
+View lot
+
+1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+Sport latest
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+5:34pm
+
+
+
+Alan Pardew sacked by Crystal Palace: Sam Allardyce early favourite to be appointed
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+4:45pm
+
+
+
+Alan Pardew - the damning stats that gave Crystal Palace no choice but to sack him
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+4:38pm
+
+
+
+Comment:
+West Indies were the other 'Boys of 66' and taught England a lesson about spin they still have not learnt
+
+
+Simon Heffer 
+ Premium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+4:19pm
+
+
+
+Bolivar denied Bolivian title by 100th-minute goal after five red cards shown in stoppage time
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+4:19pm
+
+
+
+Arsenal transfer news and rumours: Julian Draxler pursuit complicated by Liverpool interest
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+4:17pm
+
+
+
+Man Utd transfer news and rumours: Antoine Griezmann deal could be hijacked by Man City
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+4:10pm
+
+
+
+Comment:
+It's been a year to remember for me, but the focus now switches to next year's America’s Cup
+
+
+Sir Ben Ainslie 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+22 Dec 2016,
+4:02pm
+
+
+Gallery:
+Alan Pardew sacked: The top 10 contenders to replace him at Crystal Palace
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+3:29pm
+
+
+
+Exclusive: Emmanuel Eboue reveals how he has contemplated suicide, tried to convert Jamie Redknapp - and asked the Queen if he could look after her corgis
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+2:19pm
+
+
+
+Antonio Conte says Frank Lampard is fit enough to continue playing after Chelsea visit
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+2:00pm
+
+
+
+What we learned from Roger Federer's Periscoped training session
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+1:31pm
+
+
+
+Hugo Lloris signs new Tottenham contract to stay until 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+12:06pm
+
+
+
+Six of One - The best and worst sports scenes in film
+
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+22 Dec 2016,
+11:58am
+
+
+Gallery:
+The 15 most bizarre - and downright creepy - football Christmas pictures
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+11:54am
+
+
+
+
+
+
+
+
+
+Live
+ | 
+Manchester United transfer news and rumours – 'Club open talks with Benfica over defender Victor Lindelof'
+
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+22 Dec 2016,
+11:43am
+
+
+Gallery:
+Who has scored the most Boxing Day goals in Premier League history?
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+11:28am
+
+
+
+A comprehensive guide to the essential Christmas and new year sport on TV
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+10:00am
+
+
+
+30 years ago today in sport: Tottenham near on £650k deal for Steve Hodge
+
+ Premium
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+9:48am
+
+
+
+ICC Test Team of the Year branded a 'joke' as Alastair Cook is named captain at Virat Kohli's expense
+
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+22 Dec 2016,
+9:34am
+
+
+Gallery:
+From Andy Hessenthaler to Walter Zenga: Every manager to leave their post in 2016/17 season
+
+
+
+
+
+
+
+
+
+
+
+
+22 Dec 2016,
+8:42am
+
+
+
+Tranmere striker James Norwood condemned after 'blacking up' for Christmas party 
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+If you would like to add a comment, please register or log in 
+
+Register
+Log in
+
+
+Please review our
+commenting policy0 commentsGet LivefyreFAQSign in1 person listeningLoadingNewest
+| Oldest
+| Top CommentsShow more
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Contact us 
+|
+
+
+Rewards 
+|
+
+
+Archive 
+|
+
+
+Reader Prints 
+|
+
+
+Advertising 
+|
+
+
+Syndication 
+|
+
+
+Guidelines 
+|
+
+
+Privacy 
+|
+
+
+Terms and Conditions 
+|
+
+
+Leave your feedback 
+
+ 
+
+
+
+
+
+© Telegraph Media Group Limited 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Your support makes a big difference
+In order to bring you award-winning content and investigative journalism from your favourite writers, we rely on revenue generated by advertising.
+Please consider supporting us by turning off your ad blocker.
+Just a couple of clicks will make a big difference.
+Thank you.
+
+Need help?
+Click
+here
+for instructions 
+
+Close
+
+
+lg
+
+
+
+
+lg0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%function showDivShare() {
+  updateShareLinks();
+  document.getElementById("SHARER"  ).style.display="none";
+  document.getElementById("DIVSHARE").style.display="block";
+  return false;
+}
+function updateShareLinks() {
+  var shortlink = "http://archive.is/rxvyt";
+  var re = new RegExp(shortlink.replace(".", "\.") + "(#selection-[0-9.-]+)?");
+  var adr = document.location.hash.match(/(selection-\d+\.\d+-\d+\.\d+)/);
+  document.getElementById("SHARE_SHORTLINK").value = document.getElementById("SHARE_SHORTLINK").value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_MARKDOWN" ).value = document.getElementById("SHARE_MARKDOWN" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_HTMLCODE" ).value = document.getElementById("SHARE_HTMLCODE" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_WIKICODE" ).value = document.getElementById("SHARE_WIKICODE" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+}
+function findXY(obj) {
+  var cur = {x:0, y:0};
+  while (obj && obj.offsetParent) {
+    cur.x += obj.offsetLeft; // todo: + webkit-transform
+    cur.y += obj.offsetTop; // todo: + webkit-transform
+    obj = obj.offsetParent;
+  }
+  return cur;
+}
+function findXY2(obj, textpos) { // it could reset selection
+  if (obj.nodeType==3) {
+    var parent = obj.parentNode;
+    var text = document.createTextNode(obj.data.substr(0, textpos));
+    var artificial = document.createElement("SPAN");
+    artificial.appendChild(document.createTextNode(obj.data.substr(textpos)));
+    parent.insertBefore(text, obj);
+    parent.replaceChild(artificial, obj);
+    var y = findXY(artificial);
+    parent.removeChild(text);
+    parent.replaceChild(obj, artificial);
+    return y;
+  } else {
+    return findXY(obj);
+  }
+}
+var prevhash = "";
+function scrollToHash() {
+  if (document.location.hash.replace(/^#/, "")==prevhash.replace(/^#/, ""))
+    return;
+  prevhash = document.location.hash;
+  if (document.location.hash.match(/#[0-9.]+%/)) {
+    var p = parseFloat(document.location.hash.substring(1));
+    if (0 < p && p < 100 /*&& p%5 != 0*/) {
+      var content = document.getElementById("CONTENT")
+      var y = findXY(content).y + (content.offsetHeight)*p/100;
+      window.scrollTo(0, y-16);
+    }
+  }
+
+  var adr = document.location.hash.match(/selection-(\d+)\.(\d+)-(\d+)\.(\d+)/);
+  if (adr) {
+    var pos=0,begin=null,end=null;
+    function recur(e) {
+      if (e.nodeType==1) pos = (pos&~1)+2;
+      if (e.nodeType==3) pos = pos|1;
+      if (pos==adr[1]) begin=[e, adr[2]];
+      if (pos==adr[3]) end  =[e, adr[4]];
+      for (var i=0; i<e.childNodes.length; i++)
+        recur(e.childNodes[i]);
+      if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+        pos = (pos&~1)+2;
+    }
+    var content = document.getElementById("CONTENT");
+    recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+    if (begin!=null && end!=null) {
+      window.scrollTo(0, findXY2(begin[0], begin[1]).y-8);
+
+      if (window.getSelection) {
+        var sel = window.getSelection();
+        sel.removeAllRanges();
+        var range = document.createRange();
+        range.setStart(begin[0], begin[1]);
+        range.setEnd  (  end[0],   end[1]);
+        sel.addRange(range);
+      } else if (document.selection) { // IE
+      }
+    }
+  }
+}
+window.onhashchange = scrollToHash;
+var initScrollToHashDone = false;
+function initScrollToHash() {
+  if (!initScrollToHashDone) {
+    initScrollToHashDone = true;
+    scrollToHash();
+  }
+}
+window.onload = initScrollToHash;
+setTimeout(initScrollToHash, 500); /* onload can be delayed by counter code */
+
+//document.onselectionchange = /* only webkit has working document.onselectionchange */
+document.onmousedown = document.onmouseup = function(e) {
+  var SHARER = document.getElementById("SHARER");
+  var newhash = "";
+  if (window.getSelection) {
+    var sel=window.getSelection();
+    if (!sel.isCollapsed) {
+      var pos=0,begin=[0,0],end=[0,0];
+      var range=sel.getRangeAt(0);
+      function recur(e) {
+        if (e.nodeType==1) pos = (pos&~1)+2;
+        if (e.nodeType==3) pos = pos|1;
+        if (range.startContainer===e) begin=[pos, range.startOffset];
+        if (range.endContainer  ===e) end  =[pos, range.endOffset  ];
+        for (var i=0; i<e.childNodes.length; i++)
+          recur(e.childNodes[i]);
+        if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+          pos = (pos&~1)+2;
+      }
+
+      var content = document.getElementById("CONTENT");
+      recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+      if (begin[0]>0 && end[0]>0) {
+        newhash = "selection-"+begin[0]+"."+begin[1]+"-"+end[0]+"."+end[1];
+      }
+    }
+  } else if (document.selection) { // IE
+  }
+
+  try {
+    var oldhash = location.hash.replace(/^#/, "");
+    if (oldhash != newhash) {
+      prevhash = newhash; /* avoid firing window.onhashchange and scrolling */
+      if (history.replaceState) {
+        history.replaceState('', document.title, newhash.length>0 ? '#'+newhash : window.location.pathname);
+      } else {
+        if (newhash.length>0) location.hash = newhash;
+      }
+    }
+  } catch(e) {
+  }
+
+  if (newhash == "") {
+    SHARER.style.display="none";
+  }
+};
+
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: ""+63*44843, type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+document.cookie="_ga=GA1.2.661111166."+Math.floor((new Date()).getTime()/1000)+";expires="+(new Date((new Date()).getTime()+2*60*60*1000)).toUTCString()+";path=/";
+
+
+

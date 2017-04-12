@@ -1,0 +1,2019 @@
+Wells Fargo to Keep Commissions-Based Retirement Accounts Under Fiduciary Rule - WSJ@font-face {
+font-family:cr-icons;
+src: url('https://archive.is/C0MF6/d490d130155433ba8b9415339315d88d65f9eecb') format('woff');
+font-weight:400;
+font-style:normal;
+}
+@font-face {
+font-family:'Chronicle Display';
+src: url('https://archive.is/C0MF6/f0f08b4f0b1ac8db8d6279cfe7b009c0061e2404');
+font-weight:400;
+font-style:normal;
+}
+@font-face {
+font-family:'Chronicle Display';
+src: url('https://archive.is/C0MF6/67ec1fc67290a3a221e2f0f0fb2d550c5b584007');
+font-weight:600;
+font-style:normal;
+}
+@font-face {
+font-family:'Chronicle Display';
+src: url('https://archive.is/C0MF6/88594c3fb5f2271af14b6867bb8de49ae173c59f');
+font-weight:700;
+font-style:normal;
+}
+@font-face {
+font-family:'Chronicle Display';
+src: url('https://archive.is/C0MF6/7193b13d05c3cef4326b3daca6e720c542bc30d3');
+font-weight:800;
+font-style:normal;
+}
+@font-face {
+font-family:'Chronicle SSm';
+src: url('https://archive.is/C0MF6/e5bdbcb997c2310d730c2d67be49cc91e1b37519');
+font-weight:400;
+font-style:normal;
+}
+@font-face {
+font-family:'Chronicle SSm';
+src: url('https://archive.is/C0MF6/1b43fcb6de0a9f94ce998f3bfb4201cbd2c0267b');
+font-weight:500;
+font-style:normal;
+}
+@font-face {
+font-family:'Chronicle SSm';
+src: url('https://archive.is/C0MF6/97b4102c0cfd4c92c1431c893d12609c785cf7a0');
+font-weight:600;
+font-style:normal;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/33642fedecb2c0c928793ff73f3ee294f8c00de7');
+font-weight:300;
+font-style:normal;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/cffd66253d4f78cb901a162e6352807a0ef2aa0b');
+font-weight:400;
+font-style:normal;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/dafbc84ab0a0db126b4a98d8b082f5eebc25371c');
+font-weight:500;
+font-style:normal;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/a9473d7bf49335a0d7e219d8cddc57797bf3c068');
+font-weight:600;
+font-style:normal;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/ac4696cd434991d84d20090019a223f5d0c2ea38');
+font-weight:700;
+font-style:normal;
+}
+@font-face {
+font-family:'Chronicle Display';
+src: url('https://archive.is/C0MF6/0a3492b391672bb74ad700f9c24fb8d649e02cfc');
+font-weight:400;
+font-style:italic;
+}
+@font-face {
+font-family:'Chronicle Display';
+src: url('https://archive.is/C0MF6/ee33fd97e4d560fe96093c412ca4267c4ae0f8a0');
+font-weight:800;
+font-style:italic;
+}
+@font-face {
+font-family:'Chronicle SSm';
+src: url('https://archive.is/C0MF6/b8252c01b6245e8a8422b5412d23e666117b7eb3');
+font-weight:400;
+font-style:italic;
+}
+@font-face {
+font-family:'Chronicle SSm';
+src: url('https://archive.is/C0MF6/713c007e70f1ea93f95feb0585d0ea8f8971c67c');
+font-weight:500;
+font-style:italic;
+}
+@font-face {
+font-family:'Chronicle SSm';
+src: url('https://archive.is/C0MF6/dc4e6140473530fb85a9a02993b08a81798746d1');
+font-weight:600;
+font-style:italic;
+}
+@font-face {
+font-family:'Chronicle Display';
+src: url('https://archive.is/C0MF6/ee33fd97e4d560fe96093c412ca4267c4ae0f8a0');
+font-weight:800;
+font-style:italic;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/0914c59f200d4d5f6b36e9a62ceb5acd239db2ee');
+font-weight:300;
+font-style:italic;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/630571dfc552574a288244cb121c4883a0c5f0bc');
+font-weight:400;
+font-style:italic;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/1f0c15ac8cb65cf939e988974e6aa901792a2b1f');
+font-weight:500;
+font-style:italic;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/df90bd04a7d24054378abbf0768942ebc29b4da9');
+font-weight:600;
+font-style:italic;
+}
+@font-face {
+font-family:'Whitney SSm';
+src: url('https://archive.is/C0MF6/9efbed83cd20c98ef5c41645c3b80a3929a52af4');
+font-weight:700;
+font-style:italic;
+}
+archive.iswebpage captureSaved fromhistory←priornext→22 Dec 2016 17:55:44 UTCAll snapshotsfrom host www.wsj.comWebpageScreenshotsharedownload .zipreport error or abuseRedditVoatTwitterVKontaktePinboardLivejournalFacebookGoogle+short linklong linkmarkdownhtml code<a href="http://archive.is/C0MF6">
+ <img style="width:300px;height:200px;background-color:white" src="https://archive.is/C0MF6/1c61410150e2af9c590bfc51ef7ed6f42e2a6ced/scr.png"><br>
+ Wells Fargo to Keep Commissions-Based Retirement Accounts Under Fiduc…<br>
+ archived 22 Dec 2016 17:55:44 UTC
+</a>wiki code{{cite web
+ | title       = Wells Fargo to Keep Commissions-Based Retirement Accounts Under Fiduc…
+ | url         = http://www.wsj.com/articles/wells-fargo-to-keep-commissions-based-retirement-accounts-under-fiduciary-rule-1480615211
+ | date        = 2016-12-22
+ | archiveurl  = http://archive.is/C0MF6
+ | archivedate = 2016-12-22 }}
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies and browser capability checks to help us deliver our online services, including to learn if you enabled Flash for video or ad blocking. By using our website or by closing this message box, you agree to our use of browser capability checks, and to our use of cookies as described in our
+Cookie Policy.
+Do not show again
+
+
+
+
+
+
+
+
+
+
+
+DOW JONES, A NEWS CORP COMPANY
+
+
+
+
+
+
+
+
+News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.
+
+DOW JONES
+
+Barron's
+BigCharts
+DJX
+Dow Jones Newswires
+Factiva
+Financial News
+Mansion Global
+MarketWatch
+
+
+Newsmart
+NewsPlus
+Private Markets
+Risk & Compliance
+WSJ.com
+WSJ Pro
+WSJ Conference
+WSJ Video
+
+
+
+NEWS CORP
+
+Big Decisions
+Business Spectator
+Checkout51
+Harper Collins
+New York Post
+PropTiger
+REA
+
+
+realtor.com
+Storyful
+The Australian
+The Sun
+The Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+DJIA
+▲
+
+19912.12
+-0.15%
+
+
+
+ 
+
+
+S&P 500
+▲
+
+2258.92
+-0.28%
+
+
+
+ 
+
+
+Nasdaq
+▲
+
+5442.22
+-0.53%
+
+
+
+ 
+
+
+U.S. 10 Yr
+▲
+
+-3/32 yield
+2.549%
+
+
+
+ 
+
+
+Crude Oil
+▲
+
+52.99
+0.95%
+
+
+
+ 
+
+
+Euro
+▲
+
+1.0441
+0.16%
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Subscribe Now
+Sign In
+
+
+
+
+
+The Wall Street Journal
+
+
+
+
+Sections
+
+
+
+My Journal 
+
+
+
+
+
+Home
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+Economy
+
+
+Business
+
+
+Tech
+
+
+Markets
+
+
+Opinion
+
+
+Arts
+
+
+Life
+
+
+Real Estate
+
+
+Today's Paper
+
+
+SHOW ALL SECTIONS
+HIDE ALL SECTIONS
+
+
+
+
+World Home
+
+
+Africa
+Asia
+Canada
+China
+Europe
+Latin America
+Middle East
+
+
+Brussels Real Time
+China Real Time
+India Real Time
+
+
+Economy
+
+
+World Video
+
+
+
+
+U.S. Home
+
+
+Economy
+Law
+New York
+Politics
+
+
+Real Time Economics
+The Numbers
+Washington Wire
+
+
+Journal Report
+U.S. Video
+What's News Podcast
+
+
+
+
+Politics Home
+
+
+Think Tank
+Washington Wire
+
+
+Politics Video
+WSJ/NBC News Poll
+
+
+
+
+Economy Home
+
+
+Real Time Economics
+
+
+Economic Forecasting Survey
+Economy Video
+
+
+
+
+Business Home
+
+
+Management
+Tech/WSJ.D
+
+
+Aerospace & Defense
+Autos & Transportation
+Commercial Real Estate
+Consumer Products
+Energy
+Entrepreneurship
+Financial Services
+Food & Services
+Health Care
+Hospitality
+Law
+Manufacturing
+Media & Marketing
+Natural Resources
+Retail
+
+
+CFO Journal
+CIO Journal
+CMO Today
+Logistics Report
+Risk & Compliance
+
+
+Bankruptcy Beat
+Heard on the Street
+
+
+Business Video
+Journal Report
+Business Podcast
+
+
+
+
+Tech Home
+
+
+CIO Journal
+
+
+Geoffrey Fowler
+Christopher Mims
+Joanna Stern
+Li Yuan
+
+
+Billion Dollar Startup Club
+Tech Video
+Tech Podcast
+Startup Stock Trader
+
+
+
+
+Markets Home
+
+
+Bonds
+Commercial Real Estate
+Commodities & Futures
+Currencies
+Deals
+Financial Services
+Funds
+Stocks
+Your Money
+
+
+Heard on the Street
+MoneyBeat
+Wealth Adviser
+Ahead of the Tape
+
+
+CFO Journal
+Journal Report
+Market Data
+Markets Video
+Markets Podcast
+MoneyBeat Podcast
+Heard on the Street Podcast
+Watching Your Wealth Podcast
+
+
+
+
+Opinion Home
+
+
+Arts in Review
+Book Reviews
+Commentary
+Editorials
+Letters to the Editor
+
+
+Best of the Web
+Columnists
+Morning Editorial Report
+Peggy Noonan
+Political Diary
+
+
+Opinion Video
+Potomac Watch Podcast
+Foreign Edition Podcast
+
+
+
+
+Arts Home
+
+
+Arts in Review
+Books
+
+
+Speakeasy
+
+
+Arts Video
+WSJ. Magazine
+Speakeasy Podcast
+
+
+
+
+Life Home
+
+
+Careers
+Cars
+Food & Drink
+Health
+Ideas
+Real Estate
+Science
+Sports
+Style & Fashion
+Travel
+
+
+Off Duty Daily
+The Daily Fix
+
+
+Life Video
+WSJ. Magazine
+WSJ Puzzles
+Off Duty Podcast
+The Future of Everything
+
+
+
+
+Real Estate Home
+
+
+Commercial Real Estate
+House of the Day
+Mansion
+
+
+Real Estate Video
+
+
+
+
+
+HIDE ALL SECTIONS
+
+
+
+
+
+Aim higher, reach further.
+
+Get the Wall Street Journal $12 for 12 weeks. Subscribe Now
+
+
+Sign In
+
+
+Reveal Navigation Options
+
+
+
+
+Home
+
+
+
+
+
+
+
+World
+
+
+
+
+
+Regions
+Africa
+Asia
+Canada
+China
+Europe
+Latin America
+Middle East
+
+
+Blogs
+Brussels Real Time
+China Real Time
+India Real Time
+
+
+Sections
+Economy
+
+
+More
+World Video
+
+
+
+
+
+U.S.
+
+
+
+
+
+Sections
+Economy
+Law
+New York
+Politics
+
+
+Columns & Blogs
+Real Time Economics
+The Numbers
+Washington Wire
+
+
+More
+Journal Report
+U.S. Video
+What's News Podcast
+
+
+
+
+
+Politics
+
+
+
+
+
+Blogs
+Think Tank
+Washington Wire
+
+
+More
+Politics Video
+WSJ/NBC News Poll
+
+
+
+
+
+Economy
+
+
+
+
+
+Blogs
+Real Time Economics
+
+
+More
+Economic Forecasting Survey
+Economy Video
+
+
+
+
+
+Business
+
+
+
+
+
+Sections
+Management
+Tech/WSJ.D
+
+
+Industries
+Aerospace & Defense
+Autos & Transportation
+Commercial Real Estate
+Consumer Products
+Energy
+Entrepreneurship
+Financial Services
+Food & Services
+Health Care
+Hospitality
+Law
+Manufacturing
+Media & Marketing
+Natural Resources
+Retail
+
+
+C-Suite
+CFO Journal
+CIO Journal
+CMO Today
+Logistics Report
+Risk & Compliance
+
+
+Columns & Blogs
+Bankruptcy Beat
+Heard on the Street
+
+
+More
+Business Video
+Journal Report
+Business Podcast
+
+
+
+
+
+Tech
+
+
+
+
+
+Sections
+CIO Journal
+
+
+Columns & Blogs
+Geoffrey Fowler
+Christopher Mims
+Joanna Stern
+Li Yuan
+
+
+More
+Billion Dollar Startup Club
+Tech Video
+Tech Podcast
+Startup Stock Trader
+
+
+
+
+
+Markets
+
+
+
+
+
+Sections
+Bonds
+Commercial Real Estate
+Commodities & Futures
+Currencies
+Deals
+Financial Services
+Funds
+Stocks
+Your Money
+
+
+Columns & Blogs
+Heard on the Street
+MoneyBeat
+Wealth Adviser
+Ahead of the Tape
+
+
+More
+CFO Journal
+Journal Report
+Market Data
+Markets Video
+Markets Podcast
+MoneyBeat Podcast
+Heard on the Street Podcast
+Watching Your Wealth Podcast
+
+
+
+
+
+Opinion
+
+
+
+
+
+Sections
+Arts in Review
+Book Reviews
+Commentary
+Editorials
+Letters to the Editor
+
+
+Columns & Blogs
+Best of the Web
+Columnists
+Morning Editorial Report
+Peggy Noonan
+Political Diary
+
+
+More
+Opinion Video
+Potomac Watch Podcast
+Foreign Edition Podcast
+
+
+
+
+
+Arts
+
+
+
+
+
+Sections
+Arts in Review
+Books
+
+
+Blogs
+Speakeasy
+
+
+More
+Arts Video
+WSJ. Magazine
+Speakeasy Podcast
+
+
+
+
+
+Life
+
+
+
+
+
+Sections
+Careers
+Cars
+Food & Drink
+Health
+Ideas
+Real Estate
+Science
+Sports
+Style & Fashion
+Travel
+
+
+Blogs
+Off Duty Daily
+The Daily Fix
+
+
+More
+Life Video
+WSJ. Magazine
+WSJ Puzzles
+Off Duty Podcast
+The Future of Everything
+
+
+
+
+
+Real Estate
+
+
+
+
+
+Sections
+Commercial Real Estate
+House of the Day
+Mansion
+
+
+More
+Real Estate Video
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+SEARCH
+→
+
+
+
+
+
+
+
+
+Subscribe
+Sign In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wi-Fi-Linked Home-Security Gadgets Aren’t Lowering Insurance Premiums 
+
+
+
+
+
+
+
+
+
+
+The World’s Largest Hedge Fund Is Building an Algorithmic Model From Its Employees’ Brains 
+
+
+
+
+
+
+
+
+
+
+GOP Tax Plan Could Boost Prices at the Pump 
+
+
+
+
+
+
+
+
+
+
+Heard on the Street 
+
+Retailers Lose Willpower as Christmas Approaches 
+
+
+
+
+
+
+
+
+
+
+Senators Press Wells Fargo Board for Answers 
+
+
+
+
+
+
+
+
+
+
+U.S. Stocks Pull Back 
+
+
+
+
+
+
+
+
+
+
+Goldman Sachs Ties to Scandal-Plagued 1MDB Run Deep 
+
+
+
+
+
+
+
+
+
+
+Wi-Fi-Linked Home-Security Gadgets Aren’t Lowering Insurance Premiums 
+
+
+
+
+
+
+
+
+
+
+The World’s Largest Hedge Fund Is Building an Algorithmic Model From Its Employees’ Brains 
+
+
+
+
+
+
+
+
+
+
+GOP Tax Plan Could Boost Prices at the Pump 
+
+
+
+
+
+
+
+
+
+
+Heard on the Street 
+
+Retailers Lose Willpower as Christmas Approaches 
+
+
+
+
+
+
+
+
+
+
+Senators Press Wells Fargo Board for Answers 
+
+
+
+
+
+
+
+
+
+
+U.S. Stocks Pull Back 
+
+
+
+
+
+
+
+
+
+
+Goldman Sachs Ties to Scandal-Plagued 1MDB Run Deep 
+
+
+
+
+
+
+
+
+
+
+Wi-Fi-Linked Home-Security Gadgets Aren’t Lowering Insurance Premiums 
+
+
+
+
+
+
+
+
+
+
+The World’s Largest Hedge Fund Is Building an Algorithmic Model From Its Employees’ Brains 
+
+
+
+
+
+
+
+
+
+
+GOP Tax Plan Could Boost Prices at the Pump 
+
+
+
+
+←Previous→Next
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers visit http://www.djreprints.com.
+http://www.wsj.com/articles/wells-fargo-to-keep-commissions-based-retirement-accounts-under-fiduciary-rule-1480615211
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Save Article
+Sign In to Save
+Subscribe to WSJ
+
+
+
+
+
+
+Text Size
+Regular
+Medium
+Large
+
+
+
+
+
+Google+
+
+
+Print
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+|
+Markets
+
+|
+
+Financial Regulation 
+
+
+
+
+Wells Fargo to Keep Commissions-Based Retirement Accounts Under Fiduciary Rule
+Bank acknowledges political uncertainty around rule, but plots compliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENLARGE 
+
+
+Wells Fargo & Co. detailed its plans for compliance with the Labor Department’s so-called fiduciary rule despite speculation it will be dismantled by Republicans and Donald Trump next year
+
+
+Photo: 
+Reuters 
+
+
+.
+
+
+
+By
+
+Michael Wursthorn
+
+
+Michael Wursthorn
+The Wall Street Journal
+
+CANCEL
+
+BiographyMichael Wursthorn
+@4BetterOrWurst
+Google+
+michael.wursthorn@wsj.com
+
+
+
+
+Updated Dec. 1, 2016 4:18 p.m. ET 
+
+
+
+0 COMMENTS
+
+
+
+
+Wells Fargo
+& Co. will continue to allow retirement savers who work with its brokerage arm to pay commissions for trades, as Wall Street brokerages move ahead with plans to comply with new conflict-of-interest rules on retirement accounts despite uncertainty surrounding their fate.
+The Labor Department’s so-called
+fiduciary rule, which is set to take effect in April, aims to eliminate conflicts from retirement advice and requires brokers to act in the best interests of their clients. The rule’s fate has become unclear as Republicans in Congress and the incoming Trump administration have made it clear that Obama-era regulations are under review for repeal or replacement.
+
+The San Francisco bank said that while it is planning for a variety of different scenarios surrounding the fate of the rule, it is preparing as if the rule will be implemented in April as scheduled. “While there is a great deal of speculation in the media on how the election results will affect the DOL rule, none of us can say with certainty what will actually happen,” Wells Fargo said in a memorandum, reviewed by The Wall Street Journal, to its more than 15,000 brokers on Thursday.
+
+Wells Fargo’s brokerage arm, Wells Fargo Advisors, which has more $1.5 trillion in total client assets, said it would allow its brokers to continue offering individual retirement accounts that charge investors per-transaction commissions, an approach toward compliance similar to some brokerages such as
+
+Morgan Stanley
+and Edward Jones. 
+However, Wells clients in those accounts after April will likely have a slimmer menu of investment products to choose from, people with knowledge of the matter said, although details weren’t immediately available.
+
+Firms still offering commission-based IRAs have had to drop some investment products from them to comply with some restrictions within the rule. Edward Jones, for example, won’t allow retirement savers who pay a commission to buy mutual funds next year, while some alternative investments won’t be immediately available in commission-based IRAs at Morgan Stanley.
+The approach to allow commission offerings differs from rivals
+
+Bank of America
+Corp.’s Merrill Lynch and
+
+J.P. Morgan Chase
+& Co., among others. Merrill and J.P. Morgan said in recent months that they would ditch the industry’s traditional commission-based sales model
+for retirement accounts and will effectively offer only IRAs that charge a fee based on a percentage of assets starting next year.
+The retirement rules—which researcher Morningstar Inc. predicts will affect about $3 trillion of commission-based retirement assets in the U.S.—bring a host of changes, including how investors pay for retirement advice, the elimination of compensation incentives for brokers and higher investment minimums.
+But since Republicans took the White House and retained control of Congress, firms now face the dizzying possibility of an outright dismantling of the rule.
+Congressional Republicans opposing the rule have seized on
+Donald Trump’s surprise presidential win as a chance to stop the regulations ahead of their implementation. Rep. Jeb Hensarling, the Texas Republican who heads the House Financial Services Committee, and Rep. Ann Wagner (R., Mo.), who has been one of the most vocal opponents of the rule, have both said their party will renew the fight to halt it next year.
+Republicans challenging the rule have said it would cut small retirement savers off from affordable financial advice. A recent survey by analytics firm CoreData Research of 552 financial advisers in the U.S. found that 71% plan to no longer service some smaller investors because of the rule.
+
+Wells Fargo and other brokerages are moving ahead with implementation despite the uncertainty. But even if the rule is shelved, certain aspects of it, such as heightened oversight of retirement accounts, will continue to move forward at Wells Fargo, people familiar with the matter said.
+For investors, the rule’s halt may not be that apparent if firms choose to keep some of the changes they’ve already made or planned. Some companies will be able to implement the rule’s higher standard of care without the costly compliance requirements, said Kent Mason, a partner at law firm Davis & Harman LLP who focuses on retirement.
+
+“But people may have also lost the option of choice,” Mr. Mason added, referring to some firms’ decision to no longer offer commission-based IRAs. “The legacy of the rule may be less access [for small savers] and less choice.”
+
+Write to
+Michael Wursthorn at
+Michael.Wursthorn@wsj.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Save Article
+Sign In to Save
+Subscribe to WSJ
+
+
+
+
+
+
+Text Size
+Regular
+Medium
+Large
+
+
+
+
+
+Google+
+
+
+Print
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most Popular Videos
+
+
+
+
+
+
+
+
+Why AirPods Are Better Than They Look
+
+
+
+
+
+
+
+
+1MDB Alleged Fraud: How it Happened
+
+
+
+
+
+
+
+
+Brand-Snubbing Consumers Say 'No' to Logos
+
+
+
+
+
+
+
+
+Russian Hackers Stole Millions from Advertisers
+
+
+
+
+
+
+
+
+Life Lessons From Richard Branson
+
+
+
+
+
+
+Most Popular Articles
+
+
+
+
+
+
+
+Trump Names Icahn as Adviser on Regulatory Overhaul 
+
+
+
+
+
+
+
+Opinion: Michelle’s Trump Despair 
+
+
+
+
+Best Wireless Earbuds: Apple’s AirPods (Yes, Those Ugly Things) 
+
+
+
+
+
+
+
+Young Americans Living With Parents at a 75-Year High 
+
+
+
+
+
+
+
+Goldman Sachs Ties to Scandal-Plagued 1MDB Run Deep 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHOW COMMENTS
+HIDE COMMENTS
+(0)
+
+
+Failed to load comments
+
+
+
+
+Show More Archives
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+Popular on WSJ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wall Street Journal
+Europe Edition
+
+U.S.
+Asia
+Europe
+India
+América Latina
+Brasil
+中国 (China)
+日本 (Japan)
+
+
+
+
+Edition:
+
+U.S.
+Asia
+Europe
+India
+América Latina
+Brasil
+中国 (China)
+日本 (Japan)
+
+
+
+Text Size:
+
+Small
+Medium
+Large
+
+
+
+
+
+Subscribe NowSign In
+
+WSJ Membership Benefits
+Download WSJ Apps
+Customer Center
+Legal Policies
+
+
+
+Subscribe
+Sign In
+ 
+
+TOP«
+
+
+
+
+
+WSJ Membership
+
+WSJ+ Membership Benefits
+Digital Subscription
+Print Subscription
+Print and Digital Subscription
+Why Subscribe?
+Download WSJ Apps for iOS and Android
+Corporate Subscriptions
+Professor Journal
+Student Journal
+
+
+Customer Service
+
+Customer Center
+Live Help
+Redesign Guided Tour
+Notice to Subscribers
+
+
+Tools & Features
+
+Emails & Alerts
+Guides
+My News
+RSS Feeds
+Topics
+Video Center
+Watchlist
+Podcasts
+
+
+Ads
+
+Advertise
+Advertise Locally
+Commercial Real Estate Ads
+Place a Classified Ad
+Sell Your Business
+Sell Your Home
+Recruitment & Career Ads
+
+
+More
+
+Content Partnerships
+Corrections
+Jobs at WSJ
+News Archive
+Register for Free
+Reprints
+
+
+
+nFacebook
+mTwitter
+vGoogle+
+wYouTube
+yPodcasts
+Snapchat
+GooglePlay
+AppStore
+Windows10
+
+
+
+
+
+Dow Jones Products
+Barron's
+BigCharts
+DJX
+Dow Jones Newswires
+Factiva
+Financial News
+Mansion Global
+MarketWatch
+Private Markets
+realtor.com
+Risk & Compliance
+WSJ Conference
+WSJ Pro Central Banking
+WSJ Video
+WSJ Wine
+ 
+
+
+
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Data Policy
+Subscriber Agreement & Terms of Use
+Your Ad Choices
+Copyright ©2016
+Dow Jones & Company, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved
+This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.
+
+
+
+
+
+
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%function showDivShare() {
+  updateShareLinks();
+  document.getElementById("SHARER"  ).style.display="none";
+  document.getElementById("DIVSHARE").style.display="block";
+  return false;
+}
+function updateShareLinks() {
+  var shortlink = "http://archive.is/C0MF6";
+  var re = new RegExp(shortlink.replace(".", "\.") + "(#selection-[0-9.-]+)?");
+  var adr = document.location.hash.match(/(selection-\d+\.\d+-\d+\.\d+)/);
+  document.getElementById("SHARE_SHORTLINK").value = document.getElementById("SHARE_SHORTLINK").value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_MARKDOWN" ).value = document.getElementById("SHARE_MARKDOWN" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_HTMLCODE" ).value = document.getElementById("SHARE_HTMLCODE" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_WIKICODE" ).value = document.getElementById("SHARE_WIKICODE" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+}
+function findXY(obj) {
+  var cur = {x:0, y:0};
+  while (obj && obj.offsetParent) {
+    cur.x += obj.offsetLeft; // todo: + webkit-transform
+    cur.y += obj.offsetTop; // todo: + webkit-transform
+    obj = obj.offsetParent;
+  }
+  return cur;
+}
+function findXY2(obj, textpos) { // it could reset selection
+  if (obj.nodeType==3) {
+    var parent = obj.parentNode;
+    var text = document.createTextNode(obj.data.substr(0, textpos));
+    var artificial = document.createElement("SPAN");
+    artificial.appendChild(document.createTextNode(obj.data.substr(textpos)));
+    parent.insertBefore(text, obj);
+    parent.replaceChild(artificial, obj);
+    var y = findXY(artificial);
+    parent.removeChild(text);
+    parent.replaceChild(obj, artificial);
+    return y;
+  } else {
+    return findXY(obj);
+  }
+}
+var prevhash = "";
+function scrollToHash() {
+  if (document.location.hash.replace(/^#/, "")==prevhash.replace(/^#/, ""))
+    return;
+  prevhash = document.location.hash;
+  if (document.location.hash.match(/#[0-9.]+%/)) {
+    var p = parseFloat(document.location.hash.substring(1));
+    if (0 < p && p < 100 /*&& p%5 != 0*/) {
+      var content = document.getElementById("CONTENT")
+      var y = findXY(content).y + (content.offsetHeight)*p/100;
+      window.scrollTo(0, y-16);
+    }
+  }
+
+  var adr = document.location.hash.match(/selection-(\d+)\.(\d+)-(\d+)\.(\d+)/);
+  if (adr) {
+    var pos=0,begin=null,end=null;
+    function recur(e) {
+      if (e.nodeType==1) pos = (pos&~1)+2;
+      if (e.nodeType==3) pos = pos|1;
+      if (pos==adr[1]) begin=[e, adr[2]];
+      if (pos==adr[3]) end  =[e, adr[4]];
+      for (var i=0; i<e.childNodes.length; i++)
+        recur(e.childNodes[i]);
+      if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+        pos = (pos&~1)+2;
+    }
+    var content = document.getElementById("CONTENT");
+    recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+    if (begin!=null && end!=null) {
+      window.scrollTo(0, findXY2(begin[0], begin[1]).y-8);
+
+      if (window.getSelection) {
+        var sel = window.getSelection();
+        sel.removeAllRanges();
+        var range = document.createRange();
+        range.setStart(begin[0], begin[1]);
+        range.setEnd  (  end[0],   end[1]);
+        sel.addRange(range);
+      } else if (document.selection) { // IE
+      }
+    }
+  }
+}
+window.onhashchange = scrollToHash;
+var initScrollToHashDone = false;
+function initScrollToHash() {
+  if (!initScrollToHashDone) {
+    initScrollToHashDone = true;
+    scrollToHash();
+  }
+}
+window.onload = initScrollToHash;
+setTimeout(initScrollToHash, 500); /* onload can be delayed by counter code */
+
+//document.onselectionchange = /* only webkit has working document.onselectionchange */
+document.onmousedown = document.onmouseup = function(e) {
+  var SHARER = document.getElementById("SHARER");
+  var newhash = "";
+  if (window.getSelection) {
+    var sel=window.getSelection();
+    if (!sel.isCollapsed) {
+      var pos=0,begin=[0,0],end=[0,0];
+      var range=sel.getRangeAt(0);
+      function recur(e) {
+        if (e.nodeType==1) pos = (pos&~1)+2;
+        if (e.nodeType==3) pos = pos|1;
+        if (range.startContainer===e) begin=[pos, range.startOffset];
+        if (range.endContainer  ===e) end  =[pos, range.endOffset  ];
+        for (var i=0; i<e.childNodes.length; i++)
+          recur(e.childNodes[i]);
+        if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+          pos = (pos&~1)+2;
+      }
+
+      var content = document.getElementById("CONTENT");
+      recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+      if (begin[0]>0 && end[0]>0) {
+        newhash = "selection-"+begin[0]+"."+begin[1]+"-"+end[0]+"."+end[1];
+      }
+    }
+  } else if (document.selection) { // IE
+  }
+
+  try {
+    var oldhash = location.hash.replace(/^#/, "");
+    if (oldhash != newhash) {
+      prevhash = newhash; /* avoid firing window.onhashchange and scrolling */
+      if (history.replaceState) {
+        history.replaceState('', document.title, newhash.length>0 ? '#'+newhash : window.location.pathname);
+      } else {
+        if (newhash.length>0) location.hash = newhash;
+      }
+    }
+  } catch(e) {
+  }
+
+  if (newhash == "") {
+    SHARER.style.display="none";
+  }
+};
+
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: ""+63*44843, type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+document.cookie="_ga=GA1.2.661111166."+Math.floor((new Date()).getTime()/1000)+";expires="+(new Date((new Date()).getTime()+2*60*60*1000)).toUTCString()+";path=/";
+
+
+

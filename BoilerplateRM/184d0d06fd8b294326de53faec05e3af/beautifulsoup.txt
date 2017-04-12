@@ -1,0 +1,5449 @@
+Russian Ambassador to Turkey Is Assassinated in Ankara - The New York Times@font-face {
+font-family:nyt-stymie;
+src: url('https://archive.is/wKOBW/6ca21ad956d5ec1cadb3e8bf3e50c01abdee3408.woff') format('woff');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:nyt-stymie;
+src: url('https://archive.is/wKOBW/67cc5eb0de4d57940bc03bab47a1ec38be3f2b1c.woff') format('woff');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-cheltenham;
+src: url('https://archive.is/wKOBW/bb24e4da38f01b706e4e881dca1244cbbe8f4aa1.woff') format('woff');
+font-style:normal;
+font-weight:200;
+}
+@font-face {
+font-family:nyt-cheltenham;
+src: url('https://archive.is/wKOBW/e3bf59e5db3e4642246a0dcc97f332d8e6284bce.woff') format('woff');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:nyt-cheltenham;
+src: url('https://archive.is/wKOBW/3261ab821c2c7f0785b0344d2a75820a3d4706bc.woff') format('woff');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:nyt-cheltenham;
+src: url('https://archive.is/wKOBW/b66969f8dabdaf710ab70cb26407606886997feb.woff') format('woff');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:nyt-cheltenham;
+src: url('https://archive.is/wKOBW/b3c434dc58b782da607125c60ff9be3548841016.woff') format('woff');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:nyt-cheltenham;
+src: url('https://archive.is/wKOBW/dd4f75ad001edd381cb5c9d06b647c132f76bcba.woff') format('woff');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-cheltenham;
+src: url('https://archive.is/wKOBW/bcd0f45e0b7becd255c2b6c82fb8a40385798225.woff') format('woff');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-cheltenham-sh;
+src: url('https://archive.is/wKOBW/43d30a2a32fa9ef63b7cca63af389d1988ee9745.woff') format('woff');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:nyt-cheltenham-sh;
+src: url('https://archive.is/wKOBW/bae2243854c037de404db57b2c5d50ec5b2d5f69.woff') format('woff');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:nyt-cheltenham-sh;
+src: url('https://archive.is/wKOBW/168f0245f1259bf7f353a486f9a6bd88d10660cb.woff') format('woff');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-cheltenham-extra-cn-bd;
+src: url('https://archive.is/wKOBW/611c78b4377f6e79937bb2f83b45b446a7a816e2.woff') format('woff');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-mag-serif-headline;
+src: url('https://archive.is/wKOBW/14e1024791f18807e9638ed1a6ce1765c36d4af9.woff') format('woff');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-karnak-display-130124;
+src: url('https://archive.is/wKOBW/8d595bd29ead64eedc28e228cd8f8626b1e0815b.woff') format('woff');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:nyt-mag-sans;
+src: url('https://archive.is/wKOBW/6b02c0255795f1ff340c84297b201bfb1543a9c7.woff') format('woff');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:nyt-mag-sans;
+src: url('https://archive.is/wKOBW/303e1413a33087a7f12c68e86e4c26e098c90032.woff') format('woff');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-franklin;
+src: url('https://archive.is/wKOBW/b32c022c3d1ba9b00089e41b7bdbb89f9ea10632.woff') format('woff');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:nyt-franklin;
+src: url('https://archive.is/wKOBW/0f3cbde8105aff7f416b37beb2a2f99bbe4e7a17.woff') format('woff');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:nyt-franklin;
+src: url('https://archive.is/wKOBW/536da8db4ebb1ad1d166d5288ff94d58cd4563c5.woff') format('woff');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:nyt-franklin;
+src: url('https://archive.is/wKOBW/859531e095af6f45f2ff3a39820ed76d17b192c3.woff') format('woff');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:nyt-franklin;
+src: url('https://archive.is/wKOBW/83f1faec1f42cb3d5ff0cc72224111357213f287.woff') format('woff');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-franklin;
+src: url('https://archive.is/wKOBW/c5bbe4a952c5fa233fb9056c9053bae70283aa13.woff') format('woff');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-mag-slab;
+src: url('https://archive.is/wKOBW/b5f052817cc9379dfc881453ac88709cba9a7961.woff') format('woff');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:nyt-tmag-serif;
+src: url('https://archive.is/wKOBW/188723907dcdf3f640f25aede52e2204398af2bb.woff') format('woff');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:cheltenham-italic-200;
+src: url('https://archive.is/wKOBW/820350aa9a7839bb1b03da29c2252f7d9d9f843b.woff') format('woff'), url('https://archive.is/wKOBW/0da814455d064ffc621d44ccba9f9771531e3b69.ttf') format('truetype');
+font-style:italic;
+font-weight:200;
+}
+@font-face {
+font-family:cheltenham-italic-300;
+src: url('https://archive.is/wKOBW/bd6b00dcd28904de8e6089379f2387c09a674ea0.woff') format('woff'), url('https://archive.is/wKOBW/f01eb22627ed15f04be7536ac4f0f6b137974e66.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-italic-400;
+src: url('https://archive.is/wKOBW/6bb5a1746cbf40e78aba59eee35c1852a184edc4.woff') format('woff'), url('https://archive.is/wKOBW/db7bdf6fb7dde92dcbd85d573653bd61c058c04e.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-italic-500;
+src: url('https://archive.is/wKOBW/fcce0db1cffd2ec3e931639f05a32c917aea6d06.woff') format('woff'), url('https://archive.is/wKOBW/169eb5c43a9b5786b3ff77a3b80cde44c54253a8.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-italic-700;
+src: url('https://archive.is/wKOBW/56eb450a420bde76a34d63ad4e8c23ca14cf1f3d.woff') format('woff'), url('https://archive.is/wKOBW/d9290b0312452a9321c20b2849d18cf7064f3857.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-italic-800;
+src: url('https://archive.is/wKOBW/9a5e8ea0d3dc6c8eeb6148a4c84d9d14b3428122.woff') format('woff'), url('https://archive.is/wKOBW/a720a6236d4205dd3198ad75681c66f80ae7e761.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham-normal-200;
+src: url('https://archive.is/wKOBW/e022209d6c6e0c175922eeec213d43e783eddc95.woff') format('woff'), url('https://archive.is/wKOBW/8efdd983bc1acb27afb03545c2e9eff6fb95bed5.ttf') format('truetype');
+font-style:normal;
+font-weight:200;
+}
+@font-face {
+font-family:cheltenham-normal-300;
+src: url('https://archive.is/wKOBW/4063c68d5f5f5e20e33c821db1c9c1afe8eef2e9.woff') format('woff'), url('https://archive.is/wKOBW/76da5f8e202a370efc746c3fbf48063c7ce962ec.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-normal-400;
+src: url('https://archive.is/wKOBW/dc75659364b37f2b5fdad89999471a9536fc283c.woff') format('woff'), url('https://archive.is/wKOBW/7168c049d7559fd7b018acca851d3e846670829a.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-normal-500;
+src: url('https://archive.is/wKOBW/8548d9e76c3e2cb9476b1a70c3e4fbeaeef49e99.woff') format('woff'), url('https://archive.is/wKOBW/f7d7b64156c5f183a7bf17213a1610c5768c4be1.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-normal-700;
+src: url('https://archive.is/wKOBW/7b7a2dc928ff7f6114597d4f69618074cee04f1f.woff') format('woff'), url('https://archive.is/wKOBW/3aff41fb2df785a44a1de60bfaa5d3a2fb6e66b1.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-normal-800;
+src: url('https://archive.is/wKOBW/a16ff1426d963c4d544bc9ada7d4fb36f1d2f165.woff') format('woff'), url('https://archive.is/wKOBW/4f07a25387ddcd3d6be78ad78769100d8a8a93e5.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham-cond-normal-300;
+src: url('https://archive.is/wKOBW/d4e6b663ac57597957b200f2090cb5c2a8844c82.woff') format('woff'), url('https://archive.is/wKOBW/9b83e0941ccc77d1096fb935914bb61a79774c16.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-cond-normal-500;
+src: url('https://archive.is/wKOBW/48fee4ba962bfdd34f8b41560f18844528b41748.woff') format('woff'), url('https://archive.is/wKOBW/d37b7e748b0cada39ee5c565c721a46885f3b571.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-cond-normal-700;
+src: url('https://archive.is/wKOBW/7306bfa5f52cfd8f1ca531f7a0b53288e073fc77.woff') format('woff'), url('https://archive.is/wKOBW/4f9165c942e4378da0a5a2fbd639d54cfab93fa6.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-scaps-normal-300;
+src: url('https://archive.is/wKOBW/d1b14f378fee5431f4fb29c84eec8ac9332462d1.woff') format('woff'), url('https://archive.is/wKOBW/e8cd7d57923cf72d75880864404875f5cab29582.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-small-italic-400;
+src: url('https://archive.is/wKOBW/06188d2f02182d60412b49b80e20408134d42f0f.woff') format('woff'), url('https://archive.is/wKOBW/cf69ec3059b528210a910cb321cbfb851e2e50b9.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-small-italic-700;
+src: url('https://archive.is/wKOBW/7af13f0721e09649380ad7a1189261d98a975459.woff') format('woff'), url('https://archive.is/wKOBW/40aab46a5eed27fe76222aa5f8152cfc2d9b5c8b.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-small-normal-400;
+src: url('https://archive.is/wKOBW/6cbb456c341497d353b12864772ce61839597ba5.woff') format('woff'), url('https://archive.is/wKOBW/3a3e3f801e11ba6e3d439927b6c85d76b4fc4d3a.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-small-normal-700;
+src: url('https://archive.is/wKOBW/2e461a3ed1a63d2733d6fdd68aaad77b9bc2733f.woff') format('woff'), url('https://archive.is/wKOBW/a81cd99d10dcde54d7cd8bc5d50826bccd61ba05.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-wide-italic-400;
+src: url('https://archive.is/wKOBW/0cf3aab95584fdfa0120c9a032f62cd623dc2ab3.woff') format('woff'), url('https://archive.is/wKOBW/cdf89df3646bbd559c92f2ef7c26a4845ff2c945.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-wide-normal-400;
+src: url('https://archive.is/wKOBW/7a5d5d000a78de044473af1e07d7096810473a64.woff') format('woff'), url('https://archive.is/wKOBW/de0257720ba1555c217589166e2252b69bcb8658.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-xcond-normal-700;
+src: url('https://archive.is/wKOBW/6eb497d5e73ca2e2f288d0d3398a54109b9b5a01.woff') format('woff'), url('https://archive.is/wKOBW/8d71ea40eacd80745b6e34fd3dc522b13bcc55a9.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:franklin-italic-300;
+src: url('https://archive.is/wKOBW/7daf00f73c5eb10200f5cfab0fd63e3bc03f02f8.woff') format('woff'), url('https://archive.is/wKOBW/06f1acc20fbc3514194eb201b13e4ef5dab4462d.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:franklin-italic-500;
+src: url('https://archive.is/wKOBW/2be7309f66b8016df0fd2bbdcb07680d5a2f65fe.woff') format('woff'), url('https://archive.is/wKOBW/8690622dff8cec3c44466294b7f03b8eab391706.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-italic-600;
+src: url('https://archive.is/wKOBW/6f08086cc4c814360b1e22ee12aafbcdc384f3f7.woff') format('woff'), url('https://archive.is/wKOBW/8795a28b0573f57131e8bb6742f55ad0417b6b42.ttf') format('truetype');
+font-style:italic;
+font-weight:600;
+}
+@font-face {
+font-family:franklin-italic-700;
+src: url('https://archive.is/wKOBW/c59503ed80a1c3b33747054ee5d6b9aff1b0b28b.woff') format('woff'), url('https://archive.is/wKOBW/32e942c4658e5fca65e328d540017e5771bd64b1.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:franklin-italic-800;
+src: url('https://archive.is/wKOBW/eefb3185f581aad1049cfa1517e57bbefad788d9.woff') format('woff'), url('https://archive.is/wKOBW/e5c28d43d33622d74f3ccc13c934016ec3915ab7.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:franklin-italic-900;
+src: url('https://archive.is/wKOBW/87b7c365026e042a261eab37c7a98f804b8dab9b.woff') format('woff'), url('https://archive.is/wKOBW/7fc302827dc968e35016a1b0d0990bbf941017b2.ttf') format('truetype');
+font-style:italic;
+font-weight:900;
+}
+@font-face {
+font-family:franklin-normal-300;
+src: url('https://archive.is/wKOBW/5e9ed0f30beaa12e2dae7f186d2455f7090d4df4.woff') format('woff'), url('https://archive.is/wKOBW/a476471c7f4044623b65a4fa10bc47d0cb7d7ff0.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:franklin-normal-500;
+src: url('https://archive.is/wKOBW/de1f24f522d1c344c0bb0b28e035f2b503f49b63.woff') format('woff'), url('https://archive.is/wKOBW/d6a9e142e6fe47d757a89a80ba22f186ca129c81.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-normal-600;
+src: url('https://archive.is/wKOBW/6ffcb9d337107109cd58ec0931486d59652d9834.woff') format('woff'), url('https://archive.is/wKOBW/ae58abe3238c9f08d8a0c290b613a11e73c4aa62.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:franklin-normal-700;
+src: url('https://archive.is/wKOBW/333d92ff1dbc1f53143990d34c0207e15e54013d.woff') format('woff'), url('https://archive.is/wKOBW/8d8ca50548321bf8602439a22635da8df9fff84d.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:franklin-normal-800;
+src: url('https://archive.is/wKOBW/3cc2098d527394d16e2440ca2a2eaec1db62ee6a.woff') format('woff'), url('https://archive.is/wKOBW/e016c9e55755344c3bcb957d919cbef111d2eab5.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:franklin-normal-900;
+src: url('https://archive.is/wKOBW/c62636e22b6ffa728078ac96d8783ee452ef8af5.woff') format('woff'), url('https://archive.is/wKOBW/7d9a026f277e1349e907547994115f16f7b82146.ttf') format('truetype');
+font-style:normal;
+font-weight:900;
+}
+@font-face {
+font-family:franklin-cword-normal-500;
+src: url('https://archive.is/wKOBW/8d1f150371b15451ee199236c51100f77fe04361.woff') format('woff'), url('https://archive.is/wKOBW/18d26a89177f3c616274a9e4f59fa5ebe46632eb.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-small-normal-500;
+src: url('https://archive.is/wKOBW/b62faa135395ead57ad317398b73554d330f6f73.woff') format('woff'), url('https://archive.is/wKOBW/ff6d04abe0061be33d37910db556c7ca720dec99.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-small-normal-700;
+src: url('https://archive.is/wKOBW/73d064af9b637e030a3e0fb4bf8a37c196b17e51.woff') format('woff'), url('https://archive.is/wKOBW/73d4f41ea9502f2bd4daac0d812b93202ce7ad8e.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:graphik-normal-300;
+src: url('https://archive.is/wKOBW/e8e3caf048d3fcb287341af21508146fbeee3606.woff') format('woff'), url('https://archive.is/wKOBW/66093c5e0699b16cf6b11d6c6f1bd81cc3f14a44.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:graphik-normal-400;
+src: url('https://archive.is/wKOBW/bcd0f99759294ddf29eebec43eafd9789a14ad4e.woff') format('woff'), url('https://archive.is/wKOBW/68d6508e9e1ad768d04310e19bc657d82da865f1.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:graphik-normal-500;
+src: url('https://archive.is/wKOBW/d58435403a3dac80e55a50bc736a5048504e4d4c.woff') format('woff'), url('https://archive.is/wKOBW/9715e292e8e45eb6816ca5af41704a7dd7293bd8.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:graphik-normal-600;
+src: url('https://archive.is/wKOBW/67a1e22c36757f390a0d06d81b13aaeef0090773.woff') format('woff'), url('https://archive.is/wKOBW/593b1f00bd536b424b0b19de3d696cdffc6c8b2f.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:graphik-normal-700;
+src: url('https://archive.is/wKOBW/43b6862cbb52f5f29f860dd8df0c57560cffd102.woff') format('woff'), url('https://archive.is/wKOBW/e3a4b4f4c9a8acdf0d83a6f87d9e27c162f2b4f7.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:graphik-cond-normal-400;
+src: url('https://archive.is/wKOBW/13ccc3aaa5519bcb82e6c05f0d0d2c66d8c1d973.woff') format('woff'), url('https://archive.is/wKOBW/3570dc818eea1a43862bc85b0bf822ddb202bbf5.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:graphik-xcond-normal-600;
+src: url('https://archive.is/wKOBW/4544e75c894a61aca2c115778cab8df0263eaef4.woff') format('woff'), url('https://archive.is/wKOBW/00b77b565d991759eaf153606ccd1ebc8fc5a058.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:imperial-italic-500;
+src: url('https://archive.is/wKOBW/ae4051ec39b6fd4104163066f5a8d1eeaff5bcff.woff') format('woff'), url('https://archive.is/wKOBW/88632b59cbf4fb85438893c639f430acfdc79a01.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:imperial-italic-600;
+src: url('https://archive.is/wKOBW/aad5d87b5ddd11f190e2a22270bf0c3134e5da4d.woff') format('woff'), url('https://archive.is/wKOBW/42794e2c8f693010e325e1bf507f4777f7f6a6a6.ttf') format('truetype');
+font-style:italic;
+font-weight:600;
+}
+@font-face {
+font-family:imperial-italic-700;
+src: url('https://archive.is/wKOBW/764e99a9c951749f9a990fd7e3cd8b818c1087e3.woff') format('woff'), url('https://archive.is/wKOBW/e169c0d902d9a9d14ca3d09b86ccc4224b7e7ece.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:imperial-normal-500;
+src: url('https://archive.is/wKOBW/2ccfcb8f5b371d4ef8099a8e893282f2d87d434d.woff') format('woff'), url('https://archive.is/wKOBW/116b3d1637d15c52f57b410a7175a2cea4a8f0f6.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:imperial-normal-600;
+src: url('https://archive.is/wKOBW/38bc60f76d9d023b82cda74fba6d87ec976742cc.woff') format('woff'), url('https://archive.is/wKOBW/174ddc61a25cb1a2ace7710496a5f6efa010c687.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:imperial-normal-700;
+src: url('https://archive.is/wKOBW/525c6783d6e7895847a9105ed9b7080a7d03ee3e.woff') format('woff'), url('https://archive.is/wKOBW/7ffd0b18f00010a26798edbcb89c84f9d86fdbbc.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:karnak-normal-400;
+src: url('https://archive.is/wKOBW/ccafd82bfa29d6a9bef7b849795bc6de246bde83.woff') format('woff'), url('https://archive.is/wKOBW/2808c5577d7df8dd0fcc4e2d164c2aa6f5241347.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:karnak-small-normal-400;
+src: url('https://archive.is/wKOBW/c6247c3aa5c8dcde96a54fd43d4cabe3384e5a4f.woff') format('woff'), url('https://archive.is/wKOBW/3ce6d2addb39e9b03712b4ef105f584404f2d0c7.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:magsans-normal-500;
+src: url('https://archive.is/wKOBW/e592de9a4d7af43c2a22d372bf1c014a33d81d63.woff') format('woff'), url('https://archive.is/wKOBW/59e314c616e94b9afc2e92c04df051c71d9a8fb2.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:magsans-normal-700;
+src: url('https://archive.is/wKOBW/eeb86033e6026fce347c1738a479f28f3275456a.woff') format('woff'), url('https://archive.is/wKOBW/68002382c5af903ecdb06494a7b38b591b4aef5a.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:magserif-normal-700;
+src: url('https://archive.is/wKOBW/85b347e13032ba548bdaa41184dcbf35136337f1.woff') format('woff'), url('https://archive.is/wKOBW/f6ae97986db773f7b1d67750c381555d08900c2d.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:magslab-normal-700;
+src: url('https://archive.is/wKOBW/16cfa70e0b56ef63cf5373eac1bfdab69268b2a0.woff') format('woff'), url('https://archive.is/wKOBW/03f163440e45c575a86e685ed00dd4aaf4536283.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:schnyder-s-normal-600;
+src: url('https://archive.is/wKOBW/217cb863705be1294211cd3883242d2b1abe5a85.woff') format('woff'), url('https://archive.is/wKOBW/8b90b66bf52099ecfc5e1df85d2d82d04618d015.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:schnyder-s-normal-700;
+src: url('https://archive.is/wKOBW/1552ad4420f29f69e59eb8f1669c7c718bfe8774.woff') format('woff'), url('https://archive.is/wKOBW/523e07d66570db22fb02da6c914ff92fd0e97be8.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:schnyder-scond-normal-300;
+src: url('https://archive.is/wKOBW/f61683ffb6be0c215e174a655f28d24713a857c6.woff') format('woff'), url('https://archive.is/wKOBW/2b85408c7666b5185fb6c851328afab0a222b3cc.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:schnyder-scond-normal-600;
+src: url('https://archive.is/wKOBW/daaf0b0ce336b1eaee1b244e49bee43b24ea8ba5.woff') format('woff'), url('https://archive.is/wKOBW/1998ed20a51b8e7bf0c38889ac99b83bc1dfa923.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:schnyder-scond-normal-700;
+src: url('https://archive.is/wKOBW/0cf44e9e86dd2e1de7ea7d471b246f2bbb65ac2f.woff') format('woff'), url('https://archive.is/wKOBW/62f06bfaa34a5ff72f2bf7826955b8e75a8de4ee.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:stymie-italic-300;
+src: url('https://archive.is/wKOBW/809ea1e3e2f8ca0817138d4b4d994a8e6adbf68f.woff') format('woff'), url('https://archive.is/wKOBW/f0ba608b0d3fc1485741478649c9527f659b5ee3.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:stymie-italic-500;
+src: url('https://archive.is/wKOBW/2e8b807c1e2e0ae03df3385f64c9ae3562505f1c.woff') format('woff'), url('https://archive.is/wKOBW/101e4903549dd525a171c640ee0c7cd78d453351.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:stymie-italic-700;
+src: url('https://archive.is/wKOBW/499e7817b6583a1477465a563c2d0748dc8d10ab.woff') format('woff'), url('https://archive.is/wKOBW/e4ea60fb884ee7a8f9ba712cd577c4baa0c6999a.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:stymie-italic-800;
+src: url('https://archive.is/wKOBW/1d94cddf0c1c96678baa2f2dc534947ada5a57a8.woff') format('woff'), url('https://archive.is/wKOBW/a630ad19e3eae84767d346e49d3518a5f4144f6e.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-normal-100;
+src: url('https://archive.is/wKOBW/f4fa87aab9a254eb3bb789028c5ace76f8f46e0c.woff') format('woff'), url('https://archive.is/wKOBW/0616eee45fe6d090bdef03a18e7597430b60f9fa.ttf') format('truetype');
+font-style:normal;
+font-weight:100;
+}
+@font-face {
+font-family:stymie-normal-200;
+src: url('https://archive.is/wKOBW/cf4f5c65155a2a9a0c16fa0654dc20917b07966b.woff') format('woff'), url('https://archive.is/wKOBW/5b04303d6eed5720363ba2841fe0ef34969e10e1.ttf') format('truetype');
+font-style:normal;
+font-weight:200;
+}
+@font-face {
+font-family:stymie-normal-300;
+src: url('https://archive.is/wKOBW/810d5de3cf96ba13f8c3f3195a92267b71b69a41.woff') format('woff'), url('https://archive.is/wKOBW/46afa6fdc015d8693b31c7524075508b29a0659b.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:stymie-normal-500;
+src: url('https://archive.is/wKOBW/262c4c43f6fee7dbd5c3fcea30ea310397d0b1bf.woff') format('woff'), url('https://archive.is/wKOBW/73fe985245862a1ca0cc2368929c66cf3ccc9e71.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:stymie-normal-700;
+src: url('https://archive.is/wKOBW/680dcd7e6b051891d21169c8b75143df22ce7480.woff') format('woff'), url('https://archive.is/wKOBW/39c6c0cece390a07f4528b8017c48f49ecb9e760.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:stymie-normal-800;
+src: url('https://archive.is/wKOBW/81e8f235677d87f99f0aba0515957e7143a93442.woff') format('woff'), url('https://archive.is/wKOBW/098ba3a128d44c71ead75354d9f678a0f63a3a9c.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-normal-900;
+src: url('https://archive.is/wKOBW/8ddf0c79956f8df5749c51fe64d5b5211fa91b89.woff') format('woff'), url('https://archive.is/wKOBW/ee0812b01b1181a6cbfe46cdc23a01252f794a57.ttf') format('truetype');
+font-style:normal;
+font-weight:900;
+}
+@font-face {
+font-family:stymie-small-italic-800;
+src: url('https://archive.is/wKOBW/29ce2d5fb6ae2ad9db76b21924ed97f20d6b62cc.woff') format('woff'), url('https://archive.is/wKOBW/2a24d34b2844b08496702317b5e0d71a547d7cae.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-small-normal-800;
+src: url('https://archive.is/wKOBW/04795fd29bb3e2eebce475bc7ca16c425e7e76f0.woff') format('woff'), url('https://archive.is/wKOBW/2a7650221f4515ebfdb8d523a54aaf88b2ded528.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham-italic-200;
+src: url('https://archive.is/wKOBW/820350aa9a7839bb1b03da29c2252f7d9d9f843b.woff') format('woff'), url('https://archive.is/wKOBW/0da814455d064ffc621d44ccba9f9771531e3b69.ttf') format('truetype');
+font-style:italic;
+font-weight:200;
+}
+@font-face {
+font-family:cheltenham-italic-300;
+src: url('https://archive.is/wKOBW/bd6b00dcd28904de8e6089379f2387c09a674ea0.woff') format('woff'), url('https://archive.is/wKOBW/f01eb22627ed15f04be7536ac4f0f6b137974e66.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-italic-400;
+src: url('https://archive.is/wKOBW/6bb5a1746cbf40e78aba59eee35c1852a184edc4.woff') format('woff'), url('https://archive.is/wKOBW/db7bdf6fb7dde92dcbd85d573653bd61c058c04e.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-italic-500;
+src: url('https://archive.is/wKOBW/fcce0db1cffd2ec3e931639f05a32c917aea6d06.woff') format('woff'), url('https://archive.is/wKOBW/169eb5c43a9b5786b3ff77a3b80cde44c54253a8.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-italic-700;
+src: url('https://archive.is/wKOBW/56eb450a420bde76a34d63ad4e8c23ca14cf1f3d.woff') format('woff'), url('https://archive.is/wKOBW/d9290b0312452a9321c20b2849d18cf7064f3857.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-italic-800;
+src: url('https://archive.is/wKOBW/9a5e8ea0d3dc6c8eeb6148a4c84d9d14b3428122.woff') format('woff'), url('https://archive.is/wKOBW/a720a6236d4205dd3198ad75681c66f80ae7e761.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham-normal-200;
+src: url('https://archive.is/wKOBW/e022209d6c6e0c175922eeec213d43e783eddc95.woff') format('woff'), url('https://archive.is/wKOBW/8efdd983bc1acb27afb03545c2e9eff6fb95bed5.ttf') format('truetype');
+font-style:normal;
+font-weight:200;
+}
+@font-face {
+font-family:cheltenham-normal-300;
+src: url('https://archive.is/wKOBW/4063c68d5f5f5e20e33c821db1c9c1afe8eef2e9.woff') format('woff'), url('https://archive.is/wKOBW/76da5f8e202a370efc746c3fbf48063c7ce962ec.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-normal-400;
+src: url('https://archive.is/wKOBW/dc75659364b37f2b5fdad89999471a9536fc283c.woff') format('woff'), url('https://archive.is/wKOBW/7168c049d7559fd7b018acca851d3e846670829a.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-normal-500;
+src: url('https://archive.is/wKOBW/8548d9e76c3e2cb9476b1a70c3e4fbeaeef49e99.woff') format('woff'), url('https://archive.is/wKOBW/f7d7b64156c5f183a7bf17213a1610c5768c4be1.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-normal-700;
+src: url('https://archive.is/wKOBW/7b7a2dc928ff7f6114597d4f69618074cee04f1f.woff') format('woff'), url('https://archive.is/wKOBW/3aff41fb2df785a44a1de60bfaa5d3a2fb6e66b1.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-normal-800;
+src: url('https://archive.is/wKOBW/a16ff1426d963c4d544bc9ada7d4fb36f1d2f165.woff') format('woff'), url('https://archive.is/wKOBW/4f07a25387ddcd3d6be78ad78769100d8a8a93e5.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham-cond-normal-300;
+src: url('https://archive.is/wKOBW/d4e6b663ac57597957b200f2090cb5c2a8844c82.woff') format('woff'), url('https://archive.is/wKOBW/9b83e0941ccc77d1096fb935914bb61a79774c16.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-cond-normal-500;
+src: url('https://archive.is/wKOBW/48fee4ba962bfdd34f8b41560f18844528b41748.woff') format('woff'), url('https://archive.is/wKOBW/d37b7e748b0cada39ee5c565c721a46885f3b571.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-cond-normal-700;
+src: url('https://archive.is/wKOBW/7306bfa5f52cfd8f1ca531f7a0b53288e073fc77.woff') format('woff'), url('https://archive.is/wKOBW/4f9165c942e4378da0a5a2fbd639d54cfab93fa6.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-scaps-normal-300;
+src: url('https://archive.is/wKOBW/d1b14f378fee5431f4fb29c84eec8ac9332462d1.woff') format('woff'), url('https://archive.is/wKOBW/e8cd7d57923cf72d75880864404875f5cab29582.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-small-italic-400;
+src: url('https://archive.is/wKOBW/06188d2f02182d60412b49b80e20408134d42f0f.woff') format('woff'), url('https://archive.is/wKOBW/cf69ec3059b528210a910cb321cbfb851e2e50b9.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-small-italic-700;
+src: url('https://archive.is/wKOBW/7af13f0721e09649380ad7a1189261d98a975459.woff') format('woff'), url('https://archive.is/wKOBW/40aab46a5eed27fe76222aa5f8152cfc2d9b5c8b.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-small-normal-400;
+src: url('https://archive.is/wKOBW/6cbb456c341497d353b12864772ce61839597ba5.woff') format('woff'), url('https://archive.is/wKOBW/3a3e3f801e11ba6e3d439927b6c85d76b4fc4d3a.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-small-normal-700;
+src: url('https://archive.is/wKOBW/2e461a3ed1a63d2733d6fdd68aaad77b9bc2733f.woff') format('woff'), url('https://archive.is/wKOBW/a81cd99d10dcde54d7cd8bc5d50826bccd61ba05.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-wide-italic-400;
+src: url('https://archive.is/wKOBW/0cf3aab95584fdfa0120c9a032f62cd623dc2ab3.woff') format('woff'), url('https://archive.is/wKOBW/cdf89df3646bbd559c92f2ef7c26a4845ff2c945.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-wide-normal-400;
+src: url('https://archive.is/wKOBW/7a5d5d000a78de044473af1e07d7096810473a64.woff') format('woff'), url('https://archive.is/wKOBW/de0257720ba1555c217589166e2252b69bcb8658.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-xcond-normal-700;
+src: url('https://archive.is/wKOBW/6eb497d5e73ca2e2f288d0d3398a54109b9b5a01.woff') format('woff'), url('https://archive.is/wKOBW/8d71ea40eacd80745b6e34fd3dc522b13bcc55a9.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:franklin-italic-300;
+src: url('https://archive.is/wKOBW/7daf00f73c5eb10200f5cfab0fd63e3bc03f02f8.woff') format('woff'), url('https://archive.is/wKOBW/06f1acc20fbc3514194eb201b13e4ef5dab4462d.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:franklin-italic-500;
+src: url('https://archive.is/wKOBW/2be7309f66b8016df0fd2bbdcb07680d5a2f65fe.woff') format('woff'), url('https://archive.is/wKOBW/8690622dff8cec3c44466294b7f03b8eab391706.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-italic-600;
+src: url('https://archive.is/wKOBW/6f08086cc4c814360b1e22ee12aafbcdc384f3f7.woff') format('woff'), url('https://archive.is/wKOBW/8795a28b0573f57131e8bb6742f55ad0417b6b42.ttf') format('truetype');
+font-style:italic;
+font-weight:600;
+}
+@font-face {
+font-family:franklin-italic-700;
+src: url('https://archive.is/wKOBW/c59503ed80a1c3b33747054ee5d6b9aff1b0b28b.woff') format('woff'), url('https://archive.is/wKOBW/32e942c4658e5fca65e328d540017e5771bd64b1.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:franklin-italic-800;
+src: url('https://archive.is/wKOBW/eefb3185f581aad1049cfa1517e57bbefad788d9.woff') format('woff'), url('https://archive.is/wKOBW/e5c28d43d33622d74f3ccc13c934016ec3915ab7.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:franklin-italic-900;
+src: url('https://archive.is/wKOBW/87b7c365026e042a261eab37c7a98f804b8dab9b.woff') format('woff'), url('https://archive.is/wKOBW/7fc302827dc968e35016a1b0d0990bbf941017b2.ttf') format('truetype');
+font-style:italic;
+font-weight:900;
+}
+@font-face {
+font-family:franklin-normal-300;
+src: url('https://archive.is/wKOBW/5e9ed0f30beaa12e2dae7f186d2455f7090d4df4.woff') format('woff'), url('https://archive.is/wKOBW/a476471c7f4044623b65a4fa10bc47d0cb7d7ff0.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:franklin-normal-500;
+src: url('https://archive.is/wKOBW/de1f24f522d1c344c0bb0b28e035f2b503f49b63.woff') format('woff'), url('https://archive.is/wKOBW/d6a9e142e6fe47d757a89a80ba22f186ca129c81.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-normal-600;
+src: url('https://archive.is/wKOBW/6ffcb9d337107109cd58ec0931486d59652d9834.woff') format('woff'), url('https://archive.is/wKOBW/ae58abe3238c9f08d8a0c290b613a11e73c4aa62.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:franklin-normal-700;
+src: url('https://archive.is/wKOBW/333d92ff1dbc1f53143990d34c0207e15e54013d.woff') format('woff'), url('https://archive.is/wKOBW/8d8ca50548321bf8602439a22635da8df9fff84d.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:franklin-normal-800;
+src: url('https://archive.is/wKOBW/3cc2098d527394d16e2440ca2a2eaec1db62ee6a.woff') format('woff'), url('https://archive.is/wKOBW/e016c9e55755344c3bcb957d919cbef111d2eab5.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:franklin-normal-900;
+src: url('https://archive.is/wKOBW/c62636e22b6ffa728078ac96d8783ee452ef8af5.woff') format('woff'), url('https://archive.is/wKOBW/7d9a026f277e1349e907547994115f16f7b82146.ttf') format('truetype');
+font-style:normal;
+font-weight:900;
+}
+@font-face {
+font-family:franklin-cword-normal-500;
+src: url('https://archive.is/wKOBW/8d1f150371b15451ee199236c51100f77fe04361.woff') format('woff'), url('https://archive.is/wKOBW/18d26a89177f3c616274a9e4f59fa5ebe46632eb.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-small-normal-500;
+src: url('https://archive.is/wKOBW/b62faa135395ead57ad317398b73554d330f6f73.woff') format('woff'), url('https://archive.is/wKOBW/ff6d04abe0061be33d37910db556c7ca720dec99.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-small-normal-700;
+src: url('https://archive.is/wKOBW/73d064af9b637e030a3e0fb4bf8a37c196b17e51.woff') format('woff'), url('https://archive.is/wKOBW/73d4f41ea9502f2bd4daac0d812b93202ce7ad8e.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:graphik-normal-300;
+src: url('https://archive.is/wKOBW/e8e3caf048d3fcb287341af21508146fbeee3606.woff') format('woff'), url('https://archive.is/wKOBW/66093c5e0699b16cf6b11d6c6f1bd81cc3f14a44.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:graphik-normal-400;
+src: url('https://archive.is/wKOBW/bcd0f99759294ddf29eebec43eafd9789a14ad4e.woff') format('woff'), url('https://archive.is/wKOBW/68d6508e9e1ad768d04310e19bc657d82da865f1.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:graphik-normal-500;
+src: url('https://archive.is/wKOBW/d58435403a3dac80e55a50bc736a5048504e4d4c.woff') format('woff'), url('https://archive.is/wKOBW/9715e292e8e45eb6816ca5af41704a7dd7293bd8.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:graphik-normal-600;
+src: url('https://archive.is/wKOBW/67a1e22c36757f390a0d06d81b13aaeef0090773.woff') format('woff'), url('https://archive.is/wKOBW/593b1f00bd536b424b0b19de3d696cdffc6c8b2f.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:graphik-normal-700;
+src: url('https://archive.is/wKOBW/43b6862cbb52f5f29f860dd8df0c57560cffd102.woff') format('woff'), url('https://archive.is/wKOBW/e3a4b4f4c9a8acdf0d83a6f87d9e27c162f2b4f7.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:graphik-cond-normal-400;
+src: url('https://archive.is/wKOBW/13ccc3aaa5519bcb82e6c05f0d0d2c66d8c1d973.woff') format('woff'), url('https://archive.is/wKOBW/3570dc818eea1a43862bc85b0bf822ddb202bbf5.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:graphik-xcond-normal-600;
+src: url('https://archive.is/wKOBW/4544e75c894a61aca2c115778cab8df0263eaef4.woff') format('woff'), url('https://archive.is/wKOBW/00b77b565d991759eaf153606ccd1ebc8fc5a058.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:imperial-italic-500;
+src: url('https://archive.is/wKOBW/ae4051ec39b6fd4104163066f5a8d1eeaff5bcff.woff') format('woff'), url('https://archive.is/wKOBW/88632b59cbf4fb85438893c639f430acfdc79a01.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:imperial-italic-600;
+src: url('https://archive.is/wKOBW/aad5d87b5ddd11f190e2a22270bf0c3134e5da4d.woff') format('woff'), url('https://archive.is/wKOBW/42794e2c8f693010e325e1bf507f4777f7f6a6a6.ttf') format('truetype');
+font-style:italic;
+font-weight:600;
+}
+@font-face {
+font-family:imperial-italic-700;
+src: url('https://archive.is/wKOBW/764e99a9c951749f9a990fd7e3cd8b818c1087e3.woff') format('woff'), url('https://archive.is/wKOBW/e169c0d902d9a9d14ca3d09b86ccc4224b7e7ece.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:imperial-normal-500;
+src: url('https://archive.is/wKOBW/2ccfcb8f5b371d4ef8099a8e893282f2d87d434d.woff') format('woff'), url('https://archive.is/wKOBW/116b3d1637d15c52f57b410a7175a2cea4a8f0f6.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:imperial-normal-600;
+src: url('https://archive.is/wKOBW/38bc60f76d9d023b82cda74fba6d87ec976742cc.woff') format('woff'), url('https://archive.is/wKOBW/174ddc61a25cb1a2ace7710496a5f6efa010c687.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:imperial-normal-700;
+src: url('https://archive.is/wKOBW/525c6783d6e7895847a9105ed9b7080a7d03ee3e.woff') format('woff'), url('https://archive.is/wKOBW/7ffd0b18f00010a26798edbcb89c84f9d86fdbbc.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:karnak-normal-400;
+src: url('https://archive.is/wKOBW/ccafd82bfa29d6a9bef7b849795bc6de246bde83.woff') format('woff'), url('https://archive.is/wKOBW/2808c5577d7df8dd0fcc4e2d164c2aa6f5241347.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:karnak-small-normal-400;
+src: url('https://archive.is/wKOBW/c6247c3aa5c8dcde96a54fd43d4cabe3384e5a4f.woff') format('woff'), url('https://archive.is/wKOBW/3ce6d2addb39e9b03712b4ef105f584404f2d0c7.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:magsans-normal-500;
+src: url('https://archive.is/wKOBW/e592de9a4d7af43c2a22d372bf1c014a33d81d63.woff') format('woff'), url('https://archive.is/wKOBW/59e314c616e94b9afc2e92c04df051c71d9a8fb2.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:magsans-normal-700;
+src: url('https://archive.is/wKOBW/eeb86033e6026fce347c1738a479f28f3275456a.woff') format('woff'), url('https://archive.is/wKOBW/68002382c5af903ecdb06494a7b38b591b4aef5a.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:magserif-normal-700;
+src: url('https://archive.is/wKOBW/85b347e13032ba548bdaa41184dcbf35136337f1.woff') format('woff'), url('https://archive.is/wKOBW/f6ae97986db773f7b1d67750c381555d08900c2d.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:magslab-normal-700;
+src: url('https://archive.is/wKOBW/16cfa70e0b56ef63cf5373eac1bfdab69268b2a0.woff') format('woff'), url('https://archive.is/wKOBW/03f163440e45c575a86e685ed00dd4aaf4536283.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:schnyder-s-normal-600;
+src: url('https://archive.is/wKOBW/217cb863705be1294211cd3883242d2b1abe5a85.woff') format('woff'), url('https://archive.is/wKOBW/8b90b66bf52099ecfc5e1df85d2d82d04618d015.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:schnyder-s-normal-700;
+src: url('https://archive.is/wKOBW/1552ad4420f29f69e59eb8f1669c7c718bfe8774.woff') format('woff'), url('https://archive.is/wKOBW/523e07d66570db22fb02da6c914ff92fd0e97be8.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:schnyder-scond-normal-300;
+src: url('https://archive.is/wKOBW/f61683ffb6be0c215e174a655f28d24713a857c6.woff') format('woff'), url('https://archive.is/wKOBW/2b85408c7666b5185fb6c851328afab0a222b3cc.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:schnyder-scond-normal-600;
+src: url('https://archive.is/wKOBW/daaf0b0ce336b1eaee1b244e49bee43b24ea8ba5.woff') format('woff'), url('https://archive.is/wKOBW/1998ed20a51b8e7bf0c38889ac99b83bc1dfa923.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:schnyder-scond-normal-700;
+src: url('https://archive.is/wKOBW/0cf44e9e86dd2e1de7ea7d471b246f2bbb65ac2f.woff') format('woff'), url('https://archive.is/wKOBW/62f06bfaa34a5ff72f2bf7826955b8e75a8de4ee.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:stymie-italic-300;
+src: url('https://archive.is/wKOBW/809ea1e3e2f8ca0817138d4b4d994a8e6adbf68f.woff') format('woff'), url('https://archive.is/wKOBW/f0ba608b0d3fc1485741478649c9527f659b5ee3.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:stymie-italic-500;
+src: url('https://archive.is/wKOBW/2e8b807c1e2e0ae03df3385f64c9ae3562505f1c.woff') format('woff'), url('https://archive.is/wKOBW/101e4903549dd525a171c640ee0c7cd78d453351.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:stymie-italic-700;
+src: url('https://archive.is/wKOBW/499e7817b6583a1477465a563c2d0748dc8d10ab.woff') format('woff'), url('https://archive.is/wKOBW/e4ea60fb884ee7a8f9ba712cd577c4baa0c6999a.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:stymie-italic-800;
+src: url('https://archive.is/wKOBW/1d94cddf0c1c96678baa2f2dc534947ada5a57a8.woff') format('woff'), url('https://archive.is/wKOBW/a630ad19e3eae84767d346e49d3518a5f4144f6e.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-normal-100;
+src: url('https://archive.is/wKOBW/f4fa87aab9a254eb3bb789028c5ace76f8f46e0c.woff') format('woff'), url('https://archive.is/wKOBW/0616eee45fe6d090bdef03a18e7597430b60f9fa.ttf') format('truetype');
+font-style:normal;
+font-weight:100;
+}
+@font-face {
+font-family:stymie-normal-200;
+src: url('https://archive.is/wKOBW/cf4f5c65155a2a9a0c16fa0654dc20917b07966b.woff') format('woff'), url('https://archive.is/wKOBW/5b04303d6eed5720363ba2841fe0ef34969e10e1.ttf') format('truetype');
+font-style:normal;
+font-weight:200;
+}
+@font-face {
+font-family:stymie-normal-300;
+src: url('https://archive.is/wKOBW/810d5de3cf96ba13f8c3f3195a92267b71b69a41.woff') format('woff'), url('https://archive.is/wKOBW/46afa6fdc015d8693b31c7524075508b29a0659b.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:stymie-normal-500;
+src: url('https://archive.is/wKOBW/262c4c43f6fee7dbd5c3fcea30ea310397d0b1bf.woff') format('woff'), url('https://archive.is/wKOBW/73fe985245862a1ca0cc2368929c66cf3ccc9e71.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:stymie-normal-700;
+src: url('https://archive.is/wKOBW/680dcd7e6b051891d21169c8b75143df22ce7480.woff') format('woff'), url('https://archive.is/wKOBW/39c6c0cece390a07f4528b8017c48f49ecb9e760.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:stymie-normal-800;
+src: url('https://archive.is/wKOBW/81e8f235677d87f99f0aba0515957e7143a93442.woff') format('woff'), url('https://archive.is/wKOBW/098ba3a128d44c71ead75354d9f678a0f63a3a9c.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-normal-900;
+src: url('https://archive.is/wKOBW/8ddf0c79956f8df5749c51fe64d5b5211fa91b89.woff') format('woff'), url('https://archive.is/wKOBW/ee0812b01b1181a6cbfe46cdc23a01252f794a57.ttf') format('truetype');
+font-style:normal;
+font-weight:900;
+}
+@font-face {
+font-family:stymie-small-italic-800;
+src: url('https://archive.is/wKOBW/29ce2d5fb6ae2ad9db76b21924ed97f20d6b62cc.woff') format('woff'), url('https://archive.is/wKOBW/2a24d34b2844b08496702317b5e0d71a547d7cae.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-small-normal-800;
+src: url('https://archive.is/wKOBW/04795fd29bb3e2eebce475bc7ca16c425e7e76f0.woff') format('woff'), url('https://archive.is/wKOBW/2a7650221f4515ebfdb8d523a54aaf88b2ded528.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:vhs;
+src: url('https://archive.is/wKOBW/a6bfc0b4ea4daff890f579d89b0f062ede01587f') format('embedded-opentype'), url('https://archive.is/wKOBW/e1abf36596c85e10a02fb1025bb54b1441d7446d') format('woff'), url('https://archive.is/wKOBW/2473e95356de836421b055dc34d10997f854b827') format('truetype'), url('https://archive.is/wKOBW/827a46d922c964b6fdf53b8c1d41c3ecddf0c60e.svg') format('svg');
+font-weight:400;
+font-style:normal;
+}
+@font-face {
+font-family:ProximaNova;
+src: url('https://archive.is/wKOBW/28d04eb938c05b5158a69a709682d4f0517a59ab.otf');
+}
+@font-face {
+font-family:cheltenham-italic-200;
+src: url('https://archive.is/wKOBW/820350aa9a7839bb1b03da29c2252f7d9d9f843b.woff') format('woff'), url('https://archive.is/wKOBW/0da814455d064ffc621d44ccba9f9771531e3b69.ttf') format('truetype');
+font-style:italic;
+font-weight:200;
+}
+@font-face {
+font-family:cheltenham-italic-300;
+src: url('https://archive.is/wKOBW/bd6b00dcd28904de8e6089379f2387c09a674ea0.woff') format('woff'), url('https://archive.is/wKOBW/f01eb22627ed15f04be7536ac4f0f6b137974e66.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-italic-400;
+src: url('https://archive.is/wKOBW/6bb5a1746cbf40e78aba59eee35c1852a184edc4.woff') format('woff'), url('https://archive.is/wKOBW/db7bdf6fb7dde92dcbd85d573653bd61c058c04e.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-italic-500;
+src: url('https://archive.is/wKOBW/fcce0db1cffd2ec3e931639f05a32c917aea6d06.woff') format('woff'), url('https://archive.is/wKOBW/169eb5c43a9b5786b3ff77a3b80cde44c54253a8.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-italic-700;
+src: url('https://archive.is/wKOBW/56eb450a420bde76a34d63ad4e8c23ca14cf1f3d.woff') format('woff'), url('https://archive.is/wKOBW/d9290b0312452a9321c20b2849d18cf7064f3857.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-italic-800;
+src: url('https://archive.is/wKOBW/9a5e8ea0d3dc6c8eeb6148a4c84d9d14b3428122.woff') format('woff'), url('https://archive.is/wKOBW/a720a6236d4205dd3198ad75681c66f80ae7e761.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham-normal-200;
+src: url('https://archive.is/wKOBW/e022209d6c6e0c175922eeec213d43e783eddc95.woff') format('woff'), url('https://archive.is/wKOBW/8efdd983bc1acb27afb03545c2e9eff6fb95bed5.ttf') format('truetype');
+font-style:normal;
+font-weight:200;
+}
+@font-face {
+font-family:cheltenham-normal-300;
+src: url('https://archive.is/wKOBW/4063c68d5f5f5e20e33c821db1c9c1afe8eef2e9.woff') format('woff'), url('https://archive.is/wKOBW/76da5f8e202a370efc746c3fbf48063c7ce962ec.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-normal-400;
+src: url('https://archive.is/wKOBW/dc75659364b37f2b5fdad89999471a9536fc283c.woff') format('woff'), url('https://archive.is/wKOBW/7168c049d7559fd7b018acca851d3e846670829a.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-normal-500;
+src: url('https://archive.is/wKOBW/8548d9e76c3e2cb9476b1a70c3e4fbeaeef49e99.woff') format('woff'), url('https://archive.is/wKOBW/f7d7b64156c5f183a7bf17213a1610c5768c4be1.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-normal-700;
+src: url('https://archive.is/wKOBW/7b7a2dc928ff7f6114597d4f69618074cee04f1f.woff') format('woff'), url('https://archive.is/wKOBW/3aff41fb2df785a44a1de60bfaa5d3a2fb6e66b1.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-normal-800;
+src: url('https://archive.is/wKOBW/a16ff1426d963c4d544bc9ada7d4fb36f1d2f165.woff') format('woff'), url('https://archive.is/wKOBW/4f07a25387ddcd3d6be78ad78769100d8a8a93e5.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham-cond-normal-300;
+src: url('https://archive.is/wKOBW/d4e6b663ac57597957b200f2090cb5c2a8844c82.woff') format('woff'), url('https://archive.is/wKOBW/9b83e0941ccc77d1096fb935914bb61a79774c16.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-cond-normal-500;
+src: url('https://archive.is/wKOBW/48fee4ba962bfdd34f8b41560f18844528b41748.woff') format('woff'), url('https://archive.is/wKOBW/d37b7e748b0cada39ee5c565c721a46885f3b571.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-cond-normal-700;
+src: url('https://archive.is/wKOBW/7306bfa5f52cfd8f1ca531f7a0b53288e073fc77.woff') format('woff'), url('https://archive.is/wKOBW/4f9165c942e4378da0a5a2fbd639d54cfab93fa6.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-scaps-normal-300;
+src: url('https://archive.is/wKOBW/d1b14f378fee5431f4fb29c84eec8ac9332462d1.woff') format('woff'), url('https://archive.is/wKOBW/e8cd7d57923cf72d75880864404875f5cab29582.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-small-italic-400;
+src: url('https://archive.is/wKOBW/06188d2f02182d60412b49b80e20408134d42f0f.woff') format('woff'), url('https://archive.is/wKOBW/cf69ec3059b528210a910cb321cbfb851e2e50b9.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-small-italic-700;
+src: url('https://archive.is/wKOBW/7af13f0721e09649380ad7a1189261d98a975459.woff') format('woff'), url('https://archive.is/wKOBW/40aab46a5eed27fe76222aa5f8152cfc2d9b5c8b.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-small-normal-400;
+src: url('https://archive.is/wKOBW/6cbb456c341497d353b12864772ce61839597ba5.woff') format('woff'), url('https://archive.is/wKOBW/3a3e3f801e11ba6e3d439927b6c85d76b4fc4d3a.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-small-normal-700;
+src: url('https://archive.is/wKOBW/2e461a3ed1a63d2733d6fdd68aaad77b9bc2733f.woff') format('woff'), url('https://archive.is/wKOBW/a81cd99d10dcde54d7cd8bc5d50826bccd61ba05.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-wide-italic-400;
+src: url('https://archive.is/wKOBW/0cf3aab95584fdfa0120c9a032f62cd623dc2ab3.woff') format('woff'), url('https://archive.is/wKOBW/cdf89df3646bbd559c92f2ef7c26a4845ff2c945.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-wide-normal-400;
+src: url('https://archive.is/wKOBW/7a5d5d000a78de044473af1e07d7096810473a64.woff') format('woff'), url('https://archive.is/wKOBW/de0257720ba1555c217589166e2252b69bcb8658.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-xcond-normal-700;
+src: url('https://archive.is/wKOBW/6eb497d5e73ca2e2f288d0d3398a54109b9b5a01.woff') format('woff'), url('https://archive.is/wKOBW/8d71ea40eacd80745b6e34fd3dc522b13bcc55a9.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:franklin-italic-300;
+src: url('https://archive.is/wKOBW/7daf00f73c5eb10200f5cfab0fd63e3bc03f02f8.woff') format('woff'), url('https://archive.is/wKOBW/06f1acc20fbc3514194eb201b13e4ef5dab4462d.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:franklin-italic-500;
+src: url('https://archive.is/wKOBW/2be7309f66b8016df0fd2bbdcb07680d5a2f65fe.woff') format('woff'), url('https://archive.is/wKOBW/8690622dff8cec3c44466294b7f03b8eab391706.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-italic-600;
+src: url('https://archive.is/wKOBW/6f08086cc4c814360b1e22ee12aafbcdc384f3f7.woff') format('woff'), url('https://archive.is/wKOBW/8795a28b0573f57131e8bb6742f55ad0417b6b42.ttf') format('truetype');
+font-style:italic;
+font-weight:600;
+}
+@font-face {
+font-family:franklin-italic-700;
+src: url('https://archive.is/wKOBW/c59503ed80a1c3b33747054ee5d6b9aff1b0b28b.woff') format('woff'), url('https://archive.is/wKOBW/32e942c4658e5fca65e328d540017e5771bd64b1.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:franklin-italic-800;
+src: url('https://archive.is/wKOBW/eefb3185f581aad1049cfa1517e57bbefad788d9.woff') format('woff'), url('https://archive.is/wKOBW/e5c28d43d33622d74f3ccc13c934016ec3915ab7.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:franklin-italic-900;
+src: url('https://archive.is/wKOBW/87b7c365026e042a261eab37c7a98f804b8dab9b.woff') format('woff'), url('https://archive.is/wKOBW/7fc302827dc968e35016a1b0d0990bbf941017b2.ttf') format('truetype');
+font-style:italic;
+font-weight:900;
+}
+@font-face {
+font-family:franklin-normal-300;
+src: url('https://archive.is/wKOBW/5e9ed0f30beaa12e2dae7f186d2455f7090d4df4.woff') format('woff'), url('https://archive.is/wKOBW/a476471c7f4044623b65a4fa10bc47d0cb7d7ff0.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:franklin-normal-500;
+src: url('https://archive.is/wKOBW/de1f24f522d1c344c0bb0b28e035f2b503f49b63.woff') format('woff'), url('https://archive.is/wKOBW/d6a9e142e6fe47d757a89a80ba22f186ca129c81.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-normal-600;
+src: url('https://archive.is/wKOBW/6ffcb9d337107109cd58ec0931486d59652d9834.woff') format('woff'), url('https://archive.is/wKOBW/ae58abe3238c9f08d8a0c290b613a11e73c4aa62.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:franklin-normal-700;
+src: url('https://archive.is/wKOBW/333d92ff1dbc1f53143990d34c0207e15e54013d.woff') format('woff'), url('https://archive.is/wKOBW/8d8ca50548321bf8602439a22635da8df9fff84d.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:franklin-normal-800;
+src: url('https://archive.is/wKOBW/3cc2098d527394d16e2440ca2a2eaec1db62ee6a.woff') format('woff'), url('https://archive.is/wKOBW/e016c9e55755344c3bcb957d919cbef111d2eab5.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:franklin-normal-900;
+src: url('https://archive.is/wKOBW/c62636e22b6ffa728078ac96d8783ee452ef8af5.woff') format('woff'), url('https://archive.is/wKOBW/7d9a026f277e1349e907547994115f16f7b82146.ttf') format('truetype');
+font-style:normal;
+font-weight:900;
+}
+@font-face {
+font-family:franklin-cword-normal-500;
+src: url('https://archive.is/wKOBW/8d1f150371b15451ee199236c51100f77fe04361.woff') format('woff'), url('https://archive.is/wKOBW/18d26a89177f3c616274a9e4f59fa5ebe46632eb.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-small-normal-500;
+src: url('https://archive.is/wKOBW/b62faa135395ead57ad317398b73554d330f6f73.woff') format('woff'), url('https://archive.is/wKOBW/ff6d04abe0061be33d37910db556c7ca720dec99.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-small-normal-700;
+src: url('https://archive.is/wKOBW/73d064af9b637e030a3e0fb4bf8a37c196b17e51.woff') format('woff'), url('https://archive.is/wKOBW/73d4f41ea9502f2bd4daac0d812b93202ce7ad8e.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:graphik-normal-300;
+src: url('https://archive.is/wKOBW/e8e3caf048d3fcb287341af21508146fbeee3606.woff') format('woff'), url('https://archive.is/wKOBW/66093c5e0699b16cf6b11d6c6f1bd81cc3f14a44.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:graphik-normal-400;
+src: url('https://archive.is/wKOBW/bcd0f99759294ddf29eebec43eafd9789a14ad4e.woff') format('woff'), url('https://archive.is/wKOBW/68d6508e9e1ad768d04310e19bc657d82da865f1.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:graphik-normal-500;
+src: url('https://archive.is/wKOBW/d58435403a3dac80e55a50bc736a5048504e4d4c.woff') format('woff'), url('https://archive.is/wKOBW/9715e292e8e45eb6816ca5af41704a7dd7293bd8.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:graphik-normal-600;
+src: url('https://archive.is/wKOBW/67a1e22c36757f390a0d06d81b13aaeef0090773.woff') format('woff'), url('https://archive.is/wKOBW/593b1f00bd536b424b0b19de3d696cdffc6c8b2f.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:graphik-normal-700;
+src: url('https://archive.is/wKOBW/43b6862cbb52f5f29f860dd8df0c57560cffd102.woff') format('woff'), url('https://archive.is/wKOBW/e3a4b4f4c9a8acdf0d83a6f87d9e27c162f2b4f7.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:graphik-cond-normal-400;
+src: url('https://archive.is/wKOBW/13ccc3aaa5519bcb82e6c05f0d0d2c66d8c1d973.woff') format('woff'), url('https://archive.is/wKOBW/3570dc818eea1a43862bc85b0bf822ddb202bbf5.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:graphik-xcond-normal-600;
+src: url('https://archive.is/wKOBW/4544e75c894a61aca2c115778cab8df0263eaef4.woff') format('woff'), url('https://archive.is/wKOBW/00b77b565d991759eaf153606ccd1ebc8fc5a058.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:imperial-italic-500;
+src: url('https://archive.is/wKOBW/ae4051ec39b6fd4104163066f5a8d1eeaff5bcff.woff') format('woff'), url('https://archive.is/wKOBW/88632b59cbf4fb85438893c639f430acfdc79a01.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:imperial-italic-600;
+src: url('https://archive.is/wKOBW/aad5d87b5ddd11f190e2a22270bf0c3134e5da4d.woff') format('woff'), url('https://archive.is/wKOBW/42794e2c8f693010e325e1bf507f4777f7f6a6a6.ttf') format('truetype');
+font-style:italic;
+font-weight:600;
+}
+@font-face {
+font-family:imperial-italic-700;
+src: url('https://archive.is/wKOBW/764e99a9c951749f9a990fd7e3cd8b818c1087e3.woff') format('woff'), url('https://archive.is/wKOBW/e169c0d902d9a9d14ca3d09b86ccc4224b7e7ece.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:imperial-normal-500;
+src: url('https://archive.is/wKOBW/2ccfcb8f5b371d4ef8099a8e893282f2d87d434d.woff') format('woff'), url('https://archive.is/wKOBW/116b3d1637d15c52f57b410a7175a2cea4a8f0f6.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:imperial-normal-600;
+src: url('https://archive.is/wKOBW/38bc60f76d9d023b82cda74fba6d87ec976742cc.woff') format('woff'), url('https://archive.is/wKOBW/174ddc61a25cb1a2ace7710496a5f6efa010c687.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:imperial-normal-700;
+src: url('https://archive.is/wKOBW/525c6783d6e7895847a9105ed9b7080a7d03ee3e.woff') format('woff'), url('https://archive.is/wKOBW/7ffd0b18f00010a26798edbcb89c84f9d86fdbbc.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:karnak-normal-400;
+src: url('https://archive.is/wKOBW/ccafd82bfa29d6a9bef7b849795bc6de246bde83.woff') format('woff'), url('https://archive.is/wKOBW/2808c5577d7df8dd0fcc4e2d164c2aa6f5241347.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:karnak-small-normal-400;
+src: url('https://archive.is/wKOBW/c6247c3aa5c8dcde96a54fd43d4cabe3384e5a4f.woff') format('woff'), url('https://archive.is/wKOBW/3ce6d2addb39e9b03712b4ef105f584404f2d0c7.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:magsans-normal-500;
+src: url('https://archive.is/wKOBW/e592de9a4d7af43c2a22d372bf1c014a33d81d63.woff') format('woff'), url('https://archive.is/wKOBW/59e314c616e94b9afc2e92c04df051c71d9a8fb2.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:magsans-normal-700;
+src: url('https://archive.is/wKOBW/eeb86033e6026fce347c1738a479f28f3275456a.woff') format('woff'), url('https://archive.is/wKOBW/68002382c5af903ecdb06494a7b38b591b4aef5a.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:magserif-normal-700;
+src: url('https://archive.is/wKOBW/85b347e13032ba548bdaa41184dcbf35136337f1.woff') format('woff'), url('https://archive.is/wKOBW/f6ae97986db773f7b1d67750c381555d08900c2d.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:magslab-normal-700;
+src: url('https://archive.is/wKOBW/16cfa70e0b56ef63cf5373eac1bfdab69268b2a0.woff') format('woff'), url('https://archive.is/wKOBW/03f163440e45c575a86e685ed00dd4aaf4536283.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:schnyder-s-normal-600;
+src: url('https://archive.is/wKOBW/217cb863705be1294211cd3883242d2b1abe5a85.woff') format('woff'), url('https://archive.is/wKOBW/8b90b66bf52099ecfc5e1df85d2d82d04618d015.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:schnyder-s-normal-700;
+src: url('https://archive.is/wKOBW/1552ad4420f29f69e59eb8f1669c7c718bfe8774.woff') format('woff'), url('https://archive.is/wKOBW/523e07d66570db22fb02da6c914ff92fd0e97be8.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:schnyder-scond-normal-300;
+src: url('https://archive.is/wKOBW/f61683ffb6be0c215e174a655f28d24713a857c6.woff') format('woff'), url('https://archive.is/wKOBW/2b85408c7666b5185fb6c851328afab0a222b3cc.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:schnyder-scond-normal-600;
+src: url('https://archive.is/wKOBW/daaf0b0ce336b1eaee1b244e49bee43b24ea8ba5.woff') format('woff'), url('https://archive.is/wKOBW/1998ed20a51b8e7bf0c38889ac99b83bc1dfa923.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:schnyder-scond-normal-700;
+src: url('https://archive.is/wKOBW/0cf44e9e86dd2e1de7ea7d471b246f2bbb65ac2f.woff') format('woff'), url('https://archive.is/wKOBW/62f06bfaa34a5ff72f2bf7826955b8e75a8de4ee.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:stymie-italic-300;
+src: url('https://archive.is/wKOBW/809ea1e3e2f8ca0817138d4b4d994a8e6adbf68f.woff') format('woff'), url('https://archive.is/wKOBW/f0ba608b0d3fc1485741478649c9527f659b5ee3.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:stymie-italic-500;
+src: url('https://archive.is/wKOBW/2e8b807c1e2e0ae03df3385f64c9ae3562505f1c.woff') format('woff'), url('https://archive.is/wKOBW/101e4903549dd525a171c640ee0c7cd78d453351.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:stymie-italic-700;
+src: url('https://archive.is/wKOBW/499e7817b6583a1477465a563c2d0748dc8d10ab.woff') format('woff'), url('https://archive.is/wKOBW/e4ea60fb884ee7a8f9ba712cd577c4baa0c6999a.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:stymie-italic-800;
+src: url('https://archive.is/wKOBW/1d94cddf0c1c96678baa2f2dc534947ada5a57a8.woff') format('woff'), url('https://archive.is/wKOBW/a630ad19e3eae84767d346e49d3518a5f4144f6e.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-normal-100;
+src: url('https://archive.is/wKOBW/f4fa87aab9a254eb3bb789028c5ace76f8f46e0c.woff') format('woff'), url('https://archive.is/wKOBW/0616eee45fe6d090bdef03a18e7597430b60f9fa.ttf') format('truetype');
+font-style:normal;
+font-weight:100;
+}
+@font-face {
+font-family:stymie-normal-200;
+src: url('https://archive.is/wKOBW/cf4f5c65155a2a9a0c16fa0654dc20917b07966b.woff') format('woff'), url('https://archive.is/wKOBW/5b04303d6eed5720363ba2841fe0ef34969e10e1.ttf') format('truetype');
+font-style:normal;
+font-weight:200;
+}
+@font-face {
+font-family:stymie-normal-300;
+src: url('https://archive.is/wKOBW/810d5de3cf96ba13f8c3f3195a92267b71b69a41.woff') format('woff'), url('https://archive.is/wKOBW/46afa6fdc015d8693b31c7524075508b29a0659b.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:stymie-normal-500;
+src: url('https://archive.is/wKOBW/262c4c43f6fee7dbd5c3fcea30ea310397d0b1bf.woff') format('woff'), url('https://archive.is/wKOBW/73fe985245862a1ca0cc2368929c66cf3ccc9e71.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:stymie-normal-700;
+src: url('https://archive.is/wKOBW/680dcd7e6b051891d21169c8b75143df22ce7480.woff') format('woff'), url('https://archive.is/wKOBW/39c6c0cece390a07f4528b8017c48f49ecb9e760.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:stymie-normal-800;
+src: url('https://archive.is/wKOBW/81e8f235677d87f99f0aba0515957e7143a93442.woff') format('woff'), url('https://archive.is/wKOBW/098ba3a128d44c71ead75354d9f678a0f63a3a9c.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-normal-900;
+src: url('https://archive.is/wKOBW/8ddf0c79956f8df5749c51fe64d5b5211fa91b89.woff') format('woff'), url('https://archive.is/wKOBW/ee0812b01b1181a6cbfe46cdc23a01252f794a57.ttf') format('truetype');
+font-style:normal;
+font-weight:900;
+}
+@font-face {
+font-family:stymie-small-italic-800;
+src: url('https://archive.is/wKOBW/29ce2d5fb6ae2ad9db76b21924ed97f20d6b62cc.woff') format('woff'), url('https://archive.is/wKOBW/2a24d34b2844b08496702317b5e0d71a547d7cae.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-small-normal-800;
+src: url('https://archive.is/wKOBW/04795fd29bb3e2eebce475bc7ca16c425e7e76f0.woff') format('woff'), url('https://archive.is/wKOBW/2a7650221f4515ebfdb8d523a54aaf88b2ded528.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/820350aa9a7839bb1b03da29c2252f7d9d9f843b.woff') format('woff'), url('https://archive.is/wKOBW/0da814455d064ffc621d44ccba9f9771531e3b69.ttf') format('truetype');
+font-style:italic;
+font-weight:200;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/bd6b00dcd28904de8e6089379f2387c09a674ea0.woff') format('woff'), url('https://archive.is/wKOBW/f01eb22627ed15f04be7536ac4f0f6b137974e66.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/6bb5a1746cbf40e78aba59eee35c1852a184edc4.woff') format('woff'), url('https://archive.is/wKOBW/db7bdf6fb7dde92dcbd85d573653bd61c058c04e.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/fcce0db1cffd2ec3e931639f05a32c917aea6d06.woff') format('woff'), url('https://archive.is/wKOBW/169eb5c43a9b5786b3ff77a3b80cde44c54253a8.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/56eb450a420bde76a34d63ad4e8c23ca14cf1f3d.woff') format('woff'), url('https://archive.is/wKOBW/d9290b0312452a9321c20b2849d18cf7064f3857.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/9a5e8ea0d3dc6c8eeb6148a4c84d9d14b3428122.woff') format('woff'), url('https://archive.is/wKOBW/a720a6236d4205dd3198ad75681c66f80ae7e761.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/e022209d6c6e0c175922eeec213d43e783eddc95.woff') format('woff'), url('https://archive.is/wKOBW/8efdd983bc1acb27afb03545c2e9eff6fb95bed5.ttf') format('truetype');
+font-style:normal;
+font-weight:200;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/4063c68d5f5f5e20e33c821db1c9c1afe8eef2e9.woff') format('woff'), url('https://archive.is/wKOBW/76da5f8e202a370efc746c3fbf48063c7ce962ec.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/dc75659364b37f2b5fdad89999471a9536fc283c.woff') format('woff'), url('https://archive.is/wKOBW/7168c049d7559fd7b018acca851d3e846670829a.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/8548d9e76c3e2cb9476b1a70c3e4fbeaeef49e99.woff') format('woff'), url('https://archive.is/wKOBW/f7d7b64156c5f183a7bf17213a1610c5768c4be1.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/7b7a2dc928ff7f6114597d4f69618074cee04f1f.woff') format('woff'), url('https://archive.is/wKOBW/3aff41fb2df785a44a1de60bfaa5d3a2fb6e66b1.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham;
+src: url('https://archive.is/wKOBW/a16ff1426d963c4d544bc9ada7d4fb36f1d2f165.woff') format('woff'), url('https://archive.is/wKOBW/4f07a25387ddcd3d6be78ad78769100d8a8a93e5.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:cheltenham-cond;
+src: url('https://archive.is/wKOBW/d4e6b663ac57597957b200f2090cb5c2a8844c82.woff') format('woff'), url('https://archive.is/wKOBW/9b83e0941ccc77d1096fb935914bb61a79774c16.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-cond;
+src: url('https://archive.is/wKOBW/48fee4ba962bfdd34f8b41560f18844528b41748.woff') format('woff'), url('https://archive.is/wKOBW/d37b7e748b0cada39ee5c565c721a46885f3b571.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:cheltenham-cond;
+src: url('https://archive.is/wKOBW/7306bfa5f52cfd8f1ca531f7a0b53288e073fc77.woff') format('woff'), url('https://archive.is/wKOBW/4f9165c942e4378da0a5a2fbd639d54cfab93fa6.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-scaps;
+src: url('https://archive.is/wKOBW/d1b14f378fee5431f4fb29c84eec8ac9332462d1.woff') format('woff'), url('https://archive.is/wKOBW/e8cd7d57923cf72d75880864404875f5cab29582.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:cheltenham-small;
+src: url('https://archive.is/wKOBW/06188d2f02182d60412b49b80e20408134d42f0f.woff') format('woff'), url('https://archive.is/wKOBW/cf69ec3059b528210a910cb321cbfb851e2e50b9.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-small;
+src: url('https://archive.is/wKOBW/7af13f0721e09649380ad7a1189261d98a975459.woff') format('woff'), url('https://archive.is/wKOBW/40aab46a5eed27fe76222aa5f8152cfc2d9b5c8b.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-small;
+src: url('https://archive.is/wKOBW/6cbb456c341497d353b12864772ce61839597ba5.woff') format('woff'), url('https://archive.is/wKOBW/3a3e3f801e11ba6e3d439927b6c85d76b4fc4d3a.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-small;
+src: url('https://archive.is/wKOBW/2e461a3ed1a63d2733d6fdd68aaad77b9bc2733f.woff') format('woff'), url('https://archive.is/wKOBW/a81cd99d10dcde54d7cd8bc5d50826bccd61ba05.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:cheltenham-wide;
+src: url('https://archive.is/wKOBW/0cf3aab95584fdfa0120c9a032f62cd623dc2ab3.woff') format('woff'), url('https://archive.is/wKOBW/cdf89df3646bbd559c92f2ef7c26a4845ff2c945.ttf') format('truetype');
+font-style:italic;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-wide;
+src: url('https://archive.is/wKOBW/7a5d5d000a78de044473af1e07d7096810473a64.woff') format('woff'), url('https://archive.is/wKOBW/de0257720ba1555c217589166e2252b69bcb8658.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:cheltenham-xcond;
+src: url('https://archive.is/wKOBW/6eb497d5e73ca2e2f288d0d3398a54109b9b5a01.woff') format('woff'), url('https://archive.is/wKOBW/8d71ea40eacd80745b6e34fd3dc522b13bcc55a9.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/7daf00f73c5eb10200f5cfab0fd63e3bc03f02f8.woff') format('woff'), url('https://archive.is/wKOBW/06f1acc20fbc3514194eb201b13e4ef5dab4462d.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/2be7309f66b8016df0fd2bbdcb07680d5a2f65fe.woff') format('woff'), url('https://archive.is/wKOBW/8690622dff8cec3c44466294b7f03b8eab391706.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/6f08086cc4c814360b1e22ee12aafbcdc384f3f7.woff') format('woff'), url('https://archive.is/wKOBW/8795a28b0573f57131e8bb6742f55ad0417b6b42.ttf') format('truetype');
+font-style:italic;
+font-weight:600;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/c59503ed80a1c3b33747054ee5d6b9aff1b0b28b.woff') format('woff'), url('https://archive.is/wKOBW/32e942c4658e5fca65e328d540017e5771bd64b1.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/eefb3185f581aad1049cfa1517e57bbefad788d9.woff') format('woff'), url('https://archive.is/wKOBW/e5c28d43d33622d74f3ccc13c934016ec3915ab7.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/87b7c365026e042a261eab37c7a98f804b8dab9b.woff') format('woff'), url('https://archive.is/wKOBW/7fc302827dc968e35016a1b0d0990bbf941017b2.ttf') format('truetype');
+font-style:italic;
+font-weight:900;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/5e9ed0f30beaa12e2dae7f186d2455f7090d4df4.woff') format('woff'), url('https://archive.is/wKOBW/a476471c7f4044623b65a4fa10bc47d0cb7d7ff0.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/de1f24f522d1c344c0bb0b28e035f2b503f49b63.woff') format('woff'), url('https://archive.is/wKOBW/d6a9e142e6fe47d757a89a80ba22f186ca129c81.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/6ffcb9d337107109cd58ec0931486d59652d9834.woff') format('woff'), url('https://archive.is/wKOBW/ae58abe3238c9f08d8a0c290b613a11e73c4aa62.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/333d92ff1dbc1f53143990d34c0207e15e54013d.woff') format('woff'), url('https://archive.is/wKOBW/8d8ca50548321bf8602439a22635da8df9fff84d.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/3cc2098d527394d16e2440ca2a2eaec1db62ee6a.woff') format('woff'), url('https://archive.is/wKOBW/e016c9e55755344c3bcb957d919cbef111d2eab5.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:franklin;
+src: url('https://archive.is/wKOBW/c62636e22b6ffa728078ac96d8783ee452ef8af5.woff') format('woff'), url('https://archive.is/wKOBW/7d9a026f277e1349e907547994115f16f7b82146.ttf') format('truetype');
+font-style:normal;
+font-weight:900;
+}
+@font-face {
+font-family:franklin-cword;
+src: url('https://archive.is/wKOBW/8d1f150371b15451ee199236c51100f77fe04361.woff') format('woff'), url('https://archive.is/wKOBW/18d26a89177f3c616274a9e4f59fa5ebe46632eb.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-small;
+src: url('https://archive.is/wKOBW/b62faa135395ead57ad317398b73554d330f6f73.woff') format('woff'), url('https://archive.is/wKOBW/ff6d04abe0061be33d37910db556c7ca720dec99.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:franklin-small;
+src: url('https://archive.is/wKOBW/73d064af9b637e030a3e0fb4bf8a37c196b17e51.woff') format('woff'), url('https://archive.is/wKOBW/73d4f41ea9502f2bd4daac0d812b93202ce7ad8e.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:graphik;
+src: url('https://archive.is/wKOBW/e8e3caf048d3fcb287341af21508146fbeee3606.woff') format('woff'), url('https://archive.is/wKOBW/66093c5e0699b16cf6b11d6c6f1bd81cc3f14a44.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:graphik;
+src: url('https://archive.is/wKOBW/bcd0f99759294ddf29eebec43eafd9789a14ad4e.woff') format('woff'), url('https://archive.is/wKOBW/68d6508e9e1ad768d04310e19bc657d82da865f1.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:graphik;
+src: url('https://archive.is/wKOBW/d58435403a3dac80e55a50bc736a5048504e4d4c.woff') format('woff'), url('https://archive.is/wKOBW/9715e292e8e45eb6816ca5af41704a7dd7293bd8.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:graphik;
+src: url('https://archive.is/wKOBW/67a1e22c36757f390a0d06d81b13aaeef0090773.woff') format('woff'), url('https://archive.is/wKOBW/593b1f00bd536b424b0b19de3d696cdffc6c8b2f.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:graphik;
+src: url('https://archive.is/wKOBW/43b6862cbb52f5f29f860dd8df0c57560cffd102.woff') format('woff'), url('https://archive.is/wKOBW/e3a4b4f4c9a8acdf0d83a6f87d9e27c162f2b4f7.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:graphik-cond;
+src: url('https://archive.is/wKOBW/13ccc3aaa5519bcb82e6c05f0d0d2c66d8c1d973.woff') format('woff'), url('https://archive.is/wKOBW/3570dc818eea1a43862bc85b0bf822ddb202bbf5.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:graphik-xcond;
+src: url('https://archive.is/wKOBW/4544e75c894a61aca2c115778cab8df0263eaef4.woff') format('woff'), url('https://archive.is/wKOBW/00b77b565d991759eaf153606ccd1ebc8fc5a058.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:imperial;
+src: url('https://archive.is/wKOBW/ae4051ec39b6fd4104163066f5a8d1eeaff5bcff.woff') format('woff'), url('https://archive.is/wKOBW/88632b59cbf4fb85438893c639f430acfdc79a01.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:imperial;
+src: url('https://archive.is/wKOBW/aad5d87b5ddd11f190e2a22270bf0c3134e5da4d.woff') format('woff'), url('https://archive.is/wKOBW/42794e2c8f693010e325e1bf507f4777f7f6a6a6.ttf') format('truetype');
+font-style:italic;
+font-weight:600;
+}
+@font-face {
+font-family:imperial;
+src: url('https://archive.is/wKOBW/764e99a9c951749f9a990fd7e3cd8b818c1087e3.woff') format('woff'), url('https://archive.is/wKOBW/e169c0d902d9a9d14ca3d09b86ccc4224b7e7ece.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:imperial;
+src: url('https://archive.is/wKOBW/2ccfcb8f5b371d4ef8099a8e893282f2d87d434d.woff') format('woff'), url('https://archive.is/wKOBW/116b3d1637d15c52f57b410a7175a2cea4a8f0f6.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:imperial;
+src: url('https://archive.is/wKOBW/38bc60f76d9d023b82cda74fba6d87ec976742cc.woff') format('woff'), url('https://archive.is/wKOBW/174ddc61a25cb1a2ace7710496a5f6efa010c687.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:imperial;
+src: url('https://archive.is/wKOBW/525c6783d6e7895847a9105ed9b7080a7d03ee3e.woff') format('woff'), url('https://archive.is/wKOBW/7ffd0b18f00010a26798edbcb89c84f9d86fdbbc.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:karnak;
+src: url('https://archive.is/wKOBW/ccafd82bfa29d6a9bef7b849795bc6de246bde83.woff') format('woff'), url('https://archive.is/wKOBW/2808c5577d7df8dd0fcc4e2d164c2aa6f5241347.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:karnak-small;
+src: url('https://archive.is/wKOBW/c6247c3aa5c8dcde96a54fd43d4cabe3384e5a4f.woff') format('woff'), url('https://archive.is/wKOBW/3ce6d2addb39e9b03712b4ef105f584404f2d0c7.ttf') format('truetype');
+font-style:normal;
+font-weight:400;
+}
+@font-face {
+font-family:magsans;
+src: url('https://archive.is/wKOBW/e592de9a4d7af43c2a22d372bf1c014a33d81d63.woff') format('woff'), url('https://archive.is/wKOBW/59e314c616e94b9afc2e92c04df051c71d9a8fb2.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:magsans;
+src: url('https://archive.is/wKOBW/eeb86033e6026fce347c1738a479f28f3275456a.woff') format('woff'), url('https://archive.is/wKOBW/68002382c5af903ecdb06494a7b38b591b4aef5a.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:magserif;
+src: url('https://archive.is/wKOBW/85b347e13032ba548bdaa41184dcbf35136337f1.woff') format('woff'), url('https://archive.is/wKOBW/f6ae97986db773f7b1d67750c381555d08900c2d.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:magslab;
+src: url('https://archive.is/wKOBW/16cfa70e0b56ef63cf5373eac1bfdab69268b2a0.woff') format('woff'), url('https://archive.is/wKOBW/03f163440e45c575a86e685ed00dd4aaf4536283.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:schnyder-s;
+src: url('https://archive.is/wKOBW/217cb863705be1294211cd3883242d2b1abe5a85.woff') format('woff'), url('https://archive.is/wKOBW/8b90b66bf52099ecfc5e1df85d2d82d04618d015.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:schnyder-s;
+src: url('https://archive.is/wKOBW/1552ad4420f29f69e59eb8f1669c7c718bfe8774.woff') format('woff'), url('https://archive.is/wKOBW/523e07d66570db22fb02da6c914ff92fd0e97be8.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:schnyder-scond;
+src: url('https://archive.is/wKOBW/f61683ffb6be0c215e174a655f28d24713a857c6.woff') format('woff'), url('https://archive.is/wKOBW/2b85408c7666b5185fb6c851328afab0a222b3cc.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:schnyder-scond;
+src: url('https://archive.is/wKOBW/daaf0b0ce336b1eaee1b244e49bee43b24ea8ba5.woff') format('woff'), url('https://archive.is/wKOBW/1998ed20a51b8e7bf0c38889ac99b83bc1dfa923.ttf') format('truetype');
+font-style:normal;
+font-weight:600;
+}
+@font-face {
+font-family:schnyder-scond;
+src: url('https://archive.is/wKOBW/0cf44e9e86dd2e1de7ea7d471b246f2bbb65ac2f.woff') format('woff'), url('https://archive.is/wKOBW/62f06bfaa34a5ff72f2bf7826955b8e75a8de4ee.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/809ea1e3e2f8ca0817138d4b4d994a8e6adbf68f.woff') format('woff'), url('https://archive.is/wKOBW/f0ba608b0d3fc1485741478649c9527f659b5ee3.ttf') format('truetype');
+font-style:italic;
+font-weight:300;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/2e8b807c1e2e0ae03df3385f64c9ae3562505f1c.woff') format('woff'), url('https://archive.is/wKOBW/101e4903549dd525a171c640ee0c7cd78d453351.ttf') format('truetype');
+font-style:italic;
+font-weight:500;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/499e7817b6583a1477465a563c2d0748dc8d10ab.woff') format('woff'), url('https://archive.is/wKOBW/e4ea60fb884ee7a8f9ba712cd577c4baa0c6999a.ttf') format('truetype');
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/1d94cddf0c1c96678baa2f2dc534947ada5a57a8.woff') format('woff'), url('https://archive.is/wKOBW/a630ad19e3eae84767d346e49d3518a5f4144f6e.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/f4fa87aab9a254eb3bb789028c5ace76f8f46e0c.woff') format('woff'), url('https://archive.is/wKOBW/0616eee45fe6d090bdef03a18e7597430b60f9fa.ttf') format('truetype');
+font-style:normal;
+font-weight:100;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/cf4f5c65155a2a9a0c16fa0654dc20917b07966b.woff') format('woff'), url('https://archive.is/wKOBW/5b04303d6eed5720363ba2841fe0ef34969e10e1.ttf') format('truetype');
+font-style:normal;
+font-weight:200;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/810d5de3cf96ba13f8c3f3195a92267b71b69a41.woff') format('woff'), url('https://archive.is/wKOBW/46afa6fdc015d8693b31c7524075508b29a0659b.ttf') format('truetype');
+font-style:normal;
+font-weight:300;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/262c4c43f6fee7dbd5c3fcea30ea310397d0b1bf.woff') format('woff'), url('https://archive.is/wKOBW/73fe985245862a1ca0cc2368929c66cf3ccc9e71.ttf') format('truetype');
+font-style:normal;
+font-weight:500;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/680dcd7e6b051891d21169c8b75143df22ce7480.woff') format('woff'), url('https://archive.is/wKOBW/39c6c0cece390a07f4528b8017c48f49ecb9e760.ttf') format('truetype');
+font-style:normal;
+font-weight:700;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/81e8f235677d87f99f0aba0515957e7143a93442.woff') format('woff'), url('https://archive.is/wKOBW/098ba3a128d44c71ead75354d9f678a0f63a3a9c.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+@font-face {
+font-family:stymie;
+src: url('https://archive.is/wKOBW/8ddf0c79956f8df5749c51fe64d5b5211fa91b89.woff') format('woff'), url('https://archive.is/wKOBW/ee0812b01b1181a6cbfe46cdc23a01252f794a57.ttf') format('truetype');
+font-style:normal;
+font-weight:900;
+}
+@font-face {
+font-family:stymie-small;
+src: url('https://archive.is/wKOBW/29ce2d5fb6ae2ad9db76b21924ed97f20d6b62cc.woff') format('woff'), url('https://archive.is/wKOBW/2a24d34b2844b08496702317b5e0d71a547d7cae.ttf') format('truetype');
+font-style:italic;
+font-weight:800;
+}
+@font-face {
+font-family:stymie-small;
+src: url('https://archive.is/wKOBW/04795fd29bb3e2eebce475bc7ca16c425e7e76f0.woff') format('woff'), url('https://archive.is/wKOBW/2a7650221f4515ebfdb8d523a54aaf88b2ded528.ttf') format('truetype');
+font-style:normal;
+font-weight:800;
+}
+archive.iswebpage captureSaved fromhistory←priornext→22 Dec 2016 17:54:58 UTCRedirected fromhistory←priornext→All snapshotsfrom host www.nytimes.comLinked from en.wikipedia.org » 2016 in art en.wikipedia.org » Andrei Karlov it.wikipedia.org » Andrej Karlov sq.wikipedia.org » Andrei Karlov sq.wikipedia.org » Andrej Karllov th.wikipedia.org » อันเดรย์ คาร์ลอฟ vi.wikipedia.org » Andrei KarlovWebpageScreenshotsharedownload .zipreport error or abuseRedditVoatTwitterVKontaktePinboardLivejournalFacebookGoogle+short linklong linkmarkdownhtml code<a href="http://archive.is/wKOBW">
+ <img style="width:300px;height:200px;background-color:white" src="https://archive.is/wKOBW/12a31174fbe668053b107052e493fc9ba54aa572/scr.png"><br>
+ Russian Ambassador to Turkey Is Assassinated in Ankara - The New York…<br>
+ archived 22 Dec 2016 17:54:58 UTC
+</a>wiki code{{cite web
+ | title       = Russian Ambassador to Turkey Is Assassinated in Ankara - The New York…
+ | url         = http://www.nytimes.com/2016/12/19/world/europe/russia-ambassador-shot-ankara-turkey.html
+ | date        = 2016-12-22
+ | archiveurl  = http://archive.is/wKOBW
+ | archivedate = 2016-12-22 }}
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+Europe|Russian Ambassador to Turkey Is Assassinated in Ankara
+
+
+
+campaign: inyt2016_bar1_digi_bau_novrefresh_4LFJR -- 284974, creative: inyt2016_bar1_digi_bau_4LFJR -- 415208, page: www.nytimes.com/yr/mo/day/world/europe/russia-ambassador-shot-ankara-turkey.html, targetedPage: www.nytimes.com/yr/mo/day/world/europe, position: Bar1
+
+
+1
+of 10 articles read
+SUBSCRIBE NOW
+
+
+
+The world’s mosttrusted perspective.
+
+Get The Times.
+50% off for 1 year.
+
+SUBSCRIBE NOW
+
+ 
+
+
+
+Subscribe
+
+
+
+
+
+ShareTweetEmailMoreSave
+Search
+
+Subscribe Now
+Log In
+
+
+
+1593
+
+
+0
+Settings
+
+
+
+
+Close search
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/2i2v2cc
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Edition
+Berlin, Uber, Syria: Your Thursday Briefing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ikea Reaches $50 Million Settlement Over Deadly Furniture Accidents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baltics Journal
+Who Tossed On the First Tinsel? Two Baltic Capitals Disagree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Israeli, Italian and Polish Citizens Were Among Victims of Berlin Attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Romania Set for First Female, and First Muslim, Prime Minister
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nigel Farage Called a ‘Disgrace’ for Remarks About Berlin Attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin Attack Poses Toughest Test in Merkel’s 11 Years in Power
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin Attack Sets Off Hunt for a Tunisian in Germany
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spanish Banks Ordered to Repay Customers Over Unfair Mortgages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Erdogan Embraces Bana al-Abed, Who Brought Child’s View of Aleppo to Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Erdogan Says Follower of Gulen, His Rival, Killed Russian Envoy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Germany Seeks Tunisian Tied to Berlin Christmas Market Attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editorial
+Investigate Russian Hacking the Right Way
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Investors Worry as Financial Picture of Italy’s Oldest Bank Deteriorates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Germany Releases Berlin Attack Suspect as ISIS Claims Involvement
+
+
+
+
+
+
+
+Italy Overwhelmed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Critic’s Notebook
+Berlin Market Attack Mars Square Where Three Eras Coexist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In Turkey, a Capstone to a Violent Year. In Germany, a Realization of Fears.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Rex Tillerson Changed His Tune on Russia and Came to Court Its Rulers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philippines Should Investigate Rodrigo Duterte for Murder, U.N. Official Urges
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+Europe
+
+
+Site Navigation
+
+
+
+
+
+Home Page 
+
+
+
+Home Page 
+
+
+
+World 
+
+
+
+
+
+
+U.S. 
+
+
+
+
+
+
+Politics 
+
+
+
+
+
+
+N.Y. 
+
+
+
+
+
+
+Business 
+
+
+
+
+
+
+Business 
+
+
+
+
+
+
+Opinion 
+
+
+
+
+
+
+Opinion 
+
+
+
+
+
+
+Tech 
+
+
+
+
+
+
+Science 
+
+
+
+
+
+
+Health 
+
+
+
+
+
+
+Sports 
+
+
+
+
+
+
+Sports 
+
+
+
+
+
+
+
+
+
+
+Arts 
+
+
+
+
+
+
+Arts 
+
+
+
+
+
+
+Fashion & Style 
+
+
+
+
+
+
+Fashion & Style 
+
+
+
+
+
+
+Food 
+
+
+
+
+
+
+Food 
+
+
+
+
+
+
+Travel 
+
+
+
+Magazine 
+
+
+
+T Magazine 
+
+
+
+Real Estate 
+
+
+
+
+
+
+Obituaries 
+
+
+
+Video 
+
+
+
+
+
+
+The Upshot 
+
+
+
+Conferences 
+
+
+
+
+
+
+
+
+
+
+Crossword 
+
+
+
+Times Insider 
+
+
+
+The Learning Network 
+
+
+
+
+
+
+
+Multimedia 
+
+
+
+Photography 
+
+
+
+Podcasts 
+
+
+
+
+
+
+
+NYT Store 
+
+
+
+NYT Wine Club 
+
+
+
+nytEducation 
+
+
+
+Times Journeys 
+
+
+
+Meal Kits 
+
+
+
+
+
+
+
+Subscribe 
+
+
+
+Manage Account 
+
+
+
+Today's Paper 
+
+
+
+Blogs 
+
+
+
+Times Topics 
+
+
+
+Tools & Services 
+
+
+
+Jobs 
+
+
+
+Classifieds 
+
+
+
+Corrections 
+
+
+
+
+
+
+
+More 
+
+
+
+
+
+
+
+
+Site Mobile Navigation
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Supported by
+
+
+
+Europe
+
+Russian Ambassador to Turkey Is Assassinated in Ankara
+
+By
+TIM ARANGO
+and RICK GLADSTONEDEC. 19, 2016
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+ShareTweetEmailMoreSave
+
+
+
+1593
+
+
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+A man, reported by The Associated Press to be the gunman, after the shooting of the Russian ambassador, on the floor, on Monday at a gallery in Ankara, the capital of Turkey.
+
+Credit
+Hasim Kilic/Hurriyet, via Reuters 
+
+
+
+
+
+ISTANBUL —
+Russia’s ambassador to
+Turkey
+was assassinated at an Ankara art exhibit on Monday evening by a lone Turkish gunman shouting “God is great!” and “don’t forget Aleppo, don’t forget Syria!” in what the leaders of Turkey and Russia called a provocative terrorist attack.The gunman, described by Turkish officials as a 22-year-old off-duty police officer, also wounded at least three others in the assault on the envoy,
+Andrey G. Karlov, which was captured on video. Turkish officials said the assailant was killed by other officers in a shootout.The assassination, an embarrassing security failure in the Turkish capital, forced Turkey and Russia to confront a new crisis tied directly to the Syrian conflict, now in its sixth year.The longer-term implications for the Russia-Turkey relationship, which had been warming recently after plunging a year ago, were not immediately clear. But some analysts played down the notion that the assassination would lead to a new rupture, saying it could conversely bring the countries closer together in a shared fight against terrorism.
+Continue reading the main story
+
+
+
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+President Vladimir V. Putin of Russia said on Russian television that Mr. Karlov had been “despicably killed” to sabotage ties with Turkey. Mr. Putin spoke with the Turkish president, Recep Tayyip Erdogan, by phone, and the two leaders agreed to cooperate in investigating the killing, and in combating terrorism broadly.
+
+
+
+
+
+Terror Attacks in Europe
+By NEETI UPADHYE and ROBIN LINDSAY
+Play Video
+2:12
+
+
+Graphic Content: The Shooting and Its Aftermath
+
+
+
+
+
+
+
+Advertisement
+
+LIVE
+
+
+
+00:00
+
+
+
+
+
+
+
+
+00:00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip ad
+
+
+
+
+
+
+
+
+Video
+
+Graphic Content: The Shooting and Its Aftermath
+
+
+Andrey G. Karlov, the Russian ambassador to Turkey, at an art gallery in Ankara on Monday, moments before he was shot. A man believed to be the gunman is behind him at left.
+
+By NEETI UPADHYE and ROBIN LINDSAY on Publish Date
+December 19, 2016.
+
+
+Photo by Yavuz Alatan/Agence France-Presse — Getty Images. 
+Watch in Times Video »
+
+
+
+
+
+
+
+embed
+
+
+
+
+
+ShareTweet
+
+
+
+
+In an emergency meeting with Foreign Minister Sergey V. Lavrov and other top officials, Mr. Putin said, “There can be only one answer to this — stepping up the fight against terrorism, and the bandits will feel this.”Mr. Erdogan, in a speech late Monday night, said the assassination was a provocation meant to derail efforts by Turkey and Russia to collaborate more closely on regional issues and economic ties.
+
+Advertisement
+
+Continue reading the main story
+
+“We know that this is a provocation aiming to destroy the normalization process of Turkey-Russia relations,” Mr. Erdogan said. “But the Russian government and the Turkish republic have the will to not fall into that provocation.”The assassination came after days of protests by Turks angry over Russia’s support for the Syrian government in the conflict and the Russian role in the killings and destruction in Aleppo, the northern Syrian city.The Russian envoy was shot from behind and immediately fell to the floor while speaking at an exhibition of photographs, according to multiple accounts from the scene, the Contemporary Arts Center in the Cankaya area of Ankara.The gunman, wearing a dark suit and tie, was seen in video footage of the assault waving a pistol and shouting in Arabic: “God is great! Those who pledged allegiance to Muhammad for jihad. God is great!”
+Continue reading the main story
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+People huddled during the shooting in the art gallery.
+
+Credit
+Burhan Ozbilici/Associated Press 
+
+
+
+
+
+Then he switched to Turkish and shouted: “Don’t forget Aleppo, don’t forget Syria! Step back! Step back! Only death can take me from here.”Hasim Kilic, a Turkish photographer for the Hurriyet news organization who witnessed the attack and sold his images to Reuters, said in a telephone interview that the gunman had fired seven shots at the ambassador — “four from behind, three while the body was on the ground” — as guests screamed and scrambled to hide.Mr. Kilic, who was crouched behind a cocktail table about 12 feet away, said the gunman had ordered everyone else out and refused a security guard’s request to drop his weapon. “Call the police, and I will die here,” Mr. Kilic quoted the assailant as saying.Turkish officials said the gunman was killed after a shootout with Turkish Special Forces.He was identified by Turkey’s interior minister as Mevlut Mert Altintas, from the western province of Aydin and a graduate of a police college in Izmir. Local news reports said that Mr. Altintas’s mother and sister had been arrested and that a computer had been confiscated from their house.
+
+Advertisement
+
+Continue reading the main story
+
+While it was too early to tell if the gunman acted alone, his use of jihadist slogans and his invocation of Syria raised the possibility that he was a member, or at least a sympathizer, of an Islamist group like Al Qaeda’s Syria affiliate or the Islamic State, two organizations that Turkey has been accused by allies, including the United States, of supporting in the past.Russia’s Foreign Ministry spokeswoman, Maria Zakharova, told the Rossiya 24 news channel that Mr. Karlov had died of his wounds in what she described as a terrorist attack. Turkey’s Interior Ministry said the ambassador had died at Guven Hospital in Ankara.
+Photo
+
+
+
+
+
+
+The gunman after shooting the Russian ambassador.
+
+Credit
+Burhan Ozbilici/Associated Press 
+
+
+Russian news agencies said the ambassador’s wife fainted and was hospitalized after learning of her husband’s death. They also said that as a precaution, Russian tourists in Turkey had been advised against leaving their hotel rooms or visiting public places.Russia’s Tass news agency said that Mr. Karlov had been shot from behind while finishing remarks at the opening of an art exhibition titled “Russia Through Turks’ Eyes.”Mr. Karlov, who started his career as a diplomat in 1976, worked extensively in North Korea over two decades, before changing regions in 2007, according to a
+biography
+on the Russian Embassy’s website. He became ambassador in July 2013.The attack was a rare instance of an assassination of a Russian envoy. Historians said it might have been the first since Pyotr Voykov, a Soviet ambassador to Poland, was shot to death in Warsaw in 1927.For many Russians, the assassination is likely to recall the 19th-century killing in Tehran of Aleksandr Griboyedov, a poet and diplomat who died after a mob stormed the Russian Embassy. That episode is remembered as the most severe insult to Russia’s diplomatic corps in the country’s history.More recently, the Lebanese Shiite militia Hezbollah, now allied with Russia in Syria, kidnapped four Soviet diplomats in 1985, killing one and releasing three a month later.
+Continue reading the main story
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+The Turkish police secured the area outside the art gallery after the attack.
+
+Credit
+Erhan Ortac/Getty Images 
+
+
+
+
+
+The United States, which has tangled bitterly with Russia over the Syrian conflict, quickly condemned the assassination in Ankara. In a
+statement, Secretary of State John Kerry called it a “despicable attack, which was also an assault on the right of all diplomats to safely and securely advance and represent their nations around the world.”
+
+Advertisement
+
+Continue reading the main story
+
+Other prominent officials who often criticize Russia’s actions in Syria and elsewhere also offered their condolences. “No justification for such a heinous act,” Jens Stoltenberg, the secretary general of NATO, said on
+Twitter. Secretary General Ban Ki-moon of the United Nations
+said
+he was “appalled by this senseless act of terror.”President-elect Donald J. Trump, who has been accused by critics of aligning with Russia, said in a statement that Mr. Karlov had been “assassinated by a radical Islamic terrorist.”The assassination also illustrated the long reach of the Syrian war. It has destabilized Europe with hundreds of thousands of refugees, spawned terrorist
+attacks in Paris
+and Brussels, and led to the rise of the Islamic State, which controls territory across Iraq and Syria.When the war began, Turkey was rising and confident, and Mr. Erdogan, then its prime minister, began supporting rebels seeking the ouster of the Syrian president, Bashar al-Assad. Preoccupied with bringing Mr. Assad down, Turkey opened its borders to weapons and fighters flowing to the rebels, turning a blind eye, for a time, when the opposition turned increasingly Islamist.As the war ground on, the consequences for Turkey were profound. It was overwhelmed with refugees — more than three million now reside in the country — and the rise of the Islamic State led to terrorist attacks within Turkey’s borders.
+
+
+
+
+Graphic 
+
+Assassination in Turkey Comes Amid Wave of Violence 
+
+The assassination of the Russian ambassador, Andrey G. Karlov, continues the series of deadly attacks in Turkey. 
+
+
+
+
+
+
+
+
+OPEN Graphic 
+
+
+
+
+In the fall of 2015, Russia entered the conflict in support of the Syrian government, reinforcing Mr. Assad at a weak moment and dealing a blow to Turkey’s ambitions in Syria. Relations between Turkey and Russia reached a low point in November 2015 after Turkey shot down a Russian jet near the Syrian border.But this year, in an effort to restore relations, Mr. Erdogan, now Turkey’s president, met with Mr. Putin in St. Petersburg, and ever since the two countries have largely put aside their differences on Syria and focused on improving economic ties. In August, when Turkey’s military went into Syria to push the Islamic State out of the border town of Jarabulus, the move was widely seen as having been made with the tacit approval of Russia.
+
+Advertisement
+
+Continue reading the main story
+
+For Turkey, the Ankara attack resonated in the Turkish collective memory: Turkey lost many diplomats in the 20th century to Armenian militants in a campaign to avenge the Armenian genocide during World War I.“Turkey is very aware of the size of this failure, and I think the government will make every effort to investigate this fully,” Sinan Ulgen, a Turkish former diplomat who is the chairman of the Center for Economics and Foreign Policy Studies, an Istanbul research organization, said of the Russian diplomat’s assassination. “I don’t expect any crisis between Turkey and Russia.”Since the Turkish military incursion into Syria in August, Mr. Erdogan’s criticism of Russia over Syria had been muted. But Mr. Erdogan faced a dilemma: Even as he was warming to Russia, he faced a Turkish public, not to mention the Syrian refugees within Turkey, angry over Russia’s role in the bombing of Aleppo.On Monday evening in Istanbul, just after the assassination, a group of protesters gathered outside the Russian consulate on Istiklal Avenue, the city’s largest pedestrian street. The gathering was more street theater than protest, with two men lying on the street, shrouded in bloody sheets and the Syrian flag, and surrounded by candles, to represent the killings in Aleppo.
+
+
+Write A Comment
+
+
+Mohammed al-Shibli, a Syrian activist who participated, said, “I felt extreme happiness when I heard the news” of the assassination.He continued: “This is the first step in getting justice for the Syrian people. The ambassador is not innocent. He represents the foreign policy of his murderous state and thus he is a murderer, as well. Now we are waiting for revenge against everyone who shed blood in Syria.”
+
+
+Correction: December 19, 2016 
+
+An earlier version of this article misidentified the government that has collaborated with Russia even though it backs a different side in the Syrian conflict. It is Turkey, not Syria.
+
+
+
+
+Tim Arango reported from Istanbul, and Rick Gladstone from New York. Reporting was contributed by Ivan Nechepurenko, Oleg Matsnev and Andrew E. Kramer from Moscow, Safak Timur and Karam Shoumali from Istanbul, Sewell Chan from London, Gardiner Harris from Washington and Bryant Rousseau from New York.
+A version of this article appears in print on December 20, 2016, on Page A1 of the
+New York edition
+with the headline: Russia’s Envoy Gunned Down By Lone Turk. 
+Order Reprints|
+Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+We’re interested in your feedback on this page.
+Tell us what you think.
+
+
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+
+
+
+THE INTERPRETER
+
+
+Turkey, Russia and an Assassination: The Swirling Crises, Explained
+DEC. 19, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who Was Andrey Karlov, the Russian Ambassador Killed in Turkey?
+DEC. 19, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recent Comments
+
+
+
+
+Jacquelyn Chappel
+1 day ago
+
+In Putin's response to the shooting, he says, "There is only one response to this: strengthening the fight against terror." That's exactly...
+
+
+
+CK
+1 day ago
+
+The proper headline would have been, "Hyper Violent Religious Madman Babbles Incoherent Nonsense." Instead you validate his baloney. Foolish...
+
+
+
+J Ramey
+1 day ago
+
+ISIS and their sympathizers should not expect the same passive response from Putin they have received from the current emasculated American...
+
+
+
+
+
+See All Comments 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close this panel
+
+
+
+
+
+
+
+
+1593 Comments
+Readers shared their thoughts on this article.
+The comments section is closed. To submit a letter to the editor for publication, write to
+letters@nytimes.com.
+
+
+
+
+
+
+All 1593
+Readers’ Picks 915
+NYT Picks 15
+
+
+
+newest
+
+
+
+
+
+NYT Pick
+
+Robbie W
+England
+2 days ago
+
+This is a very worrying development. Hard to know exactly how to process this, but at least Russia is seemingly being calm about this for the time being.Then again, it's still extremely early and many of the statements we've heard could have been made from Russia before he was confirmed dead and before it was established that the gunman was a member of the security detail.Russia's response to this in the coming hours will be vitally important.Is it in their interest to paint this as being more than it seems to be? Would it be in their interests to start a conflict with Turkey and test NATO resolve just before Trump takes power in the US? Could they take things to the brink over Christmas and create a "hero" in their favored President by making it seem as though he was the level-headed one?Make no mistake, Russia will play this to their benefit in any way they can (as would most other nations).
+
+
+Flag
+362Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+
+ANetliner NetLiner
+is a trusted commenter
+Washington DC Area
+2 days ago
+
+It is ironic and terrible that Ambassador Karlov remained safe throughout his career in North Korea, but was assassinated in a westernizing nation.My profound condolences to Ambassador Karlov's family, along with my condemnation of his killer.
+
+
+Flag
+489Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+
+Stephen Kurtz
+is a trusted commenter
+Windsor, ON
+2 days ago
+
+This will sour diplomatic relations between Moscow and Ankara to the point that they may be broken off entirely. Russia will respond in many different ways including the possibility of assisting the Kurds in their never-ending drive for independence. What will the Turks do? They could start sending their troops in over the Turkish-Syrian border in an attempt to dislodge Assad (and the Kurds) and tempt Russia into retaliation. What would NATO do then? Lots of dominoes could fall and the world should not forget Sarajevo in July, 1914.
+
+
+Flag
+426Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+Leila
+Palm Beach
+2 days ago
+
+I find the picture disturbing, especially the ones showing the victim (although, to be fair NYT is not the only outlet showing it). I am not a great fan of Russian intervention in Syria but irrespective of our political views, the victim had family, friends... please take this picture down.
+
+
+Flag
+395Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+David Meli
+Clarence
+2 days ago
+
+Just over 100 years ago an assassination not all that far from Ankara brought us to World War I. Internationally in the last few years we have witnessed the resurgence of nationalism over globalism. It was Globalism led by the Pox Americana that has brought the planet over 70 years of relative stability. No it was not perfect but pick another 70 years with this type of global stability.How will Putin react to protect his image of masculinity and Russian exaggerated view of their global position.How will his new BFF and president elect act when Turkey is our ally?It was these misunderstanding that pulled the world into what was the bloodiest world to that time.
+
+
+Flag
+296Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+jawd
+Seattle, Washington
+2 days ago
+
+I disagree with those who say this picture shouldn't be published. It is a brilliant photograph and it is a legitimate news story of the day. The real crime is not showing just how real the pain and violence in our world is. Don't look if you can't stand it, but the press needs to do its job.
+
+
+Flag
+1667Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+
+deselby
+brooklyn, ny
+2 days ago
+
+It seems we now need a more specific word to describe these incidents rather than the Russian description of "terrorist attack". War has changed its face to these piecemeal types of occurrences, and a political soldier of one side in a conflict simply being called a terrorist by the Russian press because he invoked his religion as Russian press did is not adequate. It is as if they would brush aside their own government interest and moral failing.
+
+
+
+Flag
+80Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+Pat B.
+Blue Bell, Pa.
+2 days ago
+
+While I agree that it's a fine line in terms of when and what types of photographs to print, I think that this one is justified. It is a stark and simple visual that's very powerful. Meanwhile, those complaining about this killer getting his 15 minutes of fame... well, he's dead, so I don't think this is feeding his ego. I suppose one could argue that this 'encourages' other like-minded lunatics; though I seriously doubt that lack of publicity would do anything to discourage the off-the-rails crazies with guns in our midst. Maybe the antidote is to show the picture of the gunman lying dead... but let's be real. We've seen so many terrorists shot during these types of ambushes and it doesn't seem to discourage the next. "Suicide murderers' simply don't care.
+
+
+Flag
+240Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+Barbarika
+Wisconsin
+2 days ago
+
+Turkey will attribute this assassination to Gulenists, who are supported by CIA. And Ergodan may be right on this one. After the failed coup, Gulenists will try to undo Ergodanrs legitimacy, and CIA will support them to undo the growing Turkey-Russia bonhomie. In such a highly complex situation, chaos can easily results. Hopefully president Trump controls the neocon factions in CIA and state department, we don't need more cooks in an awfully crowed kitchen. There is no oil in Syria, not worth meddling over with.
+
+
+
+Flag
+58Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+dr j
+CA
+2 days ago
+
+Is this the start of the chickens coming home to roost for Russia?They seem to believe they can get away with anything these days -- their actions in the Ukraine, in Syria, and with the U.S. elections, are just the latest examples.Though today's act of assassination is terrible, I can't help but hope this is but the first step in Russia getting what they've got coming. The world is not their geopolitical chess board, to game as they will.
+Every action force is always opposed by an equal and opposite reaction force.Apparently Putin needs to be reminded of this.However, my condolences to the Russian ambassador's family -- may we never forget the individual humans involved in these political acts. It is far too easy to do so.
+
+
+Flag
+222Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+efirewood
+Keene, NY
+2 days ago
+
+People should be afraid of reality, not pictures of reality, which serve a critical role to inform us all. The bias for words over images as "tasteful" communication of horrible truths is especially disconcerting at a time when journalism and truth are also under attack. It's incredible that these photographers remained brave and calm enough to make these pictures during this moment of terror. These photographs do not glorify terrorism, they are adept, subjective records of horror. Photographs don't glorify terrorists, violent ideologies glorify terrorists.
+
+
+Flag
+458Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+CM
+Vermont
+2 days ago
+
+I wonder how people who are upset about the victim's picture here (and/or the gunman's) think or feel when they see images of the victims of the genocide and complete and utter destruction in Syria. This is shocking. It is all shocking. It should all be shocking.
+
+
+
+Flag
+736Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+
+Judyw
+cumberland, MD
+2 days ago
+
+These terrorist attacks are happening just about everywhere these days. No country is safe from them. The one thing they have in common, is that all are committed by Islamic terrorist, chiefly ISIS members.The targets are varied but mostly they are targets of opportunity. Depending on the country, the reasons the terrorists give is varied, but it is always about attacking the West for supposed wrong against Muslims.The same day that the Ambassador was murdered, a truck was deliberately driven into Christmas Market in Berlin, killing at least 5 people, and France is undergoing attacks throughout the country so that the State of Emergency has been extended for another 6 months. No western country is immune from these attacks.Thus it is essential that Public officials like the Ambassador start wearing bullet proof vests when they must make a public appearance. Countries must exercise greater care on the issue of refugees, to the point that it would perhaps be better to stop refugee admissions, but rather construct large refugee camps to deal with the influx rather than letting them wander freely. Also it should be made clear, that these refugees will ultimately be returned to their own county as soon as conditions permit.
+
+
+Flag
+82Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+Lucinda K
+Canada
+2 days ago
+
+With the horrendous acts Russia did when it bombed Aleppo's hospitals ect. though I don't condone violence I do understand the outrage at Russia this young man was feeling.
+
+
+Flag
+58Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+NYT Pick
+
+Susan56
+philadelphia pa
+2 days ago
+
+It seems to me that this is the new form of warfare, targeting mostly civilians in an attempt to demoralize and frighten, and to destabilize. Countries can be destroyed this way. Russia's behavior in Syria, and their meddling in the United States election are examples of this. The far right in many countries are rising to power as a result of people's fears. The far right agendas are racist, repressive and secretive. This will result in further destabilization, which is what factions like ISIS are hoping for.
+
+
+
+Flag
+16Recommend
+Share this comment on FacebookShare this comment on Twitter
+
+
+
+
+
+Loading...
+
+Read More
+
+
+View all 1593 comments
+
+
+
+1593 Comments
+Readers shared their thoughts on this article.
+The comments section is closed. To submit a letter to the editor for publication, write to
+letters@nytimes.com.
+
+
+
+
+
+All 1593
+Readers’ Picks 915
+NYT Picks 15
+
+
+
+newest
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+THE INTERPRETER
+
+
+Turkey, Russia and an Assassination: The Swirling Crises, Explained
+DEC. 19, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who Was Andrey Karlov, the Russian Ambassador Killed in Turkey?
+DEC. 19, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending
+
+
+
+
+
+
+
+
+
+
+The Year in Pictures 2016 
+
+
+
+
+
+
+
+
+
+
+
+Tragedy Made Steve Kerr See the World Beyond the Court 
+
+
+
+
+
+
+
+
+
+
+
+Trump Pressures Obama Over U.N. Resolution on Israeli Settlements 
+
+
+
+
+
+
+
+
+
+
+
+With ... André Leon Talley: Monsieur Vogue Is Leaving Trumpland 
+
+
+
+
+
+
+
+
+
+
+
+Obama to Dismantle Visitor Registry Before Trump Can Revive It 
+
+
+
+
+
+
+
+
+
+
+
+Bored, Broke and Armed: Clues to Chicago’s Gang Violence 
+
+
+
+
+
+
+
+
+
+
+
+Contributing Op-Ed Writer: One Problem for Democratic Leaders Is Democratic Voters 
+
+
+
+
+
+
+
+
+
+
+
+Berlin Attack Sets Off Hunt for a Tunisian in Germany 
+
+
+
+
+
+
+
+Trump Suggests Berlin Attack Affirms His Plan to Bar Muslims 
+
+
+
+
+
+
+
+
+
+
+
+Health Exchange Enrollment Jumps, Even as G.O.P. Pledges Repeal 
+
+
+
+
+
+View More Trending Stories »
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+Close this overlay
+
+
+
+
+
+Go to previous
+
+
+
+
+
+Go to next
+
+
+
+
+
+Loading...
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+Times Insider
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+© 2016
+The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at
+accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+Go to the previous story
+
+
+
+
+
+
+
+
+
+
+
+Europe Edition
+Berlin, Uber, Syria: Your Thursday Briefing
+
+
+
+Go to the next story
+
+
+
+
+
+
+
+
+
+
+campaign: abTest_currency_flag_sitewide_CAN -- 283047, creative: abTest_currency_flag_sitewide_CAN -- 412326, page: www.nytimes.com/yr/mo/day/world/europe/russia-ambassador-shot-ankara-turkey.html, targetedPage: www.nytimes.com/yr/mo/day/world/europe, position: ab3
+
+
+Campaign ID: 283468 | Creative: nyt2016_personalization_B2B_cookiesetter_v4 -- 414693 | Page: www.nytimes.com/yr/mo/day/world/europe/russia-ambassador-shot-ankara-turkey.html / Targeted Page: www.nytimes.com/yr/mo/day/world/europe | Position: prop1
+
+
+
+
+
+
+
+
+
+
+Edition
+
+English
+中文 (Chinese)
+Español
+
+
+
+Help
+
+FAQ
+Contact Us
+
+
+
+Type Size
+
+A
+Type size small
+A
+Type size medium
+A
+Type size large
+
+
+
+
+
+Close this modal window
+
+
+
+
+
+
+
+
+
+
+
+Edit Profile
+My Account
+My Billing Information
+My Saved Items
+Log Out
+
+
+
+
+Close this modal window
+
+
+
+
+Log in
+To save articles or get newsletters, alerts or recommendations – all free.
+
+
+
+
+
+Log in with Facebook
+
+
+
+Log in with Google
+
+
+
+OR
+
+
+
+
+
+Email address
+
+
+
+Clear this text input
+
+
+
+
+Password
+
+
+
+Clear this text input
+
+
+
+
+
+
+
+
+Remember me
+
+
+Forgot password?
+
+
+Terms of Service
+Privacy Policy
+
+
+Log in
+
+
+
+
+
+
+
+
+
+Don’t have an account?
+Sign Up
+
+Close this modal window
+
+
+
+
+Sign up
+To save articles or get newsletters, alerts or recommendations – all free.
+
+
+
+
+
+Sign up with Facebook
+
+
+
+Sign up with Google
+
+
+
+OR
+
+
+
+
+
+Email address
+
+
+
+Clear this text input
+
+
+
+
+Password
+
+
+
+Clear this text input
+
+
+
+
+Retype password
+
+
+
+Clear this text input
+
+
+
+
+By signing up, you agree to receive updates and special offers for The New York Times’s products and services. You may unsubscribe at any time. 
+
+
+Terms of Service
+Privacy Policy
+
+
+Create Account
+
+
+
+
+
+
+
+
+
+Already have an account?
+Log In
+
+Close this modal window
+
+
+
+
+Edit Profile
+Your profile is public. It will appear with any comments you leave on NYTimes.com
+
+
+
+
+
+
+
+Close this modal window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Africa 
+
+
+
+Americas 
+
+
+
+Asia Pacific 
+
+
+
+Europe 
+
+
+
+Middle East 
+
+
+
+At War 
+
+
+
+Sinosphere 
+
+
+
+
+
+
+
+Education 
+
+
+
+The Upshot 
+
+
+
+
+
+
+
+First Draft 
+
+
+
+Elections 
+
+
+
+The Upshot 
+
+
+
+
+
+
+
+Events 
+
+
+
+
+
+
+
+DealBook 
+
+
+
+Economy 
+
+
+
+Energy 
+
+
+
+Markets 
+
+
+
+Media 
+
+
+
+Entrepreneurship 
+
+
+
+Your Money 
+
+
+
+Automobiles 
+
+
+
+
+
+
+
+DealBook 
+
+
+
+Economy 
+
+
+
+Energy 
+
+
+
+Markets 
+
+
+
+Media 
+
+
+
+Entrepreneurship 
+
+
+
+Your Money 
+
+
+
+Automobiles 
+
+
+
+
+
+
+
+Op-Ed Columnists 
+
+
+
+
+
+
+
+
+
+Editorials 
+
+
+
+Contributing Writers 
+
+
+
+Op-Ed Contributors 
+
+
+
+Opinionator 
+
+
+
+Letters 
+
+
+
+Sunday Review 
+
+
+
+Taking Note 
+
+
+
+Room for Debate 
+
+
+
+Public Editor 
+
+
+
+
+
+
+
+Op-Ed Columnists 
+
+
+
+
+
+
+
+
+
+Editorials 
+
+
+
+Contributing Writers 
+
+
+
+Op-Ed Contributors 
+
+
+
+Opinionator 
+
+
+
+Letters 
+
+
+
+Sunday Review 
+
+
+
+Taking Note 
+
+
+
+Room for Debate 
+
+
+
+Public Editor 
+
+
+
+
+
+
+
+Bits 
+
+
+
+Personal Tech 
+
+
+
+
+
+
+
+Environment 
+
+
+
+Space & Cosmos 
+
+
+
+
+
+
+
+Well 
+
+
+
+Money & Policy 
+
+
+
+Health Guide 
+
+
+
+
+
+
+
+Baseball 
+
+
+
+Basketball: College 
+
+
+
+Basketball: N.B.A. 
+
+
+
+Football: College 
+
+
+
+Football: N.F.L. 
+
+
+
+Golf 
+
+
+
+Hockey 
+
+
+
+Soccer 
+
+
+
+Tennis 
+
+
+
+
+
+
+
+Baseball 
+
+
+
+Basketball: College 
+
+
+
+Basketball: N.B.A. 
+
+
+
+Football: College 
+
+
+
+Football: N.F.L. 
+
+
+
+Golf 
+
+
+
+Hockey 
+
+
+
+Soccer 
+
+
+
+Tennis 
+
+
+
+
+
+
+
+Art & Design 
+
+
+
+Books 
+
+
+
+Dance 
+
+
+
+Movies 
+
+
+
+Music 
+
+
+
+N.Y.C. Events Guide 
+
+
+
+Television 
+
+
+
+Theater 
+
+
+
+Watching 
+
+
+
+
+
+
+
+Art & Design 
+
+
+
+Books 
+
+
+
+Dance 
+
+
+
+Movies 
+
+
+
+Music 
+
+
+
+N.Y.C. Events Guide 
+
+
+
+Television 
+
+
+
+Theater 
+
+
+
+Watching 
+
+
+
+
+
+
+
+Men's Style 
+
+
+
+On the Runway 
+
+
+
+Weddings 
+
+
+
+
+
+
+
+Men's Style 
+
+
+
+On the Runway 
+
+
+
+Weddings 
+
+
+
+
+
+
+
+Cooking 
+
+
+
+Restaurant Search 
+
+
+
+
+
+
+
+Cooking 
+
+
+
+Restaurant Search 
+
+
+
+
+
+
+
+The High End 
+
+
+
+Commercial 
+
+
+
+iPhone App 
+
+
+
+Find A Home 
+
+
+
+My Real Estate 
+
+
+
+List Your Home 
+
+
+
+
+
+
+
+U.S. & Politics 
+
+
+
+International 
+
+
+
+N.Y. 
+
+
+
+Op-Docs 
+
+
+
+Opinion 
+
+
+
+Times Documentaries 
+
+
+
+Business 
+
+
+
+Tech 
+
+
+
+Culture 
+
+
+
+Style 
+
+
+
+T Magazine 
+
+
+
+Health 
+
+
+
+Food 
+
+
+
+Travel 
+
+
+
+Sports 
+
+
+
+Real Estate 
+
+
+
+Science 
+
+
+
+
+
+
+
+Women in the World 
+
+
+
+New Work Summit 
+
+
+
+Art for Tomorrow 
+
+
+
+Higher Ed Leaders Forum 
+
+
+
+Cities for Tomorrow 
+
+
+
+Athens Democracy Forum 
+
+
+
+Luxury Travel Conference 
+
+
+
+Energy for Tomorrow 
+
+
+
+DealBook Conference 
+
+
+
+
+
+
+
+Home Page 
+
+
+
+Home Page 
+
+
+
+World 
+
+
+
+
+
+
+U.S. 
+
+
+
+
+
+
+Politics 
+
+
+
+
+
+
+N.Y. 
+
+
+
+
+
+
+Business 
+
+
+
+
+
+
+Business 
+
+
+
+
+
+
+Opinion 
+
+
+
+
+
+
+Opinion 
+
+
+
+
+
+
+Tech 
+
+
+
+
+
+
+Science 
+
+
+
+
+
+
+Health 
+
+
+
+
+
+
+Sports 
+
+
+
+
+
+
+Sports 
+
+
+
+
+
+
+
+
+
+
+Arts 
+
+
+
+
+
+
+Arts 
+
+
+
+
+
+
+Fashion & Style 
+
+
+
+
+
+
+Fashion & Style 
+
+
+
+
+
+
+Food 
+
+
+
+
+
+
+Food 
+
+
+
+
+
+
+Travel 
+
+
+
+Magazine 
+
+
+
+T Magazine 
+
+
+
+Real Estate 
+
+
+
+
+
+
+Obituaries 
+
+
+
+Video 
+
+
+
+
+
+
+The Upshot 
+
+
+
+Conferences 
+
+
+
+
+
+
+
+
+
+
+Crossword 
+
+
+
+Times Insider 
+
+
+
+The Learning Network 
+
+
+
+
+
+
+
+Multimedia 
+
+
+
+Photography 
+
+
+
+Podcasts 
+
+
+
+
+
+
+
+NYT Store 
+
+
+
+NYT Wine Club 
+
+
+
+nytEducation 
+
+
+
+Times Journeys 
+
+
+
+Meal Kits 
+
+
+
+
+
+
+
+Subscribe 
+
+
+
+Manage Account 
+
+
+
+Today's Paper 
+
+
+
+Blogs 
+
+
+
+Times Topics 
+
+
+
+Tools & Services 
+
+
+
+Jobs 
+
+
+
+Classifieds 
+
+
+
+Corrections 
+
+
+
+
+
+
+
+
+
+
+
+
+Charles M. Blow 
+
+
+
+David Brooks 
+
+
+
+Frank Bruni 
+
+
+
+Roger Cohen 
+
+
+
+Gail Collins 
+
+
+
+Ross Douthat 
+
+
+
+Maureen Dowd 
+
+
+
+Thomas L. Friedman 
+
+
+
+Nicholas Kristof 
+
+
+
+Paul Krugman 
+
+
+
+Joe Nocera 
+
+
+
+
+
+Charles M. Blow 
+
+
+
+David Brooks 
+
+
+
+Frank Bruni 
+
+
+
+Roger Cohen 
+
+
+
+Gail Collins 
+
+
+
+Ross Douthat 
+
+
+
+Maureen Dowd 
+
+
+
+Thomas L. Friedman 
+
+
+
+Nicholas Kristof 
+
+
+
+Paul Krugman 
+
+
+
+Joe Nocera 
+
+
+
+
+
+
+Close this modal window
+
+
+
+
+
+
+
+
+Verified Commenters 
+can leave comments on NYTimes.com without initial moderation. Verified status is earned based on a history of quality comments. 
+
+
+Close this modal window
+
+campaign: abTest_internationalFlag -- 282982, creative: abTest_internationalFlag_creative -- 412153, page: www.nytimes.com/growl, targetedPage: www.nytimes.com/growl, position: data3
+campaign: inyt2014_data_element_loonie -- 264980, creative: inyt2014_Can_data_element -- 391670, page: www.nytimes.com/growl, targetedPage: www.nytimes.com/growl, position: data_country
+
+campaign: abTest_anchor_ft_inyt_canada_1216 -- 285000, creative: abTest_anchor_ft_inyt_canada_1216_ad -- 415433, page: www.nytimes.com/growl, targetedPage: www.nytimes.com/growl, position: Left9
+
+
+You have
+2 free stories
+remaining this month.Subscriber log in
+Start free trial
+Keep reading with a four week free trial.Unlimited access on all devicesNo credit card required
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%function showDivShare() {
+  updateShareLinks();
+  document.getElementById("SHARER"  ).style.display="none";
+  document.getElementById("DIVSHARE").style.display="block";
+  return false;
+}
+function updateShareLinks() {
+  var shortlink = "http://archive.is/wKOBW";
+  var re = new RegExp(shortlink.replace(".", "\.") + "(#selection-[0-9.-]+)?");
+  var adr = document.location.hash.match(/(selection-\d+\.\d+-\d+\.\d+)/);
+  document.getElementById("SHARE_SHORTLINK").value = document.getElementById("SHARE_SHORTLINK").value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_MARKDOWN" ).value = document.getElementById("SHARE_MARKDOWN" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_HTMLCODE" ).value = document.getElementById("SHARE_HTMLCODE" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_WIKICODE" ).value = document.getElementById("SHARE_WIKICODE" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+}
+function findXY(obj) {
+  var cur = {x:0, y:0};
+  while (obj && obj.offsetParent) {
+    cur.x += obj.offsetLeft; // todo: + webkit-transform
+    cur.y += obj.offsetTop; // todo: + webkit-transform
+    obj = obj.offsetParent;
+  }
+  return cur;
+}
+function findXY2(obj, textpos) { // it could reset selection
+  if (obj.nodeType==3) {
+    var parent = obj.parentNode;
+    var text = document.createTextNode(obj.data.substr(0, textpos));
+    var artificial = document.createElement("SPAN");
+    artificial.appendChild(document.createTextNode(obj.data.substr(textpos)));
+    parent.insertBefore(text, obj);
+    parent.replaceChild(artificial, obj);
+    var y = findXY(artificial);
+    parent.removeChild(text);
+    parent.replaceChild(obj, artificial);
+    return y;
+  } else {
+    return findXY(obj);
+  }
+}
+var prevhash = "";
+function scrollToHash() {
+  if (document.location.hash.replace(/^#/, "")==prevhash.replace(/^#/, ""))
+    return;
+  prevhash = document.location.hash;
+  if (document.location.hash.match(/#[0-9.]+%/)) {
+    var p = parseFloat(document.location.hash.substring(1));
+    if (0 < p && p < 100 /*&& p%5 != 0*/) {
+      var content = document.getElementById("CONTENT")
+      var y = findXY(content).y + (content.offsetHeight)*p/100;
+      window.scrollTo(0, y-16);
+    }
+  }
+
+  var adr = document.location.hash.match(/selection-(\d+)\.(\d+)-(\d+)\.(\d+)/);
+  if (adr) {
+    var pos=0,begin=null,end=null;
+    function recur(e) {
+      if (e.nodeType==1) pos = (pos&~1)+2;
+      if (e.nodeType==3) pos = pos|1;
+      if (pos==adr[1]) begin=[e, adr[2]];
+      if (pos==adr[3]) end  =[e, adr[4]];
+      for (var i=0; i<e.childNodes.length; i++)
+        recur(e.childNodes[i]);
+      if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+        pos = (pos&~1)+2;
+    }
+    var content = document.getElementById("CONTENT");
+    recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+    if (begin!=null && end!=null) {
+      window.scrollTo(0, findXY2(begin[0], begin[1]).y-8);
+
+      if (window.getSelection) {
+        var sel = window.getSelection();
+        sel.removeAllRanges();
+        var range = document.createRange();
+        range.setStart(begin[0], begin[1]);
+        range.setEnd  (  end[0],   end[1]);
+        sel.addRange(range);
+      } else if (document.selection) { // IE
+      }
+    }
+  }
+}
+window.onhashchange = scrollToHash;
+var initScrollToHashDone = false;
+function initScrollToHash() {
+  if (!initScrollToHashDone) {
+    initScrollToHashDone = true;
+    scrollToHash();
+  }
+}
+window.onload = initScrollToHash;
+setTimeout(initScrollToHash, 500); /* onload can be delayed by counter code */
+
+//document.onselectionchange = /* only webkit has working document.onselectionchange */
+document.onmousedown = document.onmouseup = function(e) {
+  var SHARER = document.getElementById("SHARER");
+  var newhash = "";
+  if (window.getSelection) {
+    var sel=window.getSelection();
+    if (!sel.isCollapsed) {
+      var pos=0,begin=[0,0],end=[0,0];
+      var range=sel.getRangeAt(0);
+      function recur(e) {
+        if (e.nodeType==1) pos = (pos&~1)+2;
+        if (e.nodeType==3) pos = pos|1;
+        if (range.startContainer===e) begin=[pos, range.startOffset];
+        if (range.endContainer  ===e) end  =[pos, range.endOffset  ];
+        for (var i=0; i<e.childNodes.length; i++)
+          recur(e.childNodes[i]);
+        if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+          pos = (pos&~1)+2;
+      }
+
+      var content = document.getElementById("CONTENT");
+      recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+      if (begin[0]>0 && end[0]>0) {
+        newhash = "selection-"+begin[0]+"."+begin[1]+"-"+end[0]+"."+end[1];
+      }
+    }
+  } else if (document.selection) { // IE
+  }
+
+  try {
+    var oldhash = location.hash.replace(/^#/, "");
+    if (oldhash != newhash) {
+      prevhash = newhash; /* avoid firing window.onhashchange and scrolling */
+      if (history.replaceState) {
+        history.replaceState('', document.title, newhash.length>0 ? '#'+newhash : window.location.pathname);
+      } else {
+        if (newhash.length>0) location.hash = newhash;
+      }
+    }
+  } catch(e) {
+  }
+
+  if (newhash == "") {
+    SHARER.style.display="none";
+  }
+};
+
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: ""+63*44843, type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+document.cookie="_ga=GA1.2.661111166."+Math.floor((new Date()).getTime()/1000)+";expires="+(new Date((new Date()).getTime()+2*60*60*1000)).toUTCString()+";path=/";
+
+
+

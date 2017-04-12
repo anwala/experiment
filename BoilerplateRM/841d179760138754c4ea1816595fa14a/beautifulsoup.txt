@@ -1,0 +1,1738 @@
+
+
+
+//<![CDATA[
+(function(){function d(b){var a=window;if(a.addEventListener)a.addEventListener("load",b,!1);else if(a.attachEvent)a.attachEvent("onload",b);else{var c=a.onload;a.onload=function(){b.call(this);c&&c.call(this)}}}var p=Date.now||function(){return+new Date};window.pagespeed=window.pagespeed||{};var q=window.pagespeed;function r(){this.a=!0}r.prototype.c=function(b){b=parseInt(b.substring(0,b.indexOf(" ")),10);return!isNaN(b)&&b<=p()};r.prototype.hasExpired=r.prototype.c;r.prototype.b=function(b){return b.substring(b.indexOf(" ",b.indexOf(" ")+1)+1)};r.prototype.getData=r.prototype.b;r.prototype.f=function(b){var a=document.getElementsByTagName("script"),a=a[a.length-1];a.parentNode.replaceChild(b,a)};r.prototype.replaceLastScript=r.prototype.f;
+r.prototype.g=function(b){var a=window.localStorage.getItem("pagespeed_lsc_url:"+b),c=document.createElement(a?"style":"link");a&&!this.c(a)?(c.type="text/css",c.appendChild(document.createTextNode(this.b(a)))):(c.rel="stylesheet",c.href=b,this.a=!0);this.f(c)};r.prototype.inlineCss=r.prototype.g;
+r.prototype.h=function(b,a){var c=window.localStorage.getItem("pagespeed_lsc_url:"+b+" pagespeed_lsc_hash:"+a),f=document.createElement("img");c&&!this.c(c)?f.src=this.b(c):(f.src=b,this.a=!0);for(var c=2,k=arguments.length;c<k;++c){var g=arguments[c].indexOf("=");f.setAttribute(arguments[c].substring(0,g),arguments[c].substring(g+1))}this.f(f)};r.prototype.inlineImg=r.prototype.h;
+function t(b,a,c,f){a=document.getElementsByTagName(a);for(var k=0,g=a.length;k<g;++k){var e=a[k],m=e.getAttribute("data-pagespeed-lsc-hash"),h=e.getAttribute("data-pagespeed-lsc-url");if(m&&h){h="pagespeed_lsc_url:"+h;c&&(h+=" pagespeed_lsc_hash:"+m);var l=e.getAttribute("data-pagespeed-lsc-expiry"),l=l?(new Date(l)).getTime():"",e=f(e);if(!e){var n=window.localStorage.getItem(h);n&&(e=b.b(n))}e&&(window.localStorage.setItem(h,l+" "+m+" "+e),b.a=!0)}}}
+function u(b){t(b,"img",!0,function(a){return a.src});t(b,"style",!1,function(a){return a.firstChild?a.firstChild.nodeValue:null})}
+q.i=function(){if(window.localStorage){var b=new r;q.localStorageCache=b;d(function(){u(b)});d(function(){if(b.a){for(var a=[],c=[],f=0,k=p(),g=0,e=window.localStorage.length;g<e;++g){var m=window.localStorage.key(g);if(!m.indexOf("pagespeed_lsc_url:")){var h=window.localStorage.getItem(m),l=h.indexOf(" "),n=parseInt(h.substring(0,l),10);if(!isNaN(n))if(n<=k){a.push(m);continue}else if(n<f||0==f)f=n;c.push(h.substring(l+1,h.indexOf(" ",l+1)))}}k="";f&&(k="; expires="+(new Date(f)).toUTCString());
+document.cookie="_GPSLSC="+c.join("!")+k;g=0;for(e=a.length;g<e;++g)window.localStorage.removeItem(a[g]);b.a=!1}})}};q.localStorageCacheInit=q.i;})();
+pagespeed.localStorageCacheInit();
+//]]>.iabUnit .iabUnitLoader{margin:0 auto;font-size:10px;position:relative;text-indent:-9999em;border-top:1.1em solid rgba(51,51,51,.2);border-right:1.1em solid rgba(51,51,51,.2);border-bottom:1.1em solid rgba(51,51,51,.2);border-left:1.1em solid #fff;-webkit-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0);-webkit-animation:iabUnitLoad8 1.1s infinite linear;animation:iabUnitLoad8 1.1s infinite linear}.iabUnit .iabUnitLoader,.iabUnit .iabUnitLoader:after{border-radius:50%;top:50%;left:50%;position:absolute;margin:-50px 0 0 -50px;width:100px;height:100px}.iabUnit #iabUnitInner.iabUnitInnerOpacity{opacity:0;min-height:415px}.iabUnit .iabUnitLoader{margin:0 auto;font-size:10px;position:relative;text-indent:-9999em;border-top:1.1em solid rgba(51,51,51,.2);border-right:1.1em solid rgba(51,51,51,.2);border-bottom:1.1em solid rgba(51,51,51,.2);border-left:1.1em solid #fff;-webkit-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0);-webkit-animation:iabUnitLoad8 1.1s infinite linear;animation:iabUnitLoad8 1.1s infinite linear}.iabUnit .iabUnitLoader,.iabUnit .iabUnitLoader:after{border-radius:50%;top:50%;left:50%;position:absolute;margin:-50px 0 0 -50px;width:100px;height:100px}.iabUnit #iabUnitInner.iabUnitInnerOpacity{opacity:0;min-height:415px}
+		window.tmgFacebookAppId = "1785449471702494";
+	
+
+					// Meter did not return any assign values
+					
+
+						var tmg = tmg || {};
+						tmg.COMMENTING_STATUS = true;
+					
+Arsene Wenger criticism is unnecessary - Arsenal should be glad to have exited EFL Cup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		var gs_channels="default";
+		// Last-updated: 2017-03-14 17:01:42.468
+gs_channels="spt_football,trv_holidays,reader_offers";
+
+
+
+		
+
+	{"@context":"https://schema.org","@type":"NewsArticle","headline":"Arsene Wenger criticism is unnecessary - Arsenal should be glad to have exited EFL Cup","url":"http://www.telegraph.co.uk/football/2016/12/01/arsenal-should-glad-efl-cup/","thumbnailUrl":"http://www.telegraph.co.uk/content/dam/football/2016/12/01/JS114961841_arsenal_sport-thumbnail_trans_NvBQzQNjv4Bq1TYULLf6uJ0HC15x5gRMXJoGS8xUmVg-GleGJhDC0os.jpg","dateCreated":"2016-12-01T11:44:18Z","articleSection":"Sport","creator":["Charlie Eccleshare"],"keywords":["Football","Story","Antonio Conte","Sport","Football","Comment","Jurgen Klopp","Brendan Rodgers","Claudio Ranieri","Champions League","Jose Mourinho","Arsenal FC","Arsene Wenger"]}
+
+	
+
+
+	var pageData = {"topics":{"people":{"antonio-conte":{},"jurgen-klopp":{},"brendan-rodgers":{},"claudio-ranieri":{},"jose-mourinho":{},"arsene-wenger":{}},"events":{"champions-league":{}},"organisations":{"arsenal-fc":{}}},"structure":{"sport":{},"football":{}},"storytype":{"comment":{}}};
+
+	
+
+		var tmgAds = tmgAds || {};
+		tmgAds.cmd = tmgAds.cmd || [];
+		tmgAds.model = [{"ruleName":"MPU 680px 15secs","model":"mpu","minHeight":680,"refreshRate":15000,"refreshCycle":0,"viewport":"x"},{"ruleName":"MPU 680px 15secs","model":"mpu","minHeight":680,"refreshRate":15000,"refreshCycle":0,"viewport":"l"},{"ruleName":"MobBan 30secs NoRefresh","model":"ban","minHeight":0,"refreshRate":30000,"refreshCycle":1,"viewport":"m"},{"ruleName":"MobBan 30secs NoRefresh","model":"ban","minHeight":0,"refreshRate":30000,"refreshCycle":1,"viewport":"s"},{"ruleName":"MobBan 30secs NoRefresh","model":"ban","minHeight":0,"refreshRate":30000,"refreshCycle":1,"viewport":"xs"}];
+
+
+	var dataLayer = {pageName:'Football\\\/2016\\\/12\\\/01\\\/Arsene Wenger criticism is unnecessary \- Arsenal should be glad to have exited EFL Cup', pageType: 'articleRenderer2', premiumContent: false, premiumOverride: true, pageId: 'Am9C52ZT6fzl', rollupContentPath: '/football/2016/12/01/arsenal-should-glad-efl-cup', videoEmbedded: 'true', videoEmbedCount: '1' };
+
+
+		var RUM=(function(n,k){var m=[];var c=[];var b="RUM_start";var l=n.performance||{};var j=Date.now?Date.now():+(new Date());if(l&&l.timing&&l.timing.navigationStart){j=l.timing.navigationStart}function e(){if(l){if(l.now){return l.now()}else{if(l.webkitNow){return l.now()}else{if(l.msNow){return l.now()}else{if(l.mozNow){return l.now()}}}}}var d=Date.now?Date.now():+(new Date());return d-j}function h(d){if(l){if(l.mark){return l.mark(d)}else{if(l.webkitMark){return l.webkitMark(d)}}}m.push({name:d,entryType:"mark",startTime:e(),duration:0});return}function a(o,r,q){if(typeof(r)==="undefined"&&g(b)){r=b}if(l){if(l.measure){if(r){if(q){return l.measure(o,r,q)}else{return l.measure(o,r)}}else{return l.measure(o)}}else{if(l.webkitMeasure){return l.webkitMeasure(o,r,q)}}}var t=0;var d=d();if(r){var p=g(r);if(p){t=p.startTime}else{if(l&&l.timing&&l.timing[r]){t=l.timing[r]-l.timing.navigationStart}else{return}}}if(q){var s=g(q);if(s){d=s.startTime}else{if(l&&l.timing&&l.timing[q]){d=l.timing[q]-l.timing.navigationStart}else{return}}}c.push({name:o,entryType:"measure",startTime:t,duration:(d-t)});return}function g(d){return f(d,i())}function f(o,d){for(var p=d.length-1;p>=0;p--){var q=d[p];if(o===q.name){return q}}return undefined}function i(){if(l){if(l.getEntriesByType){return l.getEntriesByType("mark")}else{if(l.webkitGetEntriesByType){return l.webkitGetEntriesByType("mark")}}}return m}return{now:e,mark:h,measure:a,marks:m,measures:c}}(window,document));(function(m,o){var r=m,n=o;var q=function(j,i,d,t){var s=new FontFace(i,"url("+d+")",{});s.load().then(function(u){n.fonts.add(u)})};var f=function(j,i,d,s){j.appendChild(n.createTextNode("			@font-face {			    font-family: '"+i+"';			    src: url('"+d+"') format('"+s+"');			}		"))};var b=function(){if(c()){var d=new r.FontFace("t",'url( "data:application/font-woff2;base64,d09GMgABAAAAAAIkAAoAAAAABVwAAAHcAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABlYAgloKLEoBNgIkAxgLDgAEIAWDcgc1G7IEyB6SJAFID5YA3nAHC6h4+H7s27nP1kTyOoQkGuJWtNGIJKYznRI3VEL7IaHq985ZUuKryZKcAtJsi5eULwUybm9KzajBBhywZ5ZwoJNuwDX5C/xBjvz5DbsoNsvG1NGQiqp0NMLZ7JlnW+5MaM3HwcHheUQeiVokekHkn/FRdefvJaTp2PczN+I1Sc3k9VuX51Tb0Tqqf1deVXGdJsDOhz0/EffMOPOzHNH06pYkDDjs+P8fb/z/8n9Iq8ITzWywkP6PBMMN9L/O7vY2FNoTAkp5PpD6g1nV9WmyQnM5uPpAMHR2fe06jbfvzPriekVTQxC6lpKr43oDtRZfCATl5OVAUKykqwm9o8R/kg37cxa6eZikS7cjK4aIwoyh6jOFplhFrz2b833G3Jii9AjDUiAZ9AxZtxdEYV6imvRF0+0Nej3wu6nPZrTLh81AVcV3kmMVdQj6Qbe9qetzbuDZ7vXOlRrqooFSxCv6SfrDICA6rnHZXQPVcUHJYGcoqa3jVH7ATrjWBNYYkEqF3RFpVIl0q2JvMOJd7/TyjXHw2NyAuJpNaEbz8RTEVtCbSH7JrwQQOqwGl7sTUOtdBZIY2DKqKlvOmPvUxJaURAZZcviTT0SKHCXqzwc=" ) format( "woff2" )',{});d.load()["catch"](function(){});if(d.status==="loading"||d.status==="loaded"){return"woff2"}}return"woff"};var c=function(){return("FontFace" in r)};var p=n.querySelectorAll(".tmgfont"),b=b(),l="data-font-file-"+b;for(var k=0,h=p.length;k<h;++k){var g=p[k],a=g.getAttribute("data-font-name"),e=g.getAttribute(l);if(c()){q(g,a,e,b)}else{f(g,a,e,b)}}})(window,document);
+	
+
+		RUM.mark( 'CSS Loaded' );
+	
+
+		window.clientlibs ={"css":{},"js":{"respond_js":{"load":["/etc/designs/telegraph/core/clientlibs/respond.min.3-5--0.js"],"test":"Modernizr.mq(\"only all\")"},"json_js":{"load":["/etc/designs/telegraph/core/clientlibs/json.min.3-5--0.js"],"test":"window.JSON"},"core_js":{"load":["/etc/designs/telegraph/core/clientlibs/core.min.3-5--0.js"]},"sport_js":{"load":["/etc/designs/telegraph/core/clientlibs/tmgchannels/sport.min.3-5--0.js"]}}};
+	
+
+
+		window.clientlibs.js.twitter_js = {
+			test: "document.querySelectorAll && document.querySelectorAll('.twitter-follow-button, .twitter-tweet, .twitter-timeline').length === 0",
+			load: ["//platform.twitter.com/widgets.js"]
+		};
+		<!-- /* We cannot compile this JS into our clientLibs due to syntax errors in the Ooyala vendor files and our version of YUI compressor */ -->
+		window.clientlibs.js.ooyala_core = {
+			test: true,
+			load: ["/etc/designs/telegraph/core/clientlibs/core/vendor/ooyala/ooyala-player.min.js"]
+		};
+		window.clientlibs.js.google_maps = {
+			test: "document.querySelectorAll && !document.querySelectorAll('.js-product-map').length",
+			load: ["//maps.googleapis.com/maps/api/js?v=3&sensor=false&callback=tmgJQ.fn.telegraph_product_map"]
+		};
+		window.clientlibs.js.facebook_sdk = {
+			test: "document.querySelectorAll && document.querySelectorAll('.fb-page').length === 0",
+			load: ["//connect.facebook.net/en_GB/sdk.js"]
+		};
+	
+
+		window.tmg.dataLayerUtils.update();
+	
+
+
+
+
+	window.tmgOoyala = {
+		api: {
+			pcode: 'RvbGU6Z74XE_a3bj4QwRGByhq9h2',
+			playerBrandingId: 'ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5'
+		}
+	};
+
+
+
+
+
+    /*
+    * This script should be just after the open <body> tag
+    */
+    (function(){
+        if(window.XMLHttpRequest && window.tmg && window.tmg.GET_PARAM && typeof tmg.GET_PARAM.playlist != 'undefined') {
+
+            // inject CSS to hide the content
+            var currentCssVersion = '',
+                    xmlhttp = new XMLHttpRequest(),
+                    headTag = document.querySelector("head"),
+                    bodyTag = document.body,
+                    loadingDiv, metas = headTag.getElementsByTagName('meta'),
+                    videoURL,
+                    createElement = function(tag, attrs, innerHTML, parent) {
+                        var el = document.createElement(tag);
+                        if(typeof attrs == 'object') {
+                            for(k in attrs) {
+                                el.setAttribute(k, attrs[k]);
+                            }
+                        }
+                        if(typeof innerHTML === 'string' && innerHTML !== '')
+                            el.innerHTML = innerHTML;
+                        if(typeof parent === 'object')
+                            parent.appendChild(el);
+                        return el;
+                    },
+                    removeMetaIfExists = function (key) {
+                        // metas is defined outside this function
+                        for (var i = 0; i < metas.length; i++) {
+                            if (metas[i].getAttribute('name') == key) {
+                                headTag.removeChild(metas[i]);
+                            }
+                        }
+                    };
+
+            document.documentElement.className += ' video-loading';
+
+            // video player placeholder DIV with the loading image
+            loadingDiv = createElement(
+                'div',
+                {"id":"loading"},
+                '<div class="loading-content"><div class="loading-indicator loading-indicator--mediumBorder">' +
+                    '<div class="loading-indicator__cube"></div>' +
+                    '<div class="loading-indicator__cube"></div>' +
+                    '<div class="loading-indicator__cube"></div>' +
+                    '<div class="loading-indicator__cube"></div>' +
+                    '<div class="loading-indicator__cube"></div>' +
+                '</div></div>', bodyTag
+            );
+
+            // append video CSS tag to head
+            createElement(
+                'link',
+                {
+                    "href":"/etc/designs/telegraph/core/clientlibs/tmgchannels/video." + currentCssVersion + ".css",
+                    "rel":"stylesheet"
+                }, '',  headTag
+            );
+
+            // remove metas
+            removeMetaIfExists('tmgads.pagetype');
+            removeMetaIfExists('DCSext.Content_Type');
+            // append video meta datas
+            createElement('meta', {'name':'tmgads.pagetype', 'content':'video-play'}, '', headTag);
+            createElement('meta', {'name':'DCSext.Content_Type', 'content':'video-play'}, '', headTag);
+
+            // Static Overwrites are defined in metaTags
+            if(typeof metaStaticOverwrites === 'object') {
+                for(key in metaStaticOverwrites) {
+                    removeMetaIfExists(key);
+                    createElement('meta', {'name':key, 'content':metaStaticOverwrites[key]}, '', headTag);
+                }
+            }
+            if(typeof dataLayerStaticOverwrites === 'object' && typeof dataLayer === 'object') {
+                for(key in dataLayerStaticOverwrites) {
+                    dataLayer[key] = dataLayerStaticOverwrites[key];
+                }
+            }
+
+            if(typeof tmgAds === 'object') {
+                if(typeof tmgAdsInitData === 'function') {
+                    tmgAdsInitData(tmgAds);
+                }
+                if(typeof tmgAdsInitDFP === 'function') {
+                    tmgAdsInitDFP(tmgAds);
+                }
+            }
+
+            setTimeout(function() {
+                loadingDiv.innerHTML =  '<div class="loading-content">' +
+                                            '<a href="' + window.location + '"><p>' +
+                                                'It looks like something is not quite right<br> with your internet connection.<br> Please refresh the page and retry.' +
+                                            '</p></a>' +
+                                        '</div>';
+            }, 10000);
+
+            // get json
+            xmlhttp.onreadystatechange = function() {
+                if (xmlhttp.readyState === XMLHttpRequest.DONE ) {
+                    // if (status code == 200)
+                    if(xmlhttp.status === 200){
+                        // Remove old content from DOM
+                        var mainContents = document.getElementsByClassName('main-content'),
+                            videoPageMainContents;
+
+                        // append new content template
+                        var videoPage = createElement('div', {}, xmlhttp.responseText, false);
+                        videoPageMainContents = videoPage.getElementsByClassName('main-content');
+                        videoPlayerContents = videoPage.getElementsByClassName('videoPlayer');
+
+                        // remove removeMe DIV
+                        // simulating a small delay...
+                        if(mainContents.length && videoPageMainContents.length && videoPlayerContents.length) {
+                            mainContents[0].innerHTML = videoPageMainContents[0].innerHTML;
+                            mainContents[0].className += ' videoRenderer';
+
+                            // just be sure everything is actually written to the DOM before we close the loading
+                            setTimeout(function(){
+                                document.documentElement.className = document.documentElement.className.replace(' video-loading', '');
+                                bodyTag.removeChild(document.getElementById('loading'));
+
+                                var event = new CustomEvent('tmg:page-loaded', { bubbles: true, cancelable: true, detail: undefined });
+                                document.dispatchEvent(event);
+                            }, 0);
+                        } else {
+                            // remove playlist GET from URL by redirecting to the article
+                            window.location.replace(window.location.origin + window.location.pathname);
+                        }
+                    }
+                    // else status code != 200
+                    else {
+                        // remove playlist GET from URL by redirecting to the article
+                        window.location.replace(window.location.origin + window.location.pathname);
+                    }
+                }
+            }
+
+
+            videoURL = window.location.protocol + '//' + window.location.host
+
+            /*
+            Making it work in local as well as on live
+            article/?playlist=
+            article.html?playlist=
+            */
+
+            // does it end in .html?
+            if(window.location.pathname.indexOf('.html', window.location.pathname.length - 5) !== -1) {
+                videoURL += window.location.pathname.replace(/\.html$/, '.video.html');
+            } else {
+                videoURL += window.location.pathname.replace(/\/$/, '.video/');
+            }
+
+            videoURL += (window.location.href.indexOf('wcmmode=disabled') != -1 ? '?wcmmode=disabled' : '')
+
+            // tmg.GET_PARAM.playlist
+            xmlhttp.open("GET", videoURL, true);
+            xmlhttp.send();
+
+        }
+    })()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Premium
+
+
+
+
+News
+
+
+
+
+Sport
+
+
+
+
+Business
+
+
+
+
+Money
+
+
+
+
+Opinion
+
+
+
+
+Obituaries
+
+
+
+
+Travel
+
+
+
+
+Tech & Science
+
+
+
+
+Culture
+
+
+
+
+Film
+
+
+
+
+TV
+
+
+
+
+Lifestyle
+
+
+
+
+Fashion
+
+
+
+
+Luxury
+
+
+
+
+Cars
+
+
+
+
+Video
+
+
+
+
+
+
+
+
+
+
+
+
+
+Free Mobile App
+
+
+
+
+Jobs
+
+
+
+
+Financial Services
+
+
+
+
+Rewards
+
+
+
+
+Events
+
+
+
+
+Dating
+
+
+
+
+Offers
+
+
+
+
+Shop
+
+
+
+
+Garden Shop
+
+
+
+
+Bookshop
+
+
+
+
+Box Office
+
+
+
+
+Puzzles
+
+
+
+
+Fantasy Football
+
+
+
+
+Wine Shop
+
+
+
+
+Work at The Telegraph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log out
+
+
+
+
+My Account
+
+
+
+
+Subscribe
+
+
+
+
+Rewards
+
+
+
+
+Video
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+
+
+Register
+
+
+
+
+Subscribe
+
+
+
+
+Rewards
+
+
+
+
+Video
+
+
+
+
+
+
+
+
+
+
+Log out
+
+
+
+
+Rewards
+
+
+
+
+My Account
+
+
+
+
+Video
+
+
+
+
+
+
+
+(function () {
+  var links = document.querySelectorAll('.header-nav-global__link');
+	for (var i = 0; i < links.length; i++) {
+		links[i].href = tmg.updateRedirectParam(links[i].href, document.location.href);
+	}
+}());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+News
+
+
+
+
+Sport
+
+
+
+
+Business
+
+
+
+
+
+
+
+
+
+
+ALL SECTIONS
+
+
+
+
+
+
+
+
+Sport
+Football
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Football
+
+
+
+
+Live scores
+
+
+
+
+Fixtures
+
+
+
+
+Results
+
+
+
+
+Tables
+
+
+
+
+Premier League
+
+
+
+
+Champions League
+
+
+
+
+Fantasy Football
+
+
+
+
+FA Cup
+
+
+
+
+League Cup
+
+
+
+
+Europa League
+
+
+
+
+Euro 2016
+
+
+
+
+Transfers
+
+
+
+
+Football nerd email
+
+
+
+
+A-Z
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Telegraph
+
+
+Sport
+
+
+Football
+
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http://www.telegraph.co.uk/","name":"Telegraph"}},{"@type":"ListItem","position":2,"item":{"@id":"http://www.telegraph.co.uk/sport/","name":"Sport"}},{"@type":"ListItem","position":3,"item":{"@id":"http://www.telegraph.co.uk/football/","name":"Football"}}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arsene Wenger criticism is unnecessary - Arsenal should be glad to have exited EFL Cup
+
+
+
+
+
+Charlie Eccleshare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 December 2016 • 11:34am
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arsenal players react during their EFL Cup defeat to Southampton on Wednesday night 
+
+Credit:
+PA
+
+
+
+
+
+
+
+
+
+
+
+
+
+After Arsenal's limp 2-0 defeat by Southampton in the EFL Cup quarter-final on Wednesday, it was easy to criticise the team and manager Arsene Wenger. 
+Wenger had made 10 changes for the match, and the side inevitably looked disjointed at times. 
+But aside from the knee-jerk instinct to condemn a team that has just been outplayed and lost a match, can anyone honestly say they think Arsenal going out of the EFL Cup is a major setback?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arsenal were outclassed by Southampton on Wednesday
+
+
+
+
+
+
+
+
+Does anyone really believe that winning the EFL Cup would alter Wenger's standing with the supporters, or affect his legacy when he leaves?
+You can say football is all about winning trophies but put it this way: in seven out of the last 10 seasons, the manager who has won the League Cup has been sacked within a year. 
+Kenny Dalglish, Michael Laudrup, Juande Ramos and even Jose Mourinho can tell you that the League Cup does not count as much of a defence when your chairman is about to hand out a P45. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alexis Sanchez was one of many Arsenal first-team players rested on Wednesday
+
+
+
+
+
+
+
+
+Even Wenger himself was given little slack for winning consecutive FA Cups between 2014 and 2015, so it's unlikely the lesser regarded League Cup would satisfy supporters. And imagine the hand-wringing if Wenger had played a full strength team against Southampton and one of Mesut Ozil and Alexis Sanchez had got injured. As it was the likes of Lucas Perez and Kieran Gibbs got valuable minutes as they try and fight for a regular place in the first team. 
+Fundamentally Arsenal could do with having a slight reduction on their workload. They have already played 21 matches this season (the joint most in the top flight), five more than Chelsea, and are hopeful of runs in the FA Cup and the Champions League while battling with the customary cocktail of injuries. 
+The comparison with Chelsea is particularly pertinent because Antonio Conte has demonstrated how much of a difference not playing midweek football can make to the preparation of a team. With no European football and an early EFL Cup exit, Conte has been able to introduce a whole new system midway through the season and name pretty much the same team every week. Jurgen Klopp is enjoying similar benefits from no European football at Liverpool, as his predecessor Brendan Rodgers did in 2013-14 and likewise Claudio Ranieri at Leicester last season. 
+
+
+
+
+
+
+
+
+
+
+
+
+Arsenal are still in Europe of course and will be until at least March, but now they at least have two fewer matches  on the horizon. 
+And while Manchester United manager Mourinho has been praised by some for taking the EFL Cup seriously and naming a strong team against West Ham, he will be the first to complain about a fixture pile-up in January if the two-legged semi-final has an adverse affect on his team's League form. 
+Wenger's wholesale changes to the team that faced Southampton has been described by some as excessive, but it is a policy employed by many of his counterparts this season, including Saints manager Claude Puel on Wednesday night. And it's not just the likes of Conte, Klopp, Pep Guardiola and Mauricio Pochettino who have been similarly experimental, but many Championship and League One managers as well, such as Lee Johnson, who made nine changes to his Bristol City team for the visit of Hull in the fourth round. 
+
+
+
+
+
+
+
+
+
+
+
+Watch | Football fans spend the night at Man Utd stadium to watch Premier League game
+
+
+
+
+08:01
+
+
+
+
+
+
+
+
+
+
+
+It does all beg the question as to what purpose the EFL Cup serves, especially when England players look exhausted at every major tournament. There is undoubtedly a need for a winter break in the Premier League, but the powers that be could quite easily cut a possible seven matches from a team's workload by scrapping the EFL Cup. 
+It is easy to dismiss this point of view as big-team bias, but when you have lower-league teams like Bristol City and Preston North End, among numerous others, effectively changing their entire team for the competition, it's difficult to see who the competition is really for. 
+It's certainly not for Wenger, who has never won the competition. Wednesday's defeat could prove to be debilitating to Arsenal in that it ended a 19-match unbeaten run, but the burdensome scheduling in England makes a choice like the one Wenger, and the vast majority of his peers have made this season, essential. 
+Liverpool and Southampton could each play eight matches in January after six and seven respectively in December. It's little wonder most managers have taken evasive EFL Cup action.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow Telegraph Football
+
+
+
+
+
+
+
+
+READ MORE ABOUT:
+
+
+Brendan Rodgers
+
+
+Jose Mourinho
+
+
+Claudio Ranieri
+
+
+Antonio Conte
+
+
+Jurgen Klopp
+
+
+Arsenal FC
+
+
+Arsene Wenger
+
+
+Champions League
+
+
+Show more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            var canonical = "";
+            var links = document.getElementsByTagName("link");           	
+        	function getAbsoluteUrl() {                
+                for (var i = 0; i < links.length; i ++) {
+                    if (links[i].getAttribute("rel") === "canonical") {
+                        canonical = links[i].getAttribute("href")
+                    }
+                }
+				var element = document.getElementById("theOutbrainBit"); 
+  				element.setAttribute("data-src", canonical);
+			}
+			getAbsoluteUrl();
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sport latest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+5:21pm
+
+
+
+
+
+
+
+
+
+Live
+
+Cheltenham Festival, live: All the tips, latest news and odds on Champion Hurdle day
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+5:04pm
+
+
+
+Comment: Eddie Jones has liberated England from their inhibitions and given them a platform for self-expression
+
+
+Paul Hayward
+
+Premium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+5:00pm
+
+
+
+Romelu Lukaku rejects new £140,000-a-week Everton contract offer in massive setback to Ronald Koeman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+4:31pm
+
+
+
+Force India F1 team unveil new pink livery ahead of 2017 season
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+4:26pm
+
+
+
+English cricket's new T20 franchise game will lose £15 million in its first year 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+4:13pm
+
+
+
+Cheltenham Festival 2017 schedule, race start times and results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+4:10pm
+
+
+
+Paul O'Connell: 'Come Friday before Ireland v England you almost want to leave the country'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+3:40pm
+
+
+
+Diego Maradona recreates the 'Hand of God' goal - 31 years after he broke England hearts 
+
+
+
+
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+14 Mar 2017,
+2:58pm
+
+
+Gallery: UCI WorldTour 2017: Team-by-team guide to the season
+
+
+
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+14 Mar 2017,
+2:58pm
+
+
+Gallery: Milan-Sanremo 2017: Who are our top 10 tips to win la classica di Primavera?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+2:55pm
+
+
+
+Juventus vs Porto, Champions League: What time is kick off and what TV channel can I watch the game on?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+2:44pm
+
+
+
+Paris Saint-Germain send five-page letter and dossier of refereeing errors to Uefa following Barcelona defeat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+2:43pm
+
+
+
+Champion runner who wanted to compete as a woman jailed for attempted murder over testosterone levels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+2:34pm
+
+
+
+Cheltenham Festival is magnetic, unmissable and totally addictive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+2:33pm
+
+
+
+When is the Champions League quarter-final draw, what time is it and what TV channel is it on?   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+2:10pm
+
+
+
+Milan-Sanremo 2017: When is the race, what TV channel can I watch it on, who is on the startlist and what are the betting odds?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+1:59pm
+
+
+
+Leicester City vs Sevilla, Champions League: what time is kick-off, what TV channel is it on and what is our prediction? 
+
+
+
+
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+14 Mar 2017,
+1:39pm
+
+
+Gallery: Cheltenham Festival 2017 in pictures: celebrities, royals and racing  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+1:14pm
+
+
+
+Comment: Man Utd midfielder Paul Pogba earned few fans with lacklustre display in defeat to Chelsea and appears to be running on empty 
+
+
+James Ducker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+12:38pm
+
+
+
+The Rugby Debate: Six Nations transformation makes Sam Warburton as Lions captain a notion to warm to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Mar 2017,
+12:36pm
+
+
+
+Cheltenham tips: Day one best bets for Champion Hurdle and every other race 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you would like to add a comment, please register or log in
+
+
+Register
+Log in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact us
+
+
+
+
+Rewards
+
+
+
+
+Archive
+
+
+
+
+Reader Prints
+
+
+
+
+Advertising
+
+
+
+
+Syndication
+
+
+
+
+Guidelines
+
+
+
+
+Privacy
+
+
+
+
+Terms and Conditions
+
+
+
+
+Leave your feedback
+
+
+
+
+
+
+
+
+© Telegraph Media Group Limited 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        tmg.loadClientLibs.init();
+    
+
+_satellite.pageBottom();
+
+
+
+
+
+
+Your support makes a big difference
+In order to bring you award-winning content and investigative journalism from your favourite writers, we rely on revenue generated by advertising.
+Please consider supporting us by turning off your ad blocker.
+Just a couple of clicks will make a big difference.
+Thank you.
+
+Need help?
+Click here for instructions 
+
+Close
+
+
+
+

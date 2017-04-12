@@ -1,0 +1,1610 @@
+
+
+
+
+Howard Schultz stepping down as Starbucks CEO
+
+
+
+   
+
+
+
+
+
+
+
+
+			var _sf_async_config = _sf_async_config || {};
+			window._cbq = window._cbq || [];
+			window._cbq.push(['_nodeid', '104141017']);
+			window._cbq.push(['_image', 'http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/07/01/100856709-20130627-2974-178.1910x1000.jpg']);
+			 /** CONFIGURATION START **/
+
+												 						window._sf_async_config.path  = '/2016/12/01/howard-schultz-stepping-down-as-starbucks-ceo.html';
+ 						 					 					window._sf_async_config.alias = '/id/104141017';
+	 				 										window._sf_async_config.uid          = 48509;
+			window._sf_async_config.domain       = 'cnbc.com';
+						window._sf_async_config.useCanonical = true;
+			 /** CONFIGURATION END **/
+			var _sf_startpt = (new Date()).getTime();
+			window.setTimeout(function() {
+			  var hider = document.getElementById('chartbeat-flicker-control-style');
+			  if (hider) {
+				hider.parentNode.removeChild(hider);
+			  }
+			}, 1000);
+		
+
+            var postLoadFunctions = {};
+            var foresee_enabled = 1
+            var dynamic_yield_enabled = 1
+                    
+
+
+
+	
+	  var mpscall = {
+	 				'site' : 'cnbc.com-relaunch'  ,  
+
+					'content_id' : '104141017'  ,  
+
+					'path' : '/id/104141017'  ,  
+
+					'is_content' : '1'  ,  
+
+					'is_sponsored' : '0'  ,  
+
+					'adunits' : 'Top Banner|Badge A|Badge B|Badge C|Badge D|Flex Ad First|Box Ad 1|Non Iframe Custom|Inline Custom|Movable Box Ad|Responsive Rectangle'  ,  
+
+					'keywords' : '~'  ,  
+
+					'cat' : 'Consumer|Food and Beverage'  ,  
+
+					'cag[configuration_franchise]' : 'Food and Beverage'  ,  
+
+					'cag[attribution_author]' : 'Everett Rosenfeld|Sarah Whitten'  ,  
+
+					'cag[attribution_source]' : 'CNBC US Source'  ,  
+
+					'cag[related_primary]' : 'Business|Food and Beverage|Leadership|Consumer|Starbucks Corp'  ,  
+
+					'cag[type_franchise]' : 'Food and Beverage|Business|Food and Beverage|Leadership|Consumer'  ,  
+
+					'cag[type_creator]' : 'Everett Rosenfeld|Sarah Whitten'  ,  
+
+					'cag[type_source]' : 'CNBC US Source'  ,  
+
+					'cag[type_company]' : 'Starbucks Corp'  ,  
+
+					'cag[brand]' : 'none'  ,  
+
+					'cag[device]' : 'web'  ,  
+
+					'hline' : 'Food and Beverage'  ,  
+
+					'type' : 'cnbcnewsstory'  ,  
+
+					'template' : 'story_simple'  ,  
+
+					'title' : 'Howard Schultz stepping down as Starbucks CEO; current COO to replace him'  ,  
+
+					'pubdate' : '1480626070'  ,  
+
+					'stitle' : 'schultz ROSENFELD 161201 EC'  ,  
+
+					'byline' : 'Everett Rosenfeld|Sarah Whitten'  ,  
+
+					'subtype' : 'section'  ,  
+
+					'id' : '104141017'  ,  
+
+					'nid' : '104141017'  
+
+				
+		}, mpsopts = {
+	      
+	    "host" : 'mps.cnbc.com',
+	    "updatecorrelator" : true
+	    
+	  }, mps = mps || {};
+	  
+	  document.write('<scr' + 'ipt id="mps-ext-load" src="//' + mpsopts.host + '/fetch/ext/load-' + mpscall.site + '.js"></scr' + 'ipt>');
+	  
+	
+
+
+  
+
+
+        (function(d) {
+            var e = d.createElement('script');
+            e.src = d.location.protocol + '//bounceexchange.com/tag/1021/i.js';
+            e.async = true;
+            d.getElementsByTagName("head")[0].appendChild(e);
+        }(document));
+        
+
+
+
+
+  if (window.CNBC_Premium && CNBC_Premium.isPremium && document.cookie.indexOf('ispro=true') == -1 && (mps.pagevars.type!="franchise")) {
+  	mps.nlformtypes = mps.nlformtypes || [];
+  	mps.nlformtypes.push('paywall');
+  }
+
+  //<!-- Omniture s_code path -->
+  mps.scodePath="//fm.cnbc.com/applications/cnbc.com/staticcontent/scripts/omniture/s_code.js?v=1.6.4";
+  //<!-- end: Omniture s_code path -->
+
+
+  // mps._bool override for CNBC 9/26/16
+  // temp fix for new correlators with refreshAds(). Permanent Fix is in v3.35.1
+  mpsopts.updatecorrelator=mpsopts.updatecorrelator||1;
+  mps._bool = function(val, intval) {
+    if (typeof(val) == 'boolean') val = val ? 1 : 0;
+    if (typeof(val) == 'string') {
+      if (val == 'true') val = 1;
+      if (val == 'false') val = 0;
+    }
+    val = parseInt(val, 10);
+    if (!intval) return val === 1 ? true : false;
+    else return typeof(val) === 'number' ? val : parseInt(val, 10);
+  };
+
+  // _adloadCallback override for CNBC countdownclock 9/15/16
+  // temp fix for  bug in v3.34.3 mps._adloadCallback(). Permanent Fix is in v3.35.1
+  mps=mps||{};
+  mps._adloadCallback=mps._adloadCallback2=function(eo,loadset){if(typeof eo=="object"&&typeof eo.slot=="object"){var _refreshed=0,_clonedad=0,_adtarget=eo.slot.getSlotElementId(),_gptid=eo.slot.getAdUnitPath(),_gptcorrelator=googletag.pubads().getCorrelator(),_adslot=_adtarget.replace("div-gpt-","").split("-"),cleanslot=_adslot[0]!="outofpage"?_adslot[0].toString():"_oop",adload=parseInt(_adslot[2])>0?parseInt(_adslot[2]):0;mps._clonevars=mps._clonevars||{};mps._clonevars[adload]=mps._clonevars[adload]||
+  [];mps._clonevars[adload][cleanslot]=mps._clonevars[adload][cleanslot]||[];var cloneset=mps._clonevars[adload][cleanslot].length>0&&mps._clonevars[adload][cleanslot].split("_")[2].indexOf("C")==-1?mps._clonevars[adload][cleanslot].split("_")[2]:0;if(_adslot[2]&&_adslot[2].indexOf("C")!=-1)var adslot=cleanslot+"-"+_adslot[2];else if(_adslot[3]&&_adslot[3].indexOf("C")!=-1)var adslot=cleanslot+"-"+_adslot[3];else adslot=cleanslot;var clonenum=adslot.indexOf("C")!=-1?parseInt(adslot.split("C")[1],10):
+  "";if(mps._adloads[adload]&&mps._adloads[adload][adslot]&&mps._keys(mps._slotscalled[adload]).indexOf(adslot)>-1)_refreshed=1;if(mps._clonevars[adload][cleanslot].length&&parseInt(mps._clonevars[adload][cleanslot].split("_C")[1],10)>0)_clonedad=1;eo._mps={"_clone":clonenum,"_elapsed":mps._elapsed("",true),"advar":mps._advars[adload][adslot],"adslot":mps._adslots[adload][adslot],"_unit":adslot!="_oop"?mps._keys(mps.adunits,cleanslot).toString():"outofpage","gptid":_gptid,"_slot":adslot,"loadset":loadset,
+  "correlator":_gptcorrelator};if(typeof adload=="number"&&adslot.length>0){mps._adloads[adload]=mps._adloads[adload]||{};mps._adloads[adload][adslot]=mps._adloads[adload][adslot]||[];mps._correlator[adload]=mps._correlator[adload]||{};mps._correlator[adload][adslot]=mps._correlator[adload][adslot]||[];if(_refreshed){var radload="R"+adload;mps._correlator[radload]=mps._correlator[radload]||{};mps._correlator[radload][adslot]=mps._correlator[radload][adslot]||[];mps._correlator[radload][adslot]=_gptcorrelator;
+  mps._adloads[radload]=mps._adloads[radload]||{};mps._adloads[radload][adslot]=mps._adloads[radload][adslot]||[];mps._adloads[radload][adslot].push({"elapsed":mps._elapsed("",true),"correlator":_gptcorrelator,"empty":eo.isEmpty})}else{if(!_clonedad)mps._adloads[adload][adslot]=eo;else if(_clonedad){delete mps._adloads["R"+adload];mps._adloads[cloneset][adslot]=eo}mps._correlator[adload][adslot]=_gptcorrelator;mps._debug("[mps:GPT] correlator: "+_gptcorrelator+", "+adslot+": "+mps._elapsed("",true)+
+  "ms")}}if(mps._reqs&&mps._reqs[mps._loadset]&&eo._mps._slot!=="_oop")mps._reqs[mps._loadset]["end_"+mps._trim(eo._mps._slot,"_")]=mps._elapsed("",true);mps._debug("[mps:GPT] ADLOAD /"+eo._mps._slot+"/ "+(eo.isEmpty?"(isEmpty) ":"")+mps._elapsed());mps._queue.render("adload",eo);if(typeof mps.adloadCallback=="function")mps.adloadCallback(eo)}};
+
+  // _adloadCallback override for CNBC 9/15/16
+  // temp fix for  bug in v3.34.3 mps.refreshAds(). Permanent Fix is in v3.35.1
+  mps=mps||{};
+  mps.refreshAds=mps.refreshAds2=function(slotname,loadset,changecorrelator,_skipresponsive,_interval){if(typeof changecorrelator=="undefined")changecorrelator=mpsopts.updatecorrelator;var _set=_set+1||0,totalAds=[],loadcount=0,numOfAds=0;mps._delays.refreshads=mps._delays.refreshads||1500;if(_interval)clearInterval(_interval);if(mps.__refreshing){_interval=setInterval(function(){mps.refreshAds(slotname,loadset,changecorrelator,_skipresponsive,_interval);return false},mps._delays.refreshads);return false}mps.__refreshing=
+  true;!_skipresponsive&&mps.responsiveApply&&mps.responsiveApply(true);var _oopExec=function(loadset){if(mps.loadrails&&mps.removeRails)mps.removeRails(loadset);mps._debug("[mps:Refresh] w/ OOP Slot")};if(slotname===false)return false;if(!window.googletag||!googletag.apiReady||typeof mps.pagevars.dart_mode=="undefined"||mps.pagevars.dart_mode!="gpt-asynchronous"){mps._log("[mps:Refresh] FAILED refreshAds: Not GPT Asynchronous");return false}else{if(typeof slotname=="string"&&slotname.length>0)slotname=
+  [slotname];if(typeof slotname=="object"&&typeof slotname.getName=="function")slotname=[slotname];var slotvar,slotvars=[],_slotvars={},gptopts={};if(typeof slotname!="object")slotvars="";else{if(slotname.length<1)mps._delays.refreshads=0;for(var i in slotname){for(var ls in mps._advars){var _ls=typeof loadset!="undefined"?parseInt(loadset):ls;for(var cs=0;cs<mps._keys(mps._advars[_ls]).length;cs++)if(typeof slotname[i]=="string"&&mps._keys(mps._advars[_ls])[cs].indexOf(slotname[i]+"-C")>-1){var _loadset=
+  typeof loadset!="undefined"&&typeof parseInt(loadset)=="number"?"_":_ls;_slotvars[_loadset]=_slotvars[_loadset]||[];clonevar=typeof slotname[i]=="object"?slotname[i]:mps.getSlot(mps._keys(mps._advars[_ls])[cs],_ls);if(typeof clonevar=="object"&&!mps._slotsdisabled[_ls][slotname[i]])if(!mps.lazyload){slotvars.push(clonevar);_slotvars[_loadset].push(clonevar)}else if(mps.refreshDetect(mps._keys(mps._advars[_ls])[cs],_ls)){slotvars.push(clonevar);_slotvars[_loadset].push(clonevar)}}if(typeof loadset!=
+  "undefined"){mps._debug("[mps:Refresh] Break loop on loadset: "+loadset);break}}if(typeof loadset=="undefined")for(aok in mps._adobs){_slotvars[aok]=_slotvars[aok]||[];if(slotname[i]=="_oop")_oopExec(aok);slotvar=typeof slotname[i]=="object"?slotname[i]:mps.getSlot(slotname[i],aok);if(typeof slotvar=="object"&&!mps._slotsdisabled[aok][slotname[i]])if(!mps.lazyload){slotvars.push(slotvar);_slotvars[aok].push(slotvar)}else if(mps.refreshDetect(slotname[i],aok)){slotvars.push(slotvar);_slotvars[aok].push(slotvar)}}else{var numOfAds=
+  slotname.length;mps._delays.refreshads=mpsopts.multiplyrefresh&&numOfAds>0&&300*numOfAds<=1800?300*numOfAds:1500;if(slotname[i]=="_oop")_oopExec(loadset==undefined?loadset:null);_slotvars["_"]=_slotvars["_"]||[];slotvar=typeof slotname[i]=="object"?slotname[i]:mps.getSlot(slotname[i],loadset);if(typeof slotvar=="object")if(!mps.lazyload){slotvars.push(slotvar);_slotvars["_"].push(slotvar)}else if(mps.refreshDetect(slotname[i],loadset)){slotvars.push(slotvar);_slotvars["_"].push(slotvar)}}}if(mps.lazyload&&
+  !slotvars.length){mps.__refreshing=false;return false}}if(typeof slotname!="object"||slotvars===""){_slotvars=[];mps._debug("[mps:Refresh] Refreshing [ALL] ad slots on page or in loadset: "+loadset);for(lsk in mps._slotscalled){if(typeof loadset!="undefined"&&lsk!=loadset)continue;_slotvars[lsk]=[];for(ask in mps._slotscalled[lsk])if(!mps._slotsdisabled[lsk][ask]&&mps._advars[lsk][ask]&&gpt[mps._advars[lsk][ask]]){if(ask=="_oop")_oopExec(lsk);if(!mps.lazyload||typeof mps.lazyload[lsk]==="undefined")_slotvars[lsk].push(gpt[mps._advars[lsk][ask]]);
+  else{var askclean=ask.indexOf("-C")>-1?ask.split("-C")[0]:ask;mps._detect._refresh[lsk]=mps._detect._refresh[lsk]||{};if(ask!=="_oop"&&(mps.lazyload&&mps.lazyload[lsk]&&mps.lazyload[lsk].adslots.indexOf(askclean)>-1)||mps.lazyloadclone&&mps.lazyloadclone[lsk]&&mps.lazyloadclone[lsk].indexOf(ask)>-1){var _slotElem=document.getElementById(mps._slotscalled[lsk][ask]);if(mps._detect.viewport(_slotElem))_slotvars[lsk].push(gpt[mps._advars[lsk][ask]]);else{mps._detect._refresh[lsk][ask]=mps._detect._refresh[lsk][ask]||
+  "";mps._detect._refresh[lsk][ask]=mps._slotscalled[lsk][ask]}}else _slotvars[lsk].push(gpt[mps._advars[lsk][ask]])}}}}var keys=mps._keys(_slotvars);if(typeof slotvars=="object"&&!keys.length||!keys.length){mps._log("[mps:Refresh] FAILED refreshAds: No ads to refresh");return false}if(!changecorrelator||mps._bool(mpsopts.updatecorrelator)===false){mps._debug("[mps:Refresh] Setting no correlator change");gptopts.changeCorrelator=false}else gptopts.changeCorrelator=true;var _execute=function(svk,_slotvars,
+  _set,clone){setTimeout(function(){var _clonedslotvars=[],_updatedslotvars=[];mps._debug("[mps:Refresh] Execute Refresh ("+svk+") delay:"+_set*mps._delays.refreshads+" : "+mps._elapsed());if(!gptopts.changeCorrelator&&_slotvars.length)_updatedslotvars=_slotvars[_set];else for(var i=0;i<_slotvars[svk].length;i+=1){var _id=_slotvars[svk][i].getSlotElementId();if(_id.indexOf("-C")===-1)_updatedslotvars.push(_slotvars[svk][i]);else _clonedslotvars.push(_slotvars[svk][i])}googletag.cmd.push(function(){googletag.pubads().refresh(_updatedslotvars,
+  gptopts)});googletag.cmd.push(function(){for(var j=0;j<_clonedslotvars.length;j+=1)mps.refreshClone(_clonedslotvars[j],(j+1)*500,gptopts)})},_set*mps._delays.refreshads)};if(typeof mps.__refreshed[mps._loadset]!="object")mps.__refreshed[mps._loadset]=[];mps.__refreshed[mps._loadset].push(_slotvars);for(var svk in _slotvars){if(svk==0)_set=0;else _set=+1;if(typeof loadset!="undefined")_set=loadset;_execute(svk,_slotvars,_set)}setTimeout(function(){mps._queue.render("refreshads",_slotvars);if(typeof mps.refreshAdsCallback==
+  "function"){mps._debug("[mps:Refresh] mps.refreshAdsCallback delay: "+mps._delays.refreshads*(_set+1)+"ms"+" : "+mps._elapsed());mps.refreshAdsCallback(_slotvars)}mps.__refreshing=false},mps._delays.refreshads*(_set+1));return true}};
+
+
+
+
+    var admantx_url = 'http://async-lb-2129785755.us-east-1.elb.amazonaws.com/admantx/service?request=' + escape('{"decorator":"template.nbc_template","key":"62263fff3cc1d07f85c7f8261a0c8f7dc096b35f59c82a713f20a9db8d562ff2","method":"descriptor","filter":"default","mode":"async","type":"URL","body":"' + escape(document.location.href) + '"}');
+
+    function admantx_callback(data) {
+        if (top.__nbcudigitaladops_inject && top.__nbcudigitaladops_inject.dtprm) {
+            if (data && data.admants) {
+                if (data.status == "OK") {
+                    for (var x = 0; x < data.admants.length; x++) {
+                        var kv = 'adg=' + data.admants[x] + ';';
+                        top.__nbcudigitaladops_inject.dtprm(kv)
+                    }
+                } else {
+                    top.__nbcudigitaladops_inject.dtprm("asg=othererror;")
+                }
+            }
+        }
+    }
+    document.write('<scr' + 'ipt src="' + admantx_url + '"></scr' + 'ipt>');
+
+
+
+
+var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.mpsinit=mps._queue.mpsinit||[];
+mps._queue.mpsinit.push(function() { 
+  (function(){
+    mps._urlContainsEmail = function() {
+      var _qs = window.location.href;
+      if (!_qs) {
+        return false;
+      }
+      var _regex = /([^=&/<>()\[\]\\.,;:\s@"]+(\.[^=&/<>()\[\]\\.,;:\s@"]+)*)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))/;
+      return _regex.test(_qs);
+    };
+    if (mps._urlContainsEmail()) {
+      mps._debug('[MPS]: email address detected in url, bypass gpt.');
+      if (mps.response && mps.response.dart && typeof(mps.response.dart.adunits) === 'object') {
+        if (typeof(window._mpspixZ) != 'string') {
+          window._mpspixZ = (function(a){var b="abcdefghiklmnopqrstuvwxyz".split("");a||(a=Math.floor(Math.random()*b.length));for(var c="",d=0;d<a;d++)c+=b[Math.floor(Math.random()*b.length)];return c})(12)
+        }
+        for (var i in mps.response.dart.adunits) {
+          var pixelurl = ((document.location.protocol === 'https') ? 'https' : 'http') + '://pix.nbcuni.com/a-pii.gif?X=piiblock&S=' + mps.pagevars.instance + '&P=' + mps.pagevars.mpsid + '&A=' + i + '&U=' + encodeURIComponent(window.location.href) + '&_=' + window._mpspixZ;
+          mps.response.dart.adunits[i].data = '<img id="div-gpt-x-0" class="mps-slot" data-mps-slot="x" data-mps-loadset="0" style="width:0;height:0;margin:0;padding:0;border:0;display:none;" src="' + pixelurl + '"/>';
+        }
+      }
+      mps.cloneAd = function() { return false; }
+      return true;
+    } else {
+      return false;
+    }
+  })();
+});
+
+
+
+
+
+
+
+
+
+
+	var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+	mps._queue.gptloaded.push(function() {
+	  (mps && mps.insertAd && mps.insertAd('#dart_wrapper_noniframecustom', 'noniframecustom'));	
+	});
+
+
+
+
+
+
+
+
+
+
+	var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+	mps._queue.gptloaded.push(function() {
+	  (mps && mps.insertAd && mps.insertAd('#dart_wrapper_badgea', 'badgea'));	
+	});
+
+
+window.cnbc = window.cnbc || {};window.cnbc.config = window.cnbc.config || {};window.cnbc.config.product = "web";window.cnbc.config.isWeekendMode = false;HOMEEDITION News Economy
+Finance
+Health Care
+Real Estate
+Wealth
+Autos
+Earnings
+Energy
+Life
+Media
+Politics
+Retail
+Commentary
+Special Reports
+Asia
+Europe
+CFO Council
+
+Markets Pre-Markets
+U.S.
+Asia
+Europe
+Stocks
+Commodities
+Currencies
+Bonds
+Funds
+ETFs
+
+Investing Trading Nation
+Trader Talk
+Financial Advisors
+Personal Finance
+CNBC Explains
+Portfolio
+Watchlist
+Stock Screener
+Fund Screener
+
+Tech Mobile
+Social Media
+Enterprise
+Gaming
+Cybersecurity
+
+Make It Entrepreneurs
+Leadership
+Careers
+Money
+Specials
+Shows
+
+Video Top Video
+Latest Video
+U.S. Video
+Asia Video
+Europe Video
+CEO Interviews
+Analyst Interviews
+Full Episodes
+
+Shows Watch Live
+CNBC U.S. Business Day
+CNBC U.S. Primetime
+CNBC Asia-Pacific
+CNBC Europe
+CNBC World
+Full Episodes
+
+MoreLog In|RegisterLog OutNews 
+
+			Economy
+					
+
+
+
+			Finance
+					
+
+
+
+			Health Care
+					
+
+
+
+			Real Estate
+					
+
+
+
+			Wealth
+					
+
+
+
+			Autos
+					
+
+
+
+			Consumer
+					
+
+
+
+			Earnings
+					
+
+
+
+			Energy
+					
+
+
+
+			Life
+					
+
+
+
+			Media
+					
+
+
+
+			Politics
+					
+
+
+
+			Retail
+					
+
+
+
+			Commentary
+					
+
+
+
+			Special Reports
+					
+
+
+
+			Asia
+					
+
+
+
+			Europe
+					
+
+
+
+			CFO Council
+					
+
+Pro 
+
+			View All
+					
+
+
+
+			News & Analysis
+					
+
+
+
+			Video
+					
+
+
+
+			PRO Talks
+					
+
+
+
+			PRO Uncut
+					
+
+
+
+			Kensho Stats
+					
+
+
+
+			Take a Tour
+					
+
+
+
+			Subscribe
+					
+
+Markets 
+
+			Pre-Markets
+					
+
+
+
+			U.S.
+					
+
+
+
+			Asia
+					
+
+
+
+			Europe
+					
+
+
+
+			Stocks
+					
+
+
+
+			Commodities
+					
+
+
+
+			Currencies
+					
+
+
+
+			Bonds
+					
+
+
+
+			Funds
+					
+
+
+
+			ETFs
+					
+
+Make It 
+
+			Entrepreneurs
+					
+
+
+
+			Leadership
+					
+
+
+
+			Careers
+					
+
+
+
+			Money
+					
+
+
+
+			Specials
+					
+
+
+
+			Shows
+					
+
+Investing 
+
+			Trading Nation
+					
+
+
+
+			Trader Talk
+					
+
+
+
+			Financial Advisors
+					
+
+
+
+			Personal Finance
+					
+
+
+
+			CNBC Explains
+					
+
+
+
+			Portfolio
+					
+
+
+
+			Watchlist
+					
+
+
+
+			Stock Screener
+					
+
+
+
+			Fund Screener
+					
+
+Tech 
+
+			Mobile
+					
+
+
+
+			Social Media
+					
+
+
+
+			Enterprise
+					
+
+
+
+			Gaming
+					
+
+
+
+			Cybersecurity
+					
+
+Video 
+
+			Top Video
+					
+
+
+
+			Latest Video
+					
+
+
+
+			U.S. Video
+					
+
+
+
+			Asia Video
+					
+
+
+
+			Europe Video
+					
+
+
+
+			CEO Interviews
+					
+
+
+
+			Analyst Interviews
+					
+
+
+
+			Full Episodes
+					
+
+Shows 
+
+			CNBC U.S. Business Day
+					
+
+
+
+			CNBC U.S. Primetime
+					
+
+
+
+			CNBC Asia-Pacific
+					
+
+
+
+			CNBC Europe
+					
+
+
+
+			CNBC World
+					
+
+Special Reports 
+
+			SXSW
+					
+
+
+
+			My Success Story
+					
+
+
+
+			CNBC Disruptor 50
+					
+
+
+
+			Iconic Tour
+					
+
+
+
+			Balancing Priorities
+					
+
+
+
+			CNBC Upstart 25
+					
+
+
+
+			CERAWeek by IHS Markit
+					
+
+
+
+			Portfolio Perspective
+					
+
+
+
+			Snapchat IPO
+					
+
+
+
+			Trader Talk
+					
+
+
+
+			Future Opportunities
+					
+
+
+
+			Retail Report
+					
+
+Original Series 
+
+			Executive Edge
+					
+
+
+
+			Trading Nation
+					
+
+
+
+			Futures Now
+					
+
+
+
+			Retire Well
+					
+
+
+
+			The Pulse @ 1 Market
+					
+
+
+
+			The Bottom Line
+					
+
+CNBC Events 
+
+			Davos
+					
+
+
+
+			Delivering Alpha
+					
+
+
+
+			eMerge Americas
+					
+
+
+
+			iCONIC  Conference
+					
+
+
+
+			Cambridge Cyber Summit
+					
+
+
+
+			Sohn Conference
+					
+
+Follow CNBC 
+
+
+
+
+
+
+
+
+
+EDITION
+RegisterLog InProfileEmail PreferencesPROSign OutProView AllNews & AnalysisVideoPRO TalksPRO UncutKensho StatsTake a TourSubscribeLIVE TVWatch CNBC TVWatch CNBC ProWatchlist 
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+	var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+	mps._queue.gptloaded.push(function() {
+	  (mps && mps.insertAd && mps.insertAd('#dart_wrapper_topbanner', 'topbanner'));	
+	});
+
+
+
+
+
+
+
+
+	var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+	mps._queue.gptloaded.push(function() {
+	  (mps && mps.insertAd && mps.insertAd('#dart_wrapper_badgec', 'badgec'));	
+	});
+
+
+
+Food and Beverage
+
+
+
+Consumer
+
+
+Retail
+
+
+Media
+
+
+Autos
+
+
+Food and Beverage
+
+
+Restaurants
+
+
+Fashion
+
+
+Goods
+
+
+Retail Report
+
+
+
+
+Howard Schultz stepping down as Starbucks CEO; current COO to replace him
+
+Everett Rosenfeld																
+					
+																												
+					    			    		
+	    									 | Sarah Whitten
+
+Thursday,  1 Dec 2016 |  7:09  PM ETCNBC.com
+
+
+
+SHARES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+show chapters
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+				    	                 
+            Howard Schultz stepping down as Starbucks CEO   
+			                        Thursday,  1 Dec 2016 |  4:01  PM ET |  05:06 
+
+
+
+
+ Starbucks Chairman and CEO Howard Schultz said Thursday that he would be stepping down from the CEO post and handing the keys over to Kevin Johnson, the current president and COO of Starbucks.  
+  The announcement surprised investors and caused the stock to tumble more than 10 percent. Starbucks shares have since recovered and are trading down 3.6 percent after-hours. 
+  The transition will occur on April 3, 2017, and it will allow Schultz to focus on turning Starbucks' Reserve-branded coffee bars into destination restaurants.  
+
+  Schultz was quick to remind analysts on a conference call Thursday that he is not leaving the company, but instead transitioning into this new role.  
+  "As I focus on Starbucks next wave of retail innovation, I am delighted that Kevin Johnson — our current president, COO, a seven-year board member and my partner in running every facet of Starbucks business over the last two years — has agreed to assume the duties of Starbucks chief executive officer. This move ideally positions Starbucks to continue profitably growing our core business around the world into the future," Schultz said in a news release. 
+  The company's flagship Reserve Roastery and Tasting Room opened in its home market of Seattle in 2014. These "megastores" are designed to be much larger than a traditional Starbucks cafe and allow the company to do small-batch roastings of "rare and exotic" Reserve coffees.  
+  "This is an opportunity for us to elevate food," Schultz told reporters back in July. "This will once again reaffirm Starbucks' leadership in all things coffee." 
+  "Howard Schultz has been phenomenally successful in building up the Starbucks business into the global powerhouse it is today," Neil Saunders, CEO of Conlumino, told CNBC. "However, the business is now at a different stage and as a more mature entity the future opportunities are less about expansion and more about careful operational management to generate incremental growth and drive efficiencies. Schultz has the capability to do this, but it is probably not what excites him: he's a business builder and an innovator. By comparison, Kevin Johnson is a good operational head who knows the business and has the full trust of Schultz." 
+  Schultz first joined Starbucks in 1982 as director of operations and marketing when the company only had four stores, according to Starbucks. Over time he grew it into a iconic brand. 
+  This will not be the first time Schultz has vacated the CEO role: He had previously served as the company's chief executive from 1987 to 2000, but he returned to the position in 2008. 
+  Some see his planned departure as a good sign for Starbucks' outlook.  
+  "It is obvious that he thinks Starbucks is in a good place," Bonnie Riggs, restaurant industry analyst for the NPD Group, told CNBC. "He stepped back in when they were struggling and most definitely turned the concept around. He can now move on to other areas of interest, but I have no doubt should they falter, he would jump back in."  
+  The company noted during the call that there are no other planned leadership changes in the near term. 
+  Johnson, who has been the company's president and chief operating officer, joined Starbucks in 2015, according to his company biography. He has served on the company's board of directors since 2009. 
+  Johnson previously served as CEO of Juniper Networks and was the president of the platforms division at Microsoft. 
+  "Kevin has been a wise and supportive resource for me," Schultz said during a conference call Thursday.  
+  Schultz praised Johnson, noting that the last two fiscal years have been the best in the company's history in part because of the COO. 
+The leadership transition also sparked speculation about Schultz's potential political plans: He has been a supporter of President Barack Obama and Democratic presidential nominee Hillary Clinton, and some have already questioned whether he would pursue his own presidential run.
+ —CNBC's Andrew Ross Sorkin contributed to this report. 
+
+
+
+
+
+	var mps=mps||{};
+  (mps && mps.getComponent && document.write(mps.getComponent('taboola-article-you-may-like')));
+
+
+
+
+Everett RosenfeldAsia Pacific EditorSarah WhittenReporter
+
+
+Related Securities
+
+
+
+
+Symbol
+Price
+ 
+Change
+%Change
+
+
+
+
+SBUX
+
+---
+
+
+
+
+
+
+
+
+
+	var mps=mps||{};
+  (mps && mps.getComponent && document.write(mps.getComponent('article-insert-footer')));
+
+
+
+
+	var mps=mps||{};
+  (mps && mps.getComponent && document.write(mps.getComponent('ad.com-content-one')));
+
+
+
+
+
+
+	var mps=mps||{};
+  (mps && mps.getComponent && document.write(mps.getComponent('sbc-rightrail')));
+
+
+
+
+	var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+	mps._queue.gptloaded.push(function() {
+	  (mps && mps.insertAd && mps.insertAd('#dart_wrapper_boxad1', 'boxad1'));	
+	});
+
+
+
+
+	var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+	mps._queue.gptloaded.push(function() {
+	  (mps && mps.insertAd && mps.insertAd('#dart_wrapper_topflex', 'topflex'));	
+	});
+
+
+
+
+	var mps=mps||{};
+  (mps && mps.getComponent && document.write(mps.getComponent('ad.com-rightrail-top')));
+
+
+
+
+
+
+
+	var mps=mps||{};
+  (mps && mps.getComponent && document.write(mps.getComponent('article-insert-sidebar')));
+
+
+
+
+
+
+
+
+
+	var mps=mps||{};
+  (mps && mps.getComponent && document.write(mps.getComponent('ad.com-rightrail-bottom')));
+
+
+
+
+
+
+
+
+
+
+To view this site, you need to have JavaScript enabled in your browser, and either the Flash Plugin or an HTML5-Video enabled browser. Download the latest Flash player and try again.
+
+
+
+
+
+Playing
+
+
+
+
+Share this video...
+
+
+×
+
+
+Watch Next...
+
+
+
+
+
+
+
+
+
+
+
+
+	var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+	mps._queue.gptloaded.push(function() {
+	  (mps && mps.insertAd && mps.insertAd('#dart_wrapper_movablebox', 'movablebox'));	
+	});
+
+
+
+
+
+
+            CNBC_Settings = {
+    baseurls : {"quoteservicebase":"http://quote.cnbc.com/quote-html-webservice/quote.htm","detailedquotebase":"http://data.cnbc.com/quotes/","chartbase":"http://api-chart.cnbc.com/api/chart/chart.asp","cnbc_base":"http://www.cnbc.com","ticker_base":"http://ticker.cnbc.com","register_base":"https://register.cnbc.com","login_base":"https://login.cnbc.com","detail_quote_base":"http://data.cnbc.com","symlookup_base":"http://symlookup.cnbc.com","searchbase":"http://search.cnbc.com/rs/search/view.html","show_schedule_service_base":"http://compass.cnbc.com/compass/xml/nextshow","itv_quote_url":"http://quote.cnbc.com/quote-html-webservice/quote.htm?requestMethod=itv&exthrs=1&noform=1&fund=1&output=jsonp&&extendedMask=1&partnerId=2&symbols=","cnbc_prod_urls":"pub.app20.cnbc.com|pub.app21.cnbc.com|pub.app22.cnbc.com|pub.app23.cnbc.com|pub.app24.cnbc.com|pub.app25.cnbc.com|pub.app26.cnbc.com|pub.app27.cnbc.com|pub.app28.cnbc.com","rss_video_search_url":"http://cnbc.com/vapi/videoservice/rssvideosearch.do","syndication_base":"http://syndication.cnbc.com/","wsod_api_base_url":"http://api-chart.cnbc.com","advanced_symlookup_URL":"http://www.cnbc.com/id/15837272?q=","rhythmvideo_url_base":"http://cnbc.rnmd.net/playVideo?","bb_rhythmvideo_url_base":"rtsp://cnbc.rtsp.rnmd.net:554/adservice/","rhythm_siteid":"cnbc_web","cnbcvideo_url_base":"http://video.cnbc.com/gallery/","watchlist_base":"http://watchlist.cnbc.com","optional_optin":"101","baseFeed":"http://feed.theplatform.com/f/gZWlPC/CNBC_prod_global","surf_base":"https://surf.nbcuni.com","pub_base_protocol_agnostic":"//www.cnbc.com","upLynk_service_base_url":"//vapi.cnbc.com/videoservice/getstream.do?partnerId=14","upLynk_default_live_channel":"UPLYNK-US","premium_video_feed":"http://www.cnbc.com/id/46/services/premium/video/data?token=","video_token_timestamp":"60","twitter_platform_base":"//platform.twitter.com","vapi_msn_service_base_url":"//vapi.cnbc.com/videoservice/getstream.do?partnerId=20071","vapi_partner_service_base_url":"//vapi.cnbc.com/videoservice/getstream.do?partnerId=20071","php_vapi_service_base_url":"/services/phvapi?channel=","poll_base":"http://www-ec.cnbc.com/services/polls","cnbc_base_secure":"https://www.cnbc.com","pro_base":"http://www.cnbc.com/application/pro","theplatform_base_player_url":"http://player.cnbc.com/p/gZWlPC/cnbc_global","theplatform_pdk_base":"//theplatform.cnbc.com/5.7.2/pdk/tpPdk.js","static_content_base":"http://sc.cnbcfm.com","sc_base_protocol_agnostic":"//sc.cnbcfm.com","nid":103657463},
+	wl360CoreServicesBaseUrl: 'https://wl.cnbc.com/wl/api/',
+	wl360ResourceBundleUrl: 'http://register.cnbc.com/svc/api/message',
+	wl360ResourceBundleAppKey: 'common_messages',
+	wl360ServiceTimeout: 9000,
+	wl360QuoteApiUrl: 'http://quote.cnbc.com/quote-html-webservice/',
+	wl360EnableAddToWatchlist: '1',
+	wl360PartnerId: 14,
+	surf_key : 'cnbc',
+	mobileQuotePageRefreshInterval: '900',
+	mobileQuoteBlurRefreshInterval: '0',
+	regionConfig: {"USA":{"edition":"USA","nid":"100746233","link":"/","name":"U.S. Edition", "msgName":"U.S.","mobileMsgName":"U.S.","mobileAlternate":"WORLD", "menuName":"U.S."},"WORLD":{"edition":"WORLD","nid":"100746255","link":"/id/100746255","name":"INTL Edition","msgName":"new international","mobileMsgName":"International","mobileAlternate":"USA", "menuName":"INTL"}},
+	searchPartnerId: '2000',	
+	chartbeat_service : '102527204',
+	chartbeat_service_data : '',
+	chartbeat_refresh_interval : '300',
+	webQuotePageRefreshInterval: '600',
+	webQuoteBlurRefreshInterval: '60',
+	surf_on : 'on',
+	templateName: 'story_simple',
+	isNative: '',
+	productName: 'web'
+		,dockPlayer: '1'
+			,video_gallery_config: {"double_tray_first_tray":"0","double_tray_all_trays":"0","sliding_tab":"1","watch_live_tv":"//www.cnbc.com/live-tv","full_episodes_links":"[{ 'fastmoney': { 'icon': 'icon-fast-money' ,'url': '//www.cnbc.com/live-tv/fast-money'},'madmoney': { 'icon': 'icon-mad-money' ,'url': '//www.cnbc.com/live-tv/mad-money'},'americangreed': { 'icon': 'icon-prime' ,'url': '//www.cnbc.com/live-tv/american-greed'},'cnbcoriginals': { 'icon': 'icon-prime'  ,'url': '//www.cnbc.com/live-tv/cnbc-originals'}, 'consumedtherealrestaurantbusiness': { 'icon': 'icon-prime'  ,'url': '//www.cnbc.com/live-tv/consumed-the-real-restaurant-business'}, 'restaurantstartup': { 'icon': 'icon-prime'  ,'url': '//www.cnbc.com/live-tv/restaurant-startup'}, 'secretlivesofthesuperrich': { 'icon': 'icon-prime'  ,'url': '//www.cnbc.com/live-tv/secret-lives-of-the-super-rich'}, 'sharktank': { 'icon': 'icon-prime'  ,'url': '//www.cnbc.com/live-tv/shark-tank'}, 'theprofit': { 'icon': 'icon-prime'  ,'url': '//www.cnbc.com/live-tv/the-profit'}}]","default_video_gallery_template":"video_gallery","is_universal_player":"1"}
+			,pageNodeId: 104141017  // this property added for consistancy with Desktop, `nodeId` is depricated and must be retired
+			,nodeType: 'cnbcnewsstory'
+						,franchise : {
+		  id: '10000740',
+		  title: 'Food and Beverage'
+		}
+				,homepageTrackingConfig:{header:true, footer:true, lead:true, secondaryLead:true, view:true, topicTown:true, dontMiss:true, marketData:true, madMoney:true, futuresNow:true, mostPopular:true, currencies:true, market:true, tradingNation:true}
+				,is_universal_live_player: 1
+				,brand: "cnbc"
+		,jsVersion: "392"
+};
+                    
+
+	CNBC_Settings.tags = ["Business","Food and Beverage","Leadership","Consumer","Starbucks Corp"];
+
+
+
+
+                        	
+                        
+                
+
+
+
+
+
+
+
+
+            
+            	        	            
+	                	                
+																			
+			
+	
+	            
+	        
+            
+
+            
+            
+            
+		
+
+	
+			
+		
+
+            	
+					
+			
+
+	        	            
+	        
+			
+
+			
+		
+            
+		
+            
+                                                
+                            
+			
+            
+            /* JSInits */
+
+            
+                    
+    
+
+            
+
+						
+		        
+    
+        
+    
+        
+    
+        
+    
+            
+	
+
+
+            			     		
+
+                          
+            
+                window.cnbc = window.cnbc || {};
+window.cnbc.pageModules = (window.cnbc.pageModules || []).concat([
+	    {
+	moduleId : 'xfinityExperienceSurf',
+	initOn : 'load'
+}
+    ,	    {
+	  'moduleId' : 'socialBar',
+	  'initOn' : 'load',
+	  'initData' : {
+	  	templateName : 'story_simple',
+	  	gigya_api_key : '2_Jx5rsFp18pauXYlKGzHQVpbahcR1iJ30bbyfqZsn69A6vbt3dQ7gYFCESWKMM1sP',
+			socialBarTitle : 'Howard Schultz stepping down as Starbucks CEO; current COO to replace him',
+			containerID: 'social-tools-panel',
+			pos : 'bottom',
+			showShareCount : true
+		}
+	}
+    ,	    {
+	moduleId : 'scrollPanel',
+	initOn : 'load',
+	initData : {
+ 		container: 'social-tools-panel' // element that will contain tabs. value can be a string (must be an element's ID), a DOM element or jQuery object -- Required
+ 		,transTime:50
+		,respectiveContainer: true
+		,hideIndex: true
+	}
+}
+    ,	    {
+	  'moduleId' : 'socialBar',
+	  'initOn' : 'load',
+	  'initData' : {
+	  	templateName : 'story_simple',
+	  	gigya_api_key : '2_Jx5rsFp18pauXYlKGzHQVpbahcR1iJ30bbyfqZsn69A6vbt3dQ7gYFCESWKMM1sP',
+			socialBarTitle : 'Howard Schultz stepping down as Starbucks CEO; current COO to replace him',
+			containerID: 'social_bar_top',
+			pos : 'top',
+			showShareCount : true
+		}
+	}
+    ,	    {
+	moduleId : 'tableSorter',
+	initOn : 'view',
+	moduleDomSelector : 'table.csvData, article table.quoteTable'
+}
+    ,	    {
+		moduleId : 'Polls',
+		initOn : 'load'
+	}
+    ,	    {
+	moduleId : 'TaboolaRecirculationModule',
+	
+		initOn : 'load',
+	
+	initData : {
+		
+			taboola_url : '//cdn.taboola.com/libtrc/cnbc/loader.js'
+		
+		,taboolaParam: ''
+	}
+}
+    ,	    {
+	moduleId : 'TwitterPlatform',
+	
+		initOn : 'view',
+		moduleDomSelector : '.twitter-timeline, .twitter-tweet'
+	
+}
+    ,	    {
+		moduleId : 'chartbeatMostPopular',
+		initOn : 'view',
+		moduleDomSelector : '#chartbeatWidget_102535788',
+		initData : {
+			refreshInterval : 300,
+			chartbeatUrl : 'http://www.cnbc.com/id/102535788/services/chartbeat',
+			containerId: 'chartbeatWidget_102535788'	,
+			templateName: 'story_simple'		
+		}
+	}
+    ,	    {
+		moduleId: 'desktopVideoPlayer',	
+		
+				initOn: 'load',
+				
+		moduleDomSelector: 'div.cnbcvideo.featuredPromo',
+		initData: {
+			playerId: 'player'
+			,baseFeed: 'http://feed.theplatform.com/f/gZWlPC/CNBC_prod_global'
+			,defaultVideoId: ''
+			,relativeVideos: false
+			,premiumUser : ''
+			,premiumContent : ''
+			,proTabData: '0'
+			,premiumFeedUrl: 'http://www.cnbc.com/id/46/services/premium/video/data?token='
+			,errorMsgContainerHTML: '<div class="player-error-placeholder"><div class="error-msg"><p>YOUR BROWSER IS NOT SUPPORTED.</p><p><a href="http://www.cnbc.com/id/101957793" target="_blank">Please upgrade to watch video.</a></p></div></div>'
+			,videoErrorMsgContainerHTML: '<div class="player-error-placeholder"><div class="error-msg"><p>The requested video is unable to play.</p><p>The video does not exist in the system.</p></div></div>'
+			,marketingPageURL: 'https://www.cnbc.com/application/pro'
+			,adblockErrorMsgContainerHTML: '<div class="player-error-placeholder"><div class="error-msg"><p>We’re not able to play this video if an ad blocker is enabled.</p><p>Please disable your ad blocker on CNBC and reload the page to start the video.</p></div></div>'
+			,product: 'inlineDesktop'
+		}
+	}
+    ,	    {
+			moduleId : 'tinypassConfig',
+			initOn : 'load',
+			initData : {
+				    "config": {       "aid": "o19WonOrHQ",       "rid": "PRO",       "endpoint": "https://buy.tinypass.com/api/v3",       "trackPages": true,       "debug" : false,       "signUpPage": "/pro-login-page"    }, 
+       			"product": "web",
+       			"templateName": "story_simple",
+       			"containerSelector": "articlePayload",
+       			"contentSection": "Food and Beverage",
+       			"contentAuthor": "Everett Rosenfeld",
+       			"contentCreated": "2016-12-01T16:01:10-0500"
+				}
+		}
+    ,	    {
+	moduleId : 'signin',
+	initOn : 'load',
+	initData : {
+		source : 'default',
+		flow : 'header'
+	}
+}
+    ,	    {
+            		moduleId : 'pageVideoMetaData',
+            		initOn : 'load'
+            	}
+    ,	    {
+        
+            moduleId : 'internationalization',
+        
+        
+            initOn : 'load',
+           
+        initData : {
+            config    : {"USA":{"edition":"USA","nid":"100746233","link":"/","name":"U.S. Edition", "msgName":"U.S.","mobileMsgName":"U.S.","mobileAlternate":"WORLD", "menuName":"U.S."},"WORLD":{"edition":"WORLD","nid":"100746255","link":"/id/100746255","name":"INTL Edition","msgName":"new international","mobileMsgName":"International","mobileAlternate":"USA", "menuName":"INTL"}}
+            
+        }
+    }
+    ,	    {
+	  moduleId : 'symbolLookup',
+	  initOn : 'focus mouseover',
+	  moduleDomSelector : '.symbol-search input'
+	}
+    ,	    {
+		moduleId : 'navigation',
+		initOn : 'load'
+	}
+    ,	    {
+	moduleId : 'footerdefault',
+	initOn : 'view',
+	moduleDomSelector : '#cnbc-footer-responsive'
+}
+    ,	    {
+			moduleId : 'quoteStreaming',
+			initOn : 'load',
+			initData : {
+				showInlineQuotes : false,
+				showTableChart : true,
+				showFutureChart : false,
+				showTickerChart : false,
+				showTickerNG : false,
+				showTableChartNG : false,
+				chartApiUrl : 'http://api-chart.cnbc.com/api/chart/chart.asp',
+				quoteService : 'http://quote.cnbc.com/quote-html-webservice/quote.htm',
+				quoteServiceParams : 'requestMethod=quick&exthrs=1&noform=1&fund=1&output=jsonp&symbols=',
+				partnerId : 2,
+				quoteUrl : 'http://quote.cnbc.com/quote-html-webservice/quote.htm' + '?partnerId=' + 2 + '&' + 'requestMethod=quick&exthrs=1&noform=1&fund=1&output=jsonp&symbols=',
+				futureQuoteUrl : 'http://quote.cnbc.com/quote-html-webservice/fvquote.htm',
+				futureQuoteParams : 'requestMethod=quick&noform=1&realtime=0&client=fairValue&output=jsonp&symbols=',
+				futureUrl :  'http://quote.cnbc.com/quote-html-webservice/fvquote.htm' + '?' + 'requestMethod=quick&noform=1&realtime=0&client=fairValue&output=jsonp&symbols=',
+				settings : {
+					streaming : true,
+					streamingInterval : 10000
+				}
+			}
+		}
+    ,	    {
+	moduleId : 'tabletFriendlyTouch',
+	initOn : 'load'
+}
+    ,	    {
+			moduleId : 'chartbeat',
+			initOn : 'load',
+			initData : {
+				
+					playerdomain : 'player.cnbc.com',
+				
+				authors : 'Everett Rosenfeld,Sarah Whitten,CNBC US Source',
+				sections : 'Articles,Food and Beverage,Business,Leadership,Consumer,Starbucks Corp'				
+			}
+		}
+    ,	    {
+	  'moduleId' : 'lazyLoadFunctions',
+      'initOn' : 'load'
+	}
+    ,	    {
+                	moduleId : 'alerts',
+                	initOn : 'load',
+                	initData : {
+                		alertInterval : 30,
+						playerurl : '/watch-live-universal?forceStreamAkamai=true&premium=1&popout=true&autoplay=true&',
+                        isMobile : false
+					}
+                }
+    ,	    {
+				moduleId : 'proAccountNotification',
+				initOn : 'load'
+			}
+    ,	    {
+    	moduleId : 'persistentSiteHeader',
+    	initOn : 'load',
+    	initData : {
+    		product : 'web',
+    		products : {
+    			web : 'web',
+    			mobile : 'mobile-touch'
+    		}
+    	}
+    }
+    ,	    {
+		moduleId : 'pageRefresh',
+		initOn : 'load',
+		initData : {
+			prTemplateInterval: 0,
+        	prNodeIdInterval: 0,
+        	brTemplateInterval: 0,
+        	brNodeIdInterval: 0
+		}
+	}
+    ,	    {
+	moduleId : 'lazyloadFragment',
+	initOn : 'load'	
+}
+    ,	    {
+	moduleId : 'lazyImageLoader',
+	initOn : 'load'
+}
+    	]);
+            
+
+            
+
+
+
+
+
+
+ 
+	if (window.MPS && MPS.relocateContent) {
+		MPS.relocateContent({originSelector: '#movable_box_ad_container', destinationSelector: '#movable_box_ad_target'}); 
+	}
+
+	//<!-- begin FRANCHISE ONLY Ad Refresh -->
+	if (mps.pagevars.type == 'franchise' && mps.pagevars.hline != "US Homepage" && mps.pagevars.hline != "International Homepage")
+	{
+		if(mps._detect) mps._detect.activerefresh = 1; 
+		if(mps.pagevars.cats.indexOf('markets') != -1)
+			{
+				mps.refreshAdsInterval(120, ['topbanner','topflex']);
+				window.console && console.log('--[executed]--> MPS Set Ad Refresh (120s)');
+			} else {
+				mps.refreshAdsInterval(60, ['topbanner','topflex']);
+				window.console && console.log('--[executed]--> MPS Set Ad Refresh (60s)');
+
+			}
+	}
+
+	//<!-- end FRANCHISE ONLY Ad Refresh -->
+ (function(){ 
+if('mps' in window && mps.pagevars && CNBC_Settings.templateName == 'slideshow_one_page'){ 
+
+setInterval(function() { 
+          mps.refreshAds('topflex'); 
+}, 60000); 
+           } 
+
+          })();
+
+	//<!-- Slideshow Ad Refresh: BEGIN -->
+
+	(function(){
+		if('mps' in window && mps.pagevars && mps.pagevars.type == 'slideshow'){	
+			var flag=true;
+			document.addEventListener("slide-tranisition", function(e) { 
+				var adflagBanner=false;
+				var topBannerHT=$('[id*="Top_Banner"]').height();
+				if(topBannerHT > 90){
+					adflagBanner=true;
+				}
+				if(flag){
+				 	if(adflagBanner){
+						mps.refreshAds('topflex');		
+					}else{
+						mps.refreshAds();
+						
+					}
+					flag=false;
+				 	
+				 	setTimeout(function(){				
+					  flag=true;
+					},1000);	
+				}
+			});
+		}
+	})();
+
+	//<!-- Slideshow Ad Refresh: END -->
+
+	//<!-- Global Web Index: BEGIN -->
+
+	(function ()
+	{
+	      var js = document.createElement('script');
+	      js.src = '//gwiqcdn.globalwebindex.net/gwiq/gwiq.js';
+	      js.type = 'text/javascript';
+	      js.async = 'true';
+	      js.onload = js.onreadystatechange = function ()
+	      {
+	             var rs = this.readyState;
+	             if (rs && rs != 'complete' && rs != 'loaded') return;
+	             try
+	             {
+	                   mps.gwiqSect = mps.pagevars.hline.replace(/[^ws]|_/g, "").replace(/s+/g, "_")
+	                   gwiq.asyncjs("cid=c0234&section=" + mps.gwiqSect);
+
+	             } catch (e) { }
+	      };
+	      var s = document.getElementsByTagName('script')[0];
+	      s.parentNode.insertBefore(js, s);
+	})();
+
+
+
+
+
+
+
+
+	var mps=mps||{};
+	mps.writeFooter && mps.writeFooter();
+
+
+
+

@@ -1,0 +1,10 @@
+markdown
+html code
+<a href="http://archive.is/C0MF6"> <img style="width:300px;height:200px;background-color:white" src="https://archive.is/C0MF6/1c61410150e2af9c590bfc51ef7ed6f42e2a6ced/scr.png"><br> Wells Fargo to Keep Commissions-Based Retirement Accounts Under Fiduc…<br> archived 22 Dec 2016 17:55:44 UTC </a>
+wiki code
+{{cite web  | title       = Wells Fargo to Keep Commissions-Based Retirement Accounts Under Fiduc…  | url         = http://www.wsj.com/articles/wells-fargo-to-keep-commissions-based-retirement-accounts-under-fiduciary-rule-1480615211  | date        = 2016-12-22  | archiveurl  = http://archive.is/C0MF6  | archivedate = 2016-12-22 }}
+We use cookies and browser capability checks to help us deliver our online services, including to learn if you enabled Flash for video or ad blocking. By using our website or by closing this message box, you agree to our use of browser capability checks, and to our use of cookies as described in our Cookie Policy .
+Do not show again
+DOW JONES, A NEWS CORP COMPANY
+News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.
+DOW JONES

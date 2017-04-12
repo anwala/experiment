@@ -1,0 +1,750 @@
+<div><div><div><div><p/><div><p class="video"/><div><p class="video"><span/><span/></p><p><span/><span/></p><p><span/><span/></p><p><span/><span/></p><p><span/><span/></p><p><span>h</span><span><span/>Play Video<span/></span><span/></p><div><span/><p><span>h</span><span><span/>Play<span/></span><span/></p><p><span/> <span/></p><div><span/><div><span/><ul><span/><li><span/>descriptions off<span><span/>, selected<span/></span><span/></li><span/></ul><span/></div><span><span/>Descriptions<span/></span><span/></div><div><span></span><div><span/><ul><span/><li><span/>captions settings<span><span/>, opens captions settings dialog<span/></span><span/></li><li><span/>captions off<span><span/>, selected<span/></span><span/></li><span/></ul><span/></div><span><span/>Captions<span/></span><span/></div><p><span>d</span><span><span/>Fullscreen<span/></span><span/></p><span/></div><div><span/><div><span/>
+<div><span/>
+<p><span/>
+<label><span/>Foreground<span/></label>
+<select><span/>
+              <option selected="selected"><span/>---<span/></option>
+              <option value=""><span/>White<span/></option>
+              <option value=""><span/>Black<span/></option>
+              <option value=""><span/>Red<span/></option>
+              <option value=""><span/>Green<span/></option>
+              <option value=""><span/>Blue<span/></option>
+              <option value=""><span/>Yellow<span/></option>
+              <option value=""><span/>Magenta<span/></option>
+              <option value=""><span/>Cyan<span/></option>
+            <span/></select>
+<span><span/>
+<select><span/>
+                <option selected="selected"><span/>---<span/></option>
+                <option value=""><span/>Opaque<span/></option>
+                <option value=""><span/>Semi-Opaque<span/></option>
+              <span/></select>
+<span/></span>
+<span/></p>
+
+<p><span/>
+<label><span/>Background<span/></label>
+<select><span/>
+              <option selected="selected"><span/>---<span/></option>
+              <option value=""><span/>White<span/></option>
+              <option value=""><span/>Black<span/></option>
+              <option value=""><span/>Red<span/></option>
+              <option value=""><span/>Green<span/></option>
+              <option value=""><span/>Blue<span/></option>
+              <option value=""><span/>Yellow<span/></option>
+              <option value=""><span/>Magenta<span/></option>
+              <option value=""><span/>Cyan<span/></option>
+            <span/></select>
+<span><span/>
+<select><span/>
+                  <option selected="selected"><span/>---<span/></option>
+                  <option value=""><span/>Opaque<span/></option>
+                  <option value=""><span/>Semi-Transparent<span/></option>
+                  <option value=""><span/>Transparent<span/></option>
+                <span/></select>
+<span/></span>
+<span/></p>
+
+<p><span/>
+<label><span/>Window<span/></label>
+<select><span/>
+              <option selected="selected"><span/>---<span/></option>
+              <option value=""><span/>White<span/></option>
+              <option value=""><span/>Black<span/></option>
+              <option value=""><span/>Red<span/></option>
+              <option value=""><span/>Green<span/></option>
+              <option value=""><span/>Blue<span/></option>
+              <option value=""><span/>Yellow<span/></option>
+              <option value=""><span/>Magenta<span/></option>
+              <option value=""><span/>Cyan<span/></option>
+            <span/></select>
+<span><span/>
+<select><span/>
+                  <option selected="selected"><span/>---<span/></option>
+                  <option value=""><span/>Opaque<span/></option>
+                  <option value=""><span/>Semi-Transparent<span/></option>
+                  <option value=""><span/>Transparent<span/></option>
+                <span/></select>
+<span/></span>
+<span/></p>
+
+<span/></div>
+
+<div><span/>
+<p><span/>
+<label><span/>Font Size<span/></label>
+<select><span/>
+            <option value=""><span/>50%<span/></option>
+            <option value=""><span/>75%<span/></option>
+            <option selected="selected" value=""><span/>100%<span/></option>
+            <option value=""><span/>125%<span/></option>
+            <option value=""><span/>150%<span/></option>
+            <option value=""><span/>175%<span/></option>
+            <option value=""><span/>200%<span/></option>
+            <option value=""><span/>300%<span/></option>
+            <option value=""><span/>400%<span/></option>
+          <span/></select>
+<span/></p>
+
+<p><span/>
+<label><span/>Text Edge Style<span/></label>
+<select><span/>
+            <option selected="selected" value=""><span/>None<span/></option>
+            <option value=""><span/>Raised<span/></option>
+            <option value=""><span/>Depressed<span/></option>
+            <option value=""><span/>Uniform<span/></option>
+            <option value=""><span/>Dropshadow<span/></option>
+          <span/></select>
+<span/></p>
+
+<p><span/>
+<label><span/>Font Family<span/></label>
+<select><span/>
+            <option selected="selected"><span/>Default<span/></option>
+            <option value=""><span/>Monospace Serif<span/></option>
+            <option value=""><span/>Proportional Serif<span/></option>
+            <option value=""><span/>Monospace Sans-Serif<span/></option>
+            <option value=""><span/>Proportional Sans-Serif<span/></option>
+            <option value=""><span/>Casual<span/></option>
+            <option value=""><span/>Script<span/></option>
+            <option value=""><span/>Small Caps<span/></option>
+          <span/></select>
+<span/></p>
+
+<span/></div>
+<span/></div>
+<p><span/>
+<button><span/>Defaults<span/></button>
+<button><span/>Done<span/></button>
+<span/></p><span/></div></div></div><div><p>
+A fire has scorched 17,000 acres and killed several people in eastern Tennessee. At least 10 killed In Smoky Mountain wildfire, others still missing. <span>Time</span></p></div></div></div><div><div><section><aside><p><span><span>Rebecca Bell sifts through the remains of a car outside of her home, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn. Bell and her family evacuated on Monday when smoke started building up.</span><span>(Photo: Andrew Nelles / The Tennessean)</span></span></p></aside></section></div></div><div><p>GATLINBURG, Tenn</p><strong>.</strong><p> — The
+</p><a href="https://archive.is/o/sSTDw/knoxne.ws/2gql3vy">death toll</a><p>
+stands at 11 in the historic wildfire that tore through the </p><culink>Great Smoky Mountains National Park</culink><p>
+and this resort town earlier in the week, with no identities of the dead confirmed by officials so far and the search still on for others, authorities said Thursday.</p></div><p><culink>Tennessee Emergency Management Agency</culink>
+spokesman Dean Flener said he'd been notified Thursday night of the most recent death. He said he had no specifics, including where the body was found or whether the person died in a hospital.</p><p>Authorities haven't said whether they'll be forced to rely on dental records to identify the remains found.</p><p>In Memphis, family announced that Jon and Janet Summers had been confirmed among the dead. The couple and their three grown sons were vacationing outside Gatlinburg and got separated as they fled the flames. The three sons have been recovering from burns in a Nashville hospital.</p><p>Gatlinburg Police Chief Randy Brackins fought back tears at a morning news conference as he described the crawling pace of the process.</p><p>"It's one of the most difficult things you can imagine," he said. "I know you're frustrated. If it were my family members, I'd be frustrated."</p><p>Firefighters and emergency crews continue to work their way through fire-ravaged remote areas of Gatlinburg and surrounding Sevier County amid blocked roads, downed power lines, fallen trees and mudslides. Two of the four zones searched stood at 80% and 90% complete Thursday morning, with the other two expected to be complete by nightfall, Gatlinburg Fire Chief Greg Miller said.</p><div><div><p/><div><p>
+Aerial video shows homes and trees damaged in wildfires in Gatlinburg, Tennessee. Officials say crews discovered the remains of more people as they searched through rubble, bringing the death toll to 11. (Dec. 2) <span>AP</span></p></div></div></div><p>About 200 firefighters, including various crews from agencies across the state, remain on the ground, with about 20% of the force still fighting flames and the rest focused on the search, he said. National Guardsmen and
+<culink>Tennessee Highway Patrol</culink>
+troopers fanned out to help conduct health and welfare checks at 74 homes.</p><p>"We're never going to give up hope. I will always hold out hope of a rescue," the fire chief said. "But now we are at hour 65 since the beginning of the fires. We have to come to the realization that the potential is great it will be more of a recovery (of corpses) than a rescue."</p><p>Some of the searchers have lost homes and family members of their own, and most refused to go home despite being told to take breaks, Miller said.</p><div><div><p/><div><p>
+Photographer Brandon Reese and his work partner walked through the fire that scorched the town of Gatlinburg, Tennessee, classifying it as 'an apocalyptic wasteland.' <span>USA TODAY NETWORK</span></p></div></div></div><p>"Just like me, just like them and just like you, we've never seen anything like this before," he said. "Most people are numb, but they care about finding these people. They're sleeping on the floor. They don't want to go home."</p><div><p/><p/><div><div><span/><p>Photos: Wildfires continue to wreak havoc on Gatlinburg</p><p/><div><h4><span/>Posted!</h4><p>A link has been posted to your Facebook feed.
+</p></div></div><div><div><div><div><img alt="Richard T. Ramsey and Sue Ramsey hold hands while looking" src="https://archive.is/sSTDw/799dcc84c35e98741b775c699e8ddbfc5efe7b71.jpg"/><p/><div><p>
+Richard T. Ramsey and Sue Ramsey hold hands while looking at the skyline from the remains of their house of 41 years, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn. They safely evacuated from their home as fire approached Monday evening.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="The remains of a home on the northern outskirts of"/><p/><div><p>
+The remains of a home on the northern outskirts of Gatlinburg, Tenn., Thursday, Dec. 1, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Veronica Carney looks at the skyline from the remains"/><p/><div><p>
+Veronica Carney looks at the skyline from the remains of the home she grew up in, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn. Carney flew in from Massachusetts to assist her parents, Richard T. Ramsey and Sue Ramsey who safely evacuated on Monday evening.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="The remains of a home on the northern outskirts of"/><p/><div><p>
+The remains of a home on the northern outskirts of Gatlinburg, Tenn., Thursday, Dec. 1, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Smoke billows from the remains of a home on the northern"/><p/><div><p>
+Smoke billows from the remains of a home on the northern outskirts of Gatlinburg, Tenn., Thursday, Dec. 1, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Richard T. Ramsey looks over the remains of the house"/><p/><div><p>
+Richard T. Ramsey looks over the remains of the house that he had lived in for 41 years, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Utility crews work to repair damaged utility poles,"/><p/><div><p>
+Utility crews work to repair damaged utility poles, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="The remains of a home on the northern outskirts Gatlinburg,"/><p/><div><p>
+The remains of a home on the northern outskirts Gatlinburg, Tenn., Thursday, Dec. 1, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="The remains of a home on the northern outskirts Gatlinburg,"/><p/><div><p>
+The remains of a home on the northern outskirts Gatlinburg, Tenn., Thursday, Dec. 1, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="The remains of a home on the northern outskirts Gatlinburg,"/><p/><div><p>
+The remains of a home on the northern outskirts Gatlinburg, Tenn., Thursday, Dec. 1, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Property damaged in the Cobbly Knob area after wildfires"/><p/><div><p>
+Property damaged in the Cobbly Knob area after wildfires ran through the Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+Amy Smotherman Burgess/Knoxville News Sentinel</span></p></div><span/></div></div><div><div><img alt="Property damaged in the Cobbly Knob area after wildfires"/><p/><div><p>
+Property damaged in the Cobbly Knob area after wildfires ran through the Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+Amy Smotherman Burgess/Knoxville News Sentinel</span></p></div><span/></div></div><div><div><img alt="Property damaged in the Cobbly Nob area after wildfires"/><p/><div><p>
+Property damaged in the Cobbly Nob area after wildfires ran through the Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="An angel among the debris of a property fire in the"/><p/><div><p>
+An angel among the debris of a property fire in the Cobbly Knob area after wildfires in Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Property damaged in the Cobbly Knob area after wildfires"/><p/><div><p>
+Property damaged in the Cobbly Knob area after wildfires ran through the Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Properties damaged in the Cobbly Knob area after wildfires"/><p/><div><p>
+Properties damaged in the Cobbly Knob area after wildfires ran through the Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Property damaged in the Cobbly Knob area after wildfires"/><p/><div><p>
+Property damaged in the Cobbly Knob area after wildfires ran through the Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Members of the Tennessee National Guard arrive for"/><p/><div><p>
+Members of the Tennessee National Guard arrive for a press conference at the Gatlinburg Pittman High School after wildfires ran through the Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Ted Osbourne describes his escape from the wildfires"/><p/><div><p>
+Ted Osbourne describes his escape from the wildfires from his store Beech Branch Crafts and Art Gallery, after wildfires in Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016. Osborne lost his home in the blaze.   <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Charred trees are visible along the skyline in the"/><p/><div><p>
+Charred trees are visible along the skyline in the Cobbly Knob area after wildfires in Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Charred trees are visible along the skyline in the"/><p/><div><p>
+Charred trees are visible along the skyline in the Cobbly Knob area after wildfires in Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Charred trees are visible along the skyline in the"/><p/><div><p>
+Charred trees are visible along the skyline in the Cobbly Knob area after wildfires in Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="A view of Mt. LeConte from the Cobbly Knob area after"/><p/><div><p>
+A view of Mt. LeConte from the Cobbly Knob area after wildfires in Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Views of the Smoky Mountains after wildfires in Pigeon"/><p/><div><p>
+Views of the Smoky Mountains after wildfires in Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="A cabin destroyed at the Almost Heaven Wedding Chapel"/><p/><div><p>
+A cabin destroyed at the Almost Heaven Wedding Chapel and Resort in the Cobbly Knob area after wildfires in Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Thursday, Dec. 1, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="An American flag has been hung at the entrance to Gatlinburg"/><p/><div><p>
+An American flag has been hung at the entrance to Gatlinburg on Thursday, Dec. 1, 2016 following the devastating fires on Monday night.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Destroyed homes off Ridge Top Loop in Gatlinburg on"/><p/><div><p>
+Destroyed homes off Ridge Top Loop in Gatlinburg on Thursday, Dec. 1, 2016 following the devastating fires on Monday night.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Hot spots still burn in areas around Gatlinburg on"/><p/><div><p>
+Hot spots still burn in areas around Gatlinburg on Thursday, Dec. 1, 2016 following the devastating fires on Monday night.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="An Air National Guard helicopter flies over Gatlinburg"/><p/><div><p>
+An Air National Guard helicopter flies over Gatlinburg on Thursday, Dec. 1, 2016 searching for problems following the devastating fires on Monday night.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="An Air National Guard helicopter flies over Gatlinburg"/><p/><div><p>
+An Air National Guard helicopter flies over Gatlinburg on Thursday, Dec. 1, 2016 searching for problems following the devastating fires on Monday night.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="One example of a home and cars burning and the next"/><p/><div><p>
+One example of a home and cars burning and the next door neighbor home left undamaged in Gatlinburg on Thursday, Dec. 1, 2016 following the devastating fires on Monday night.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Electrical company workers have spread out across Gatlinburg"/><p/><div><p>
+Electrical company workers have spread out across Gatlinburg on Thursday, Dec. 1, 2016 to repair power poles following the devastating fires on Monday night.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="An Air National Guard helicopter flies over Gatlinburg"/><p/><div><p>
+An Air National Guard helicopter flies over Gatlinburg on Thursday, Dec. 1, 2016 searching for problems following the devastating fires on Monday night.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Another Gatlinburg cabin with a great view burned to"/><p/><div><p>
+Another Gatlinburg cabin with a great view burned to the grouind on Monday night.   <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Rebecca Bell, left, sifts through the remains of her"/><p/><div><p>
+Rebecca Bell, left, sifts through the remains of her home with her best friend Linda Morris, right, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn. Bell and her family evacuated on Monday when smoke started building up.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Soldiers from the Tennessee National Guard conduct"/><p/><div><p>
+Soldiers from the Tennessee National Guard conduct door to door searches, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Soldiers from the Tennessee National Guard conduct"/><p/><div><p>
+Soldiers from the Tennessee National Guard conduct door to door searches, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Rebecca Bell, left, sifts through the remains of her"/><p/><div><p>
+Rebecca Bell, left, sifts through the remains of her home with her best friend Linda Morris, right, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn. Bell and her family evacuated on Monday when smoke started building up.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Rebecca Bell sifts through the remains of her home,"/><p/><div><p>
+Rebecca Bell sifts through the remains of her home, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn. Bell and her family evacuated on Monday when smoke started building up.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Soldiers from the Tennessee National Guard conduct"/><p/><div><p>
+Soldiers from the Tennessee National Guard conduct door to door searches, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Rebecca Bell sifts through the remains of a car outside"/><p/><div><p>
+Rebecca Bell sifts through the remains of a car outside of her home, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn. Bell and her family evacuated on Monday when smoke started building up.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="A Tennessee National Guard UH-60 Blackhawk helicopter"/><p/><div><p>
+A Tennessee National Guard UH-60 Blackhawk helicopter flies over Gatlinburg, Tenn., Thursday, Dec. 1, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="A Tennessee National Guard UH-60 Blackhawk helicopter"/><p/><div><p>
+A Tennessee National Guard UH-60 Blackhawk helicopter lands outside of the emergency services command center, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Crates are ready to be filled at the Sevier County"/><p/><div><p>
+Crates are ready to be filled at the Sevier County Fairgrounds where Sevier County Humane Society has set up an emergency shelter for animals displaced in the Gatlinburg wildfire on Wednesday, Nov. 30, 2016. All five dogs pictured are owned by the same family and will later be reunited with them.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Cheryl Morgan, who is on the board of directors for"/><p/><div><p>
+Cheryl Morgan, who is on the board of directors for the Sevier County Humane Society, sits amongst donations Wednesday, Nov. 30, 2016, at the Sevier County Fairgrounds where Sevier County Humane Society has set up an emergency shelter for animals displaced in the Gatlinburg wildfire.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="At right Half-Pint leads the pack on a purple leash"/><p/><div><p>
+At right Half-Pint leads the pack on a purple leash as his brother Rascal walks the wrong way on a green leash Wednesday, Nov. 30, 2016, at the Sevier County Fairgrounds where Sevier County Humane Society has set up an emergency shelter for animals displaced in the Gatlinburg wildfire.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Volunteers sort through mounds of donations Wednesday,"/><p/><div><p>
+Volunteers sort through mounds of donations Wednesday, Nov. 30, 2016, at the Sevier County Fairgrounds where Sevier County Humane Society has set up an emergency shelter for animals displaced in the Gatlinburg wildfire.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Volunteer Angela Morgan, leans down to pet Jethro left,"/><p/><div><p>
+Volunteer Angela Morgan, leans down to pet Jethro left, as her and fellow volunteer Sue Roberts take him for a walk Wednesday, Nov. 30, 2016, at the Sevier County Fairgrounds where Sevier County Humane Society has set up an emergency shelter for animals displaced in the Gatlinburg wildfire. Morgan hopes to adopt him.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="At center volunteer Carla Jackson walks Half-Pint on"/><p/><div><p>
+At center volunteer Carla Jackson walks Half-Pint on a purple leash and Rascal on a green leash at the Sevier County Fairgrounds where Sevier County Humane Society has set up an emergency shelter for animals displaced in the Gatlinburg wildfire. All five dogs pictured are owned by the same family and will later be reunited with them.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Volunteer Blair Lee, left, pets rescued dog Kane as"/><p/><div><p>
+Volunteer Blair Lee, left, pets rescued dog Kane as Jan Armstrong lets him smell her hand at the Sevier County Fairgrounds where Sevier County Humane Society has set up an emergency shelter for animals displaced in the Gatlinburg wildfires.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="At right Kylee McLean, a tech at Sevier County Animal"/><p/><div><p>
+At right Kylee McLean, a tech at Sevier County Animal Clinic, holds a kitten as Dr. Kristie Shaw listens to it's heartbeat at the Sevier County Fairgrounds where Sevier County Humane Society has set up an emergency shelter for animals displaced in the Gatlinburg wildfires.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Volunteers work out a schedule at the Sevier County"/><p/><div><p>
+Volunteers work out a schedule at the Sevier County Fairgrounds where Sevier County Humane Society has set up an emergency shelter for animals displaced in the Gatlinburg wildfire. All five dogs pictured are owned by the same family and will later be reunited with them.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Gatlinburg Fire Department Chief Greg Miller gives"/><p/><div><p>
+Gatlinburg Fire Department Chief Greg Miller gives an update on the status of the search and rescue efforts during a press conference Dec. 1, 2016, in Gatlinburg.  <span>
+Andrew Nelles/The Tennessean</span></p></div><span/></div></div><div><div><img alt="Sevier County Mayor Larry Waters speaks during a press"/><p/><div><p>
+Sevier County Mayor Larry Waters speaks during a press conference, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Gatlinburg Mayor Mike Werner listens to other speakers"/><p/><div><p>
+Gatlinburg Mayor Mike Werner listens to other speakers during a press conference about the wildfires, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Joe Bush, center, who lives just outside of Gatlinburg,"/><p/><div><p>
+Joe Bush, center, who lives just outside of Gatlinburg, sings with other attendees during a vigil at Pittman Center Elementary School, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Bryon Fortner, of Gatlinburg, kneels in prayer during"/><p/><div><p>
+Bryon Fortner, of Gatlinburg, kneels in prayer during a vigil at Pittman Center Elementary School, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn. The Fortner's nearly lost their house which just feet from the edge of the flames.   <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Lori Fortner, of Gatlinburg, holds onto her dog Samson"/><p/><div><p>
+Lori Fortner, of Gatlinburg, holds onto her dog Samson as she prays during a vigil at Pittman Center Elementary School, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn. The Fortner's nearly lost their house which just feet from the edge of the flames.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Guests pray during a vigil at Pittman Center Elementary"/><p/><div><p>
+Guests pray during a vigil at Pittman Center Elementary School, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="A large crowd fills the bleachers during a vigil at"/><p/><div><p>
+A large crowd fills the bleachers during a vigil at Pittman Center Elementary School, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Guests sing during a vigil at Pittman Center Elementary"/><p/><div><p>
+Guests sing during a vigil at Pittman Center Elementary School, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Larry Burcham, Senior Minister of First Baptist Church"/><p/><div><p>
+Larry Burcham, Senior Minister of First Baptist Church of Gatlinburg, during a vigil at Pittman Center Elementary School, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Larry Burcham, right, Senior Minister of First Baptist"/><p/><div><p>
+Larry Burcham, right, Senior Minister of First Baptist Church of Gatlinburg, greets guests after he spoke during a vigil at Pittman Center Elementary School, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Guests join in prayer during a vigil at Pittman Center"/><p/><div><p>
+Guests join in prayer during a vigil at Pittman Center Elementary School, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Fire engines pass by a burned out van on U.S. Highway"/><p/><div><p>
+Fire engines pass by a burned out van on U.S. Highway 321 in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="The remains of the Alamo Steakhouse in Gatlinburg,"/><p/><div><p>
+The remains of the Alamo Steakhouse in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="At left Mark Easterly, a firefighter with the City"/><p/><div><p>
+At left Mark Easterly, a firefighter with the City of Dunlap, and Coby Moon, with the City of Fayetteville, stand in on an operations meeting at the Rocky Top Sports World near Gatlinburg-Pittman High School on Wednesday, Nov. 30, 2016.  <span>
+CAITIE MCMEKIN/KNOXVILLE NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="The remains of Creek Place Efficiencies in Gatlinburg,"/><p/><div><p>
+The remains of Creek Place Efficiencies in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Gatlinburg Mayor Mike Werner takes a phone call before"/><p/><div><p>
+Gatlinburg Mayor Mike Werner takes a phone call before speaking at a press conference in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Cassius Cash, superintendent of the Great Smoky Mountains"/><p/><div><p>
+Cassius Cash, superintendent of the Great Smoky Mountains National Park, speaks during a press conference in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="The remains of Creek Place Efficiencies in front of"/><p/><div><p>
+The remains of Creek Place Efficiencies in front of an unharmed BB&amp;T bank in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="The remains of Creek Place Efficiencies in Gatlinburg,"/><p/><div><p>
+The remains of Creek Place Efficiencies in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="The remains of Creek Place Efficiencies in Gatlinburg,"/><p/><div><p>
+The remains of Creek Place Efficiencies in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="At center Mark Easterly, a firefighter with the City"/><p/><div><p>
+At center Mark Easterly, a firefighter with the City of Dunlap, and at right Coby Moon, with the City of Fayetteville, stand in on an operations meeting at the Rocky Top Sports world near Gatlinburg-Pittman High School on Wednesday, Nov. 30, 2016.  <span>
+CAITIE MCMEKIN/KNOXVILLE NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="A Franklin Fire Department engine waits in a staging"/><p/><div><p>
+A Franklin Fire Department engine waits in a staging area in downtown Gatlinburg, Tenn., Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Ripley's Aquarium of the Smokies in Gatlinburg, Tenn.,"/><p/><div><p>
+Ripley's Aquarium of the Smokies in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016. Ripley's Aquarium of the Smokies was left unharmed during this week's wildfires.   <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="An emergency vehicle drives through downtown Gatlinburg,"/><p/><div><p>
+An emergency vehicle drives through downtown Gatlinburg, Tenn., as rain falls, Wednesday, Nov. 30, 2016.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Patricia Oyuela, left, is comforted by Arbors at Island"/><p/><div><p>
+Patricia Oyuela, left, is comforted by Arbors at Island Landing hotel owner Lou Calhoun, center, and friend Ed Berkley, as Oyuela and Berkley describe their evacuations from Gatlinburg during the fire on Monday evening. Both are staying at the Pigeon Forge hotel, free of charge, Wednesday, Nov. 29, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="Patricia Oyuela, left, is comforted by Arbors at Island"/><p/><div><p>
+Patricia Oyuela, left, is comforted by Arbors at Island Landing hotel owner Lou Calhoun, center, and friend Ed Berkley, as Oyuela and Berkley describe their evacuations from Gatlinburg during the fire on Monday evening. Both are staying at the Pigeon Forge hotel, free of charge, Wednesday, Nov. 29, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="Patricia Oyuela, left, is comforted by Ed Berkley,"/><p/><div><p>
+Patricia Oyuela, left, is comforted by Ed Berkley, as they describe their evacuations from Gatlinburg during the fire on Monday evening. Both are staying at the Pigeon Forge hotel Arbors at Island Landing, free of charge, Wednesday, Nov. 29, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="Arbors at Island Landing owners Lou and Jerry Calhoun"/><p/><div><p>
+Arbors at Island Landing owners Lou and Jerry Calhoun unload food to feed over 100 evacuees they have extended a free stay to at their hotel in Pigeon Forge on Wednesday, Nov. 29, 2016.   <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="Employee Chrissy Saffell helps to sort donations for"/><p/><div><p>
+Employee Chrissy Saffell helps to sort donations for those affected by the fires in Sevier County at Huck Finn's restaurant in Pigeon Forge on Wednesday, Nov. 29, 2016. The restaurant has been collecting items and feeding first responders since Tuesday.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="Janie Thompson speaks about her financial concerns"/><p/><div><p>
+Janie Thompson speaks about her financial concerns outside of a temporary shelter in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016. Thompson, who works at the McDonalds in Gatlinburg, has been unable to work due to the wildfire that hit the town, and doesn't know when she can return.   <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Sevier County Mayor Larry Waters speaks during a press"/><p/><div><p>
+Sevier County Mayor Larry Waters speaks during a press conference, Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn.  <span>
+Andrew Nelles / The Tennessean</span></p></div><span/></div></div><div><div><img alt="Oak Ridge Fire Captain Jordon Alcorn, left, and Firefighter"/><p/><div><p>
+Oak Ridge Fire Captain Jordon Alcorn, left, and Firefighter James Jordain, right, hiking up the Mitchell Road reach a dozen people trapped by encroaching wildfires late Monday. A team of Oak Ridge and Maryville firefighters were able to rescue those trapped, who had been staying in rental cabins behind Dollywood.  <span>
+Darryl Kerley/Special to the News Sentinel</span></p></div><span/></div></div><div><div><img alt="A team of firefighters from Oak Ridge and Maryville"/><p/><div><p>
+A team of firefighters from Oak Ridge and Maryville rescued 12 people and four dogs trapped on Mitchell Road behind Dollywood on Monday night.  <span>
+Darryl Kerley/Special to the News Sentinel</span></p></div><span/></div></div><div><div><img alt="Emma Rial, 10, of Gatlinburg, holds up a sign that"/><p/><div><p>
+Emma Rial, 10, of Gatlinburg, holds up a sign that says 'Smile' at the Rocky Top Sports World complex in Gatlinburg on Nov. 30, 2016. Rial's family, including her dog, Brutus, was displaced by the fires that may have damaged the motel they were living in.  <span>
+Rachel Ohm/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Beverly Black, of Gatlinburg, hugs Bebe at Rocky Top"/><p/><div><p>
+Beverly Black, of Gatlinburg, hugs Bebe at Rocky Top Sports Complex on Wednesday, Nov. 30, 2016. Bebe belongs to her friend, Ed Taylor, who has been missing since his house burned.  <span>
+Special to the News Sentinel</span></p></div><span/></div></div><div><div><img alt="Jennifer Pearson, a volunteer with the Disaster Animal"/><p/><div><p>
+Jennifer Pearson, a volunteer with the Disaster Animal Response Team, hugs BeBe the dog shortly after he was treated for smoke inhalation at Rocky Top Sports World Wednesday, Nov. 30, 2016.  <span>
+Special to the News Sentinel</span></p></div><span/></div></div><div><div><img alt="Red Cross officials and volunteers, left to right,"/><p/><div><p>
+Red Cross officials and volunteers, left to right, John Manners, Louie Keeling, Kathleen Manners and Sharon Hudson, at the LeConte Center, which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg, Tenn. Wednesday, Nov. 30, 2016. The LeConte Center will be closing as a shelter, but the Pigeon Forge Community Center and Rocky Top Sports World will remain open.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="Hopeann Lamb, 15, right, tries out a pair of shoes"/><p/><div><p>
+Hopeann Lamb, 15, right, tries out a pair of shoes while her mother Brandi Lamb looks on at the LeConte Center, which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg, Tenn. Wednesday, Nov. 30, 2016. The family was evacuated from their home on Highway 321 and have been staying at a motel.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="Cotton Jenkins, right, tries to keep his 2 year old"/><p/><div><p>
+Cotton Jenkins, right, tries to keep his 2 year old great grandson Houston Parker Underwood entertained as they wait to receive information at the LeConte Center, which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg, Tenn. Wednesday, Nov. 30, 2016. The family of six were staying at the Westgate Resort while visiting from Alabama, and still are waiting to hear if their belongings are gone.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="Jasmine Hurst, left, and Charles Britton load up a"/><p/><div><p>
+Jasmine Hurst, left, and Charles Britton load up a car to be taken to an area motel from the LeConte Center, which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg, Tenn. Wednesday, Nov. 30, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="People gather to watch a press conference given by"/><p/><div><p>
+People gather to watch a press conference given by officials at the LeConte Center, which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg, Tenn. Wednesday, Nov. 30, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="People gather to watch a press conference given by"/><p/><div><p>
+People gather to watch a press conference given by officials at the LeConte Center, which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg, Tenn. Wednesday, Nov. 30, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="Shoes donated for those effected by the wildfires at"/><p/><div><p>
+Shoes donated for those effected by the wildfires at the LeConte Center, which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg, Tenn. Wednesday, Nov. 30, 2016.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENT</span></p></div><span/></div></div><div><div><img alt="A volunteer helps move donations from the LeConte Center"/><p/><div><p>
+A volunteer helps move donations from the LeConte Center in Gatlinburg on Wednesday, Nov. 30, 2016. The shelter no longer has evacuees and is closing.  <span>
+AMY SMOTHERMAN BURGESS/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Ken Lewis, Red Cross shelter manager, talks about supplies"/><p/><div><p>
+Ken Lewis, Red Cross shelter manager, talks about supplies for residents of Gatlinburg displaced by the mandatory evacuations caused by the wild fires gather at Rocky Top Sport World on US321 just outside of town Wednesday, Nov. 30, 2016.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Gatlinburg resident Ric Morgan displaced by the mandatory"/><p/><div><p>
+Gatlinburg resident Ric Morgan displaced by the mandatory evacuations caused by the wild fires at Rocky Top Sport World on US321 just outside of town Wednesday, Nov. 30, 2016.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Ken Lewis with the Red Cross said they have had lots"/><p/><div><p>
+Ken Lewis with the Red Cross said they have had lots of donations for residents of Gatlinburg displaced by the mandatory evacuations caused by the wild fires gather at Rocky Top Sport World on US321 just outside of town Wednesday, Nov. 30, 2016.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Gatlinburg resident Teresa Tater-Goff walks her dog"/><p/><div><p>
+Gatlinburg resident Teresa Tater-Goff walks her dog "Little Bit" outside the Rocky Top Sport World after a mandatory evacuation caused by the wild fires Wednesday, Nov. 30, 2016.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Amber Simpson, who volunteers with Smoky Mountain Resort"/><p/><div><p>
+Amber Simpson, who volunteers with Smoky Mountain Resort Ministries, helps residents of Gatlinburg displaced by the mandatory evacuations caused by the wild fires gather at Rocky Top Sport World on US321 just outside of town Wednesday, Nov. 30, 2016.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Megan Peterson, along with other Carson-Newman students"/><p/><div><p>
+Megan Peterson, along with other Carson-Newman students and campus community began donating and loading needed supplies on a Sevier County-bound truck on Tuesday, Nov. 30, 2016. The items were delivered to those affected by the devastating fires in Gatlinburg.  <span>
+Special to the News Sentinel</span></p></div><span/></div></div><div><div><img alt="Stacks of donated beverages collected raindrops as"/><p/><div><p>
+Stacks of donated beverages collected raindrops as Gatlinburg residents got rain showers most of the day Wednesday, Nov. 30, 2016. Residents displaced by the mandatory evacuations caused by the wild fires gathered at Rocky Top Sport World on US321 just outside of town.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Chris Herrmann, 46, of Gatlinburg, talks about his"/><p/><div><p>
+Chris Herrmann, 46, of Gatlinburg, talks about his home near the Tennessee Ripley's Aquarium of the Smokies and the uncertainty he faces in the wake of fires that ravaged the area.  <span>
+Rachel Ohm/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Volunteers at the Church of Jesus Christ of Latter-day"/><p/><div><p>
+Volunteers at the Church of Jesus Christ of Latter-day Saints assembled 750 hygiene bags Wednesday morning.  <span>
+Submitted</span></p></div><span/></div></div><div><div><img alt="Volunteers at the Church of Jesus Christ of Latter-day"/><p/><div><p>
+Volunteers at the Church of Jesus Christ of Latter-day Saints assembled 750 hygiene bags Wednesday morning.  <span>
+Submitted</span></p></div><span/></div></div><div><div><img alt="National Park Service spokesperson Dana Soehn arrives"/><p/><div><p>
+National Park Service spokesperson Dana Soehn arrives in the rain for a press conference Wednesday, Nov. 30, 2016 in Gatlinburg.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Media members of and an officer wait in the rain for"/><p/><div><p>
+Media members of and an officer wait in the rain for the morning press conference at Rocky Top Sport World on Wednesday, Nov. 30, 2016. Officials said the day long rain helped with the fires.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="An aerial view shows a portion of Chalet Village the"/><p/><div><p>
+An aerial view shows a portion of Chalet Village the day after a wildfire hit Gatlinburg on Tuesday, Nov. 29, 2016, in Sevier County. At upper right is Chalet Village Club North.  <span>
+Paul Efird/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Donations are organized in the Leconte Center in Pigeon"/><p/><div><p>
+Donations are organized in the Leconte Center in Pigeon Forge on Tuesday, Nov. 29, 2016.  <span>
+CAITIE MCMEKIN/NEWS SENTINEL</span></p></div><span/></div></div><div><div><img alt="Jimmy Floyd with TEMA accepts 17 voice only phones"/><p/><div><p>
+Jimmy Floyd with TEMA accepts 17 voice only phones from Tammy DeGregorio with ATT for use during the disaster in Gatlinburg on Thursday, Dec. 1, 2016.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Traveling chaplain Roger Piggott  center, prays with"/><p/><div><p>
+Traveling chaplain Roger Piggott center, prays with some residents outside the Rocky Top Sports World on Thursday, Dec. 1, 2016. Piggott traveled from North Carolina to minister to those effected by the wild fires in Gatlinburg.   <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Karyssa Dalton is comforted by her fiance, Nathan Steele,"/><p/><div><p>
+Karyssa Dalton is comforted by her fiance, Nathan Steele, during a search for Dalton's missing grandmother on Thursday, Dec. 1, 2016, in Pigeon Forge. At left is her father, Floyd Dalton. Pamela Johnson, 59, who resided at the Travelers Motel on U.S. 321, hasn't been heard from since wildfire burned through Gatlinburg this week. (PAUL EFIRD/NEWS SENTINEL)  <span>
+Paul Efird/News Sentinel, Paul Efird/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Karyssa Dalton, second from left, talks to Red Cross"/><p/><div><p>
+Karyssa Dalton, second from left, talks to Red Cross volunteers during a search for her missing grandmother on Thursday, Dec. 1, 2016, at the Pigeon Forge Community Center. Pamela Johnson, 59, who resided at the Travelers Motel on U.S. 321, hasn't been heard from since a wildfire burned through Gatlinburg this week. Pictured are Christina Wilpers, left, Dalton, Floyd Dalton, Nathan Steele, and Red Cross volunteers Kellie Pellillo and Stacy Humphrey. (PAUL EFIRD/NEWS SENTINEL)   <span>
+Paul Efird/News Sentinel, Paul Efird/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Karyssa Dalton walks along the Parkway with her fiancé,"/><p/><div><p>
+Karyssa Dalton walks along the Parkway with her fiancé, Nathan Steele, during a search for Dalton's missing grandmother on Thursday, Dec. 1, 2016, in Pigeon Forge. Pamela Johnson, 59, who resided at the Travelers Motel on U.S. 321, hasn't been heard from since wildfire burned through Gatlinburg this week. (PAUL EFIRD/NEWS SENTINEL)   <span>
+Paul Efird/News Sentinel, Paul Efird/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Karyssa Dalton, right, and her friend, Christina Wilpers,"/><p/><div><p>
+Karyssa Dalton, right, and her friend, Christina Wilpers, talk to a police officer during a search for Dalton's missing grandmother on Thursday, Dec. 1, 2016, in Pigeon Forge. Pamela Johnson, 59, who resided at the Travelers Motel on U.S. 321, hasn't been heard from since wildfire burned through Gatlinburg this week. (PAUL EFIRD/NEWS SENTINEL)   <span>
+Paul Efird/News Sentinel, Paul Efird/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Karyssa Dalton, left,, is comforted by her friend,"/><p/><div><p>
+Karyssa Dalton, left,, is comforted by her friend, Christina Wilpers, during a search for Dalton's missing grandmother on Thursday, Dec. 1, 2016, in Pigeon Forge. Pamela Johnson, 59, who resided at the Travelers Motel on U.S. 321, hasn't been heard from since wildfire burned through Gatlinburg this week. (PAUL EFIRD/NEWS SENTINEL)   <span>
+Paul Efird/News Sentinel, Paul Efird/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Christina Wilpers talks to motorists during a search"/><p/><div><p>
+Christina Wilpers talks to motorists during a search for Karyssa Dalton's missing grandmother on Thursday, Dec. 1, 2016, in Pigeon Forge. Pamela Johnson, 59, who resided at the Travelers Motel on U.S. 321, hasn't been heard from since wildfire burned through Gatlinburg this week. (PAUL EFIRD/NEWS SENTINEL)   <span>
+Paul Efird/News Sentinel, Paul Efird/News Sentinel</span></p></div><span/></div></div><div><div><img alt="The command center in the basement of the Gatlinburg"/><p/><div><p>
+The command center in the basement of the Gatlinburg Community Center and Anna Porter Public Library on Thursday, Dec. 1, 2016 following the devastating fires on Monday night.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Jimmy Floyd with TEMA accepts 17 voice only phones"/><p/><div><p>
+Jimmy Floyd with TEMA accepts 17 voice only phones from Tammy DeGregorio with ATT for use during the disaster in Gatlinburg on Thursday, Dec. 1, 2016.  <span>
+Michael Patrick/News Sentinel</span></p></div><span/></div></div><div><div><div><h3>Like this topic? You may also like these photo galleries:</h3></div><span/></div></div></div><div><p><b>1</b>
+of <b>121</b></p><p><span>Autoplay</span></p><p><span>Show Thumbnails</span></p><p><span>Show Captions</span></p></div><a>Last Slide</a><a>Next Slide</a><div><p>121 Photos</p><p>Photos: Wildfires continue to wreak havoc on Gatlinburg</p></div><p/></div></div></div><p>Estimates place the number of homes and businesses damaged or destroyed at more than 700 so far — about 300 inside the Gatlinburg city limits and another 400 in neighboring
+<culink>Pigeon Forge</culink>
+and unincorporated communities such as Wears Valley and Cobbly Nob. A map will be posted on Facebook of damaged properties, officials said, with updates in real time.</p><p>Forecasts of more high-speed winds Thursday increase the odds of further fire outbreaks, emergency workers warned, and the less than 2 inches of rain that's fallen since Tuesday hasn't helped to put out hot spots.</p><p>"We don't want any of our recent precipitation to give any false sense of security, because fire is a tremendous beast," Miller said.</p><div><p>Alice Hagler, missing from Chalet Village, a collection of rental cabins, was one of the three dead found in that neighborhood, </p><a href="https://archive.is/o/sSTDw/www.usatoday.com/story/news/2016/11/30/chalet-village-hard-hit-gatlinburg-area-wildfires/94674600/">her son has confirmed</a><p>. Authorities have not released the names of any of the dead, and Gatlinburg Police Chief Randy Brackins referred all questions to the Tennessee Bureau of Investigation.</p></div><p>Two more bodies were found in the North Chalet Village — those were identified by family as the Summers couple — and another was found in a room at the Travelers Motel off
+<culink>U.S. Highway 321</culink>. Three more bodies had been found by Wednesday afternoon — all three in a home on Campbell Lead Road.</p><p>Authorities have not provided a list of residents unaccounted for. The TBI has set up a hotline for people to call at 800-TBI-FIND if they believe a loved one is missing. The hotline has received nearly 100 calls over the past 24 hours, with agents following up about 70 leads from those calls, TBI spokeswoman Leslie Earhart said. She gave no details on any specific cases.</p><p>Eighty people have been treated at LeConte Medical Center for fire-related injuries, authorities said, with some still hospitalized. The three Summers sons suffered burns serious enough to need treatment at the Vanderbilt University Medical Center in Nashville.</p><p>Fire officials said the damage total includes about 300 buildings inside the Gatlinburg city limits and another 400 in neighboring Pigeon Forge and outlying unincorporated communities. That's on top of more than 17,100 acres consumed since the blaze began last week in the remote Chimney Tops area of the nearby Great Smoky Mountains National Park.</p><div><p/><p/><div><div><span/><p>Photos: Inside the middle of the Gatlinburg wildfire</p><p/><div><h4><span/>Posted!</h4><p>A link has been posted to your Facebook feed.
+</p></div></div><div><div><div><div><img alt="Cars burn in front of the main entrance of the Westgate" src="https://archive.is/sSTDw/d7160b2c86902be814d36f59a8b4bbc3236c396d.jpg"/><p/><div><p>
+Cars burn in front of the main entrance of the Westgate Smoky Mountain Resort in Gatlinburg on Tuesday, Nov. 29, 2016, during the middle of the wildfire that ravaged Sevier County.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="The main entrance of the Westgate Smoky Mountain Resort"/><p/><div><p>
+The main entrance of the Westgate Smoky Mountain Resort in Gatlinburg burns on Tuesday, Nov. 29, 2016, during the middle of the wildfire that ravaged Sevier County.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="A cabin at the Westgate Smoky Mountain Resort in Gatlinburg"/><p/><div><p>
+A cabin at the Westgate Smoky Mountain Resort in Gatlinburg burns on Tuesday, Nov. 29, 2016, during the middle of the wildfire that ravaged Sevier County.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="Cars burn in front of the main entrance of the Westgate"/><p/><div><p>
+Cars burn in front of the main entrance of the Westgate Smoky Mountain Resort in Gatlinburg on Tuesday, Nov. 29, 2016, during the middle of the wildfire that ravaged Sevier County.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="A building at the Westgate Smoky Mountain Resort goes"/><p/><div><p>
+A building at the Westgate Smoky Mountain Resort goes up in flames on Tuesday, Nov. 29, 2016, during the middle of the devastating wildfire that hit Gatlinburg.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="A member of the Gatlinburg Fire Department battles"/><p/><div><p>
+A member of the Gatlinburg Fire Department battles a fire at a building at the Westgate Smoky Mountain Resort on Tuesday, Nov. 29, 2016.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="First responders with the Gatlinburg Fire Department"/><p/><div><p>
+First responders with the Gatlinburg Fire Department arrive to battle the blaze at the Westgate Smoky Mountain Resort on Tuesday, Nov. 29, 2016.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="Fire hits the River Edge Motor Lodge in Gatlinburg"/><p/><div><p>
+Fire hits the River Edge Motor Lodge in Gatlinburg in the early morning of Tuesday, Nov. 29, 2016. Heavy winds spread wildfire through the town, devastating Sevier County.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="The charred remains of the main entrance of the Westgate"/><p/><div><p>
+The charred remains of the main entrance of the Westgate Smoky Mountain Resort in Gatlinburg smolders on Tuesday, Nov. 29, 2016, during the middle of the wildfire that ravaged Sevier County.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="The main entrance of the Westgate Smoky Mountain Resort"/><p/><div><p>
+The main entrance of the Westgate Smoky Mountain Resort in Gatlinburg burns on Tuesday, Nov. 29, 2016, during the middle of the wildfire that ravaged Sevier County.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><img alt="The main entrance to the Westgate Smoky Mountain Resort"/><p/><div><p>
+The main entrance to the Westgate Smoky Mountain Resort in Gatlinburg burns on Tuesday, Nov. 29, 2016, during the middle of the wildfire that ravaged Sevier County.  <span>
+Brandon Reese / For The Tennessean</span></p></div><span/></div></div><div><div><div><h3>Like this topic? You may also like these photo galleries:</h3></div><span/></div></div></div><div><p><b>1</b>
+of <b>11</b></p><p><span>Autoplay</span></p><p><span>Show Thumbnails</span></p><p><span>Show Captions</span></p></div><a>Last Slide</a><a>Next Slide</a><div><p>11 Photos</p><p>Photos: Inside the middle of the Gatlinburg wildfire</p></div><p/></div></div></div><p>Investigators suspect that fire to be "human-caused," park Superintendent Cassius Cash said. The fire continued to rage through brush, deadwood and fallen leaves Thursday, and park officials warned recent rains haven't done enough to relieve the four-month drought that made the fire possible.</p><p>"The fire is not out," said Mark Jamieson, chief of the fire management team for the park. "It is just knocked down."</p><p>The U.S Bureau of Alcohol, Tobacco, Firearms and Explosives has joined the "initial stages" of the investigation into the fire's cause, ATF spokesman Michael Knight said. That involvement doesn't necessarily mean the probe will lead to any arrests, he said.</p><p>Since the fire's start Nov. 23 on the Chimney Tops trail, the flames have spread to more than 6,200 acres outside the park. By Monday morning, the flames had spread by embers carried on the wind to the Twin Creeks community but didn't appear to pose an immediate threat to the city, Miller said.</p><div><aside><p>“The fire is not out. It is just knocked down.”</p><span>Mark Jamieson, fire management chief, Great Smoky Mountains National Park</span></aside></div><p>That changed by 6 p.m. when wind speeds doubled to more than 90 mph, toppling power lines and scattering embers for miles, he said.</p><p>"We went from nothing to over 20-plus structure fires in a matter of minutes," the fire chief said. "I don't have a great understanding of it myself, because it's so unfathomable."</p><p>The fire displaced more than 14,000 residents from Gatlinburg alone, many of whom fled home Monday night in the dark with nothing more than what they could carry. Most have found lodging with friends or family.</p><p>The head count at emergency shelters Wednesday night had fallen to 240 people, according to the American Red Cross.</p><p>Authorities have reopened access to Gatlinburg from the post office to the eastern city limits and hope to reopen the Parkway and River Road by Wednesday, City Manager Cindy Ogle said. Side streets will reopen later, she said.</p><p>A curfew will be in place again Thursday from 6 p.m. to 6 a.m.</p><div><p/><p/><div><div><span/><p>Gatlinburg Fire from the Air and on the Ground</p><p/><div><h4><span/>Posted!</h4><p>A link has been posted to your Facebook feed.
+</p></div></div><div><div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA;  Visitors crowd the" src="https://archive.is/sSTDw/6612ec9c0ca2573169d2a22e4e614bbf759a77fa.JPG"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Visitors crowd the streets as Gatlinburg, Tenn reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory Credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA; Volunteers George"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Volunteers George Hernandez Mejia, left, and Bennie Sims clear trees at the home of Mike and Sue Thompson on in Gatlinburg, Tenn. Disaster relief organizations All Hands Volunteers and Reach Out Worldwide are helping the family as the resort city reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA;  The Parkway in Gatlinburg,"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; The Parkway in Gatlinburg, Tenn., is pictured from the Space Needle as the resort city reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory Credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA;  Brian Rybka of Cape"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Brian Rybka of Cape Coral, Fla., registers at the Gatlinburg Inn with help from Glenda Surrett, left, and Bunny Reed as the resort city reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory Credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="A burned pickup truck sits in front of temporary parking"/><p/><div><p>
+A burned pickup truck sits in front of temporary parking signs in Gatlinburg, Tenn., on Friday, Dec. 9, 2016. Gatlinburg reopened to the public for the first time since fatal wildfires spread to the city on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA;  A 'Mountain Tough'"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; A 'Mountain Tough' sign greets motorists to Gatlinburg, Tenn., as the city reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory Credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA; Sue Thompson hugs"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Sue Thompson hugs her son, Mike, as they visit their burned home in Gatlinburg, Tenn. Disaster relief organizations All Hands Volunteers and Reach Out Worldwide are helping the family as the resort city reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA;  Gatlinburg, Tenn.,"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Gatlinburg, Tenn., is pictured from the Space Needle as the resort reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory Credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA; Tourist take pictures"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Tourist take pictures as Gatlinbrg, TN reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="A pool is filled with ashes and debris at the Laurel"/><p/><div><p>
+A pool is filled with ashes and debris at the Laurel Point Resort in Gatlinburg, Tenn., on Friday, Dec. 9, 2016. Gatlinburg reopened to the public for the first time since fatal wildfires spread to the city on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA;  Tourists crowd a"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Tourists crowd a shopping area as Gatlinburg, Tenn., reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory Credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Sue Thompson, right, works with volunteers at her burned"/><p/><div><p>
+Sue Thompson, right, works with volunteers at her burned home in Gatlinburg.  <span>
+Amy Smotherman Burgess / USA Today Network</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA;  Christina Sims of"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Christina Sims of Lake City, S.C., with her children, Lauren and Ethan, view Gatlinburg, Tenn., from the Space Needle as the city reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory Credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA;  Traffic returns"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Traffic returns to Gatlinburg, Tenn., as the city reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory Credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Fire damage to the Laurel Point Resort in Gatlinburg,"/><p/><div><p>
+Fire damage to the Laurel Point Resort in Gatlinburg, Tenn., is seen on Friday, Dec. 9, 2016. Gatlinburg reopened to the public for the first time since fatal wildfires spread to the city on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA;  A steady stream"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; A steady stream of cars began tickling into Gatlinburg shortly after the city reopened to the public at 7 a.m, nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory Credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="People enter the Pancake Pantry as Gatlinbrg reopens"/><p/><div><p>
+People enter the Pancake Pantry as Gatlinbrg reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures.  <span>
+Amy Smotherman Burgess/News Sentinel</span></p></div><span/></div></div><div><div><img alt="Dec 9, 2016; Gatlinburg, TN, USA; Visitors watch taffy"/><p/><div><p>
+Dec 9, 2016; Gatlinburg, TN, USA; Visitors watch taffy being made at the Ole Smoky Candy Kitchen as Gatlinburg, Tenn., reopens to the public nearly two weeks after a devastating wildfire killed 14 people, injured 176 and burned more than 2,400 structures. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="A chimney is left standing from a burned home in Gatlinburg,"/><p/><div><p>
+A chimney is left standing from a burned home in Gatlinburg, Tenn., on Friday, Dec. 9, 2016. The resort town reopened to the public for the first time since fatal wildfires on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Fire damage to the Laurel Point Resort in Gatlinburg,"/><p/><div><p>
+Fire damage to the Laurel Point Resort in Gatlinburg, Tenn., is seen on Friday, Dec. 9, 2016. Gatlinburg reopened to the public for the first time since fatal wildfires spread to the city on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Fire damage to the Laurel Point Resort in Gatlinburg,"/><p/><div><p>
+Fire damage to the Laurel Point Resort in Gatlinburg, Tenn., is seen on Friday, Dec. 9, 2016. Gatlinburg reopened to the public for the first time since fatal wildfires spread to the city on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Fire damage to the Laurel Point Resort in Gatlinburg,"/><p/><div><p>
+Fire damage to the Laurel Point Resort in Gatlinburg, Tenn., is seen on Friday, Dec. 9, 2016. Gatlinburg reopened to the public for the first time since fatal wildfires spread to the city on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="The remains of laundry machines sit on the site of"/><p/><div><p>
+The remains of laundry machines sit on the site of a burned inn near downtown Gatlinburg, Tenn., on Friday, Dec. 9, 2016. The resort town reopened to the public for the first time since wildfires on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="A burned vehicle sits in a heavily damaged neighborhood"/><p/><div><p>
+A burned vehicle sits in a heavily damaged neighborhood above Gatlinburg, Tenn., on Friday, Dec. 9, 2016. The resort town reopened to the public for the first time since wildfires on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="A burned resort is seen in a heavily damaged neighborhood"/><p/><div><p>
+A burned resort is seen in a heavily damaged neighborhood in Gatlinburg, Tenn., on Friday, Dec. 9, 2016. The resort town reopened to the public for the first time since wildfires on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="The balconies of a burned-out resort are seen in a"/><p/><div><p>
+The balconies of a burned-out resort are seen in a heavily damaged neighborhood in Gatlinburg, Tenn., on Friday, Dec. 9, 2016. The resort town reopened to the public for the first time since wildfires on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="A burned vehicle sits in a heavily damaged neighborhood"/><p/><div><p>
+A burned vehicle sits in a heavily damaged neighborhood above Gatlinburg, Tenn., on Friday, Dec. 9, 2016. The resort town reopened to the public for the first time since wildfires on Nov. 28. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="In this Monday, Dec. 6, 2016 photo, Senior Pastor Kim"/><p/><div><p>
+In this Monday, Dec. 6, 2016 photo, Senior Pastor Kim McCroskey inspects a statue outside the remains of the family life center at Roaring Fork Baptist Church in Gatlinburg, Tenn. The church and the center burned down in wildfires a week earlier. (AP Photo/Jonathan Mattise)  <span>
+Jonathan Mattise, AP</span></p></div><span/></div></div><div><div><img alt="Smoke continues to rise from the Alamo Steakhouse in"/><p/><div><p>
+Smoke continues to rise from the Alamo Steakhouse in Gatlinburg, Tenn., Monday, Dec. 5, 2016, after it burned during deadly wildfires. Businesses remained closed Monday in the fire-ravaged Tennessee community but many were in cleanup mode in hopes of reopening to the public, possibly by midweek. (AP Photo/Jonathan Mattise)  <span>
+Jonathan Mattise, AP</span></p></div><span/></div></div><div><div><img alt="Dec 5, 2016; Gatlinburg, TN, USA; Allan Rivera holds"/><p/><div><p>
+Dec 5, 2016; Gatlinburg, TN, USA; Allan Rivera holds onto his 23-month-old son Nathan Rivera as he looks at the remains of their home for the first time. The family evacuated from their rental cabin before it was completely destroyed in last Monday's fires. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Dec 5, 2016; Gatlinburg, TN, USA; The remains of the"/><p/><div><p>
+Dec 5, 2016; Gatlinburg, TN, USA; The remains of the home of Allan Rivera' are seen Monday. The family evacuated from their rental cabin before it was completely destroyed in last Monday’s fires. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Dec 5, 2016; Gatlinburg, TN, USA; Lelin Romero feeds"/><p/><div><p>
+Dec 5, 2016; Gatlinburg, TN, USA; Lelin Romero feeds her three month old son Ethan in their van as they visit the remains of their home for the first time. The family evacuated from their rental cabin before it was completely destroyed in last Monday’s fires. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Dec 5, 2016; Gatlinburg, TN, USA; Allan Rivera looks"/><p/><div><p>
+Dec 5, 2016; Gatlinburg, TN, USA; Allan Rivera looks over the remains of his home while visiting the site for the first time. The family evacuated from their rental cabin before it was completely destroyed in last Monday's fires. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Dec 5, 2016; Gatlinburg, TN, USA; Allan Rivera holds"/><p/><div><p>
+Dec 5, 2016; Gatlinburg, TN, USA; Allan Rivera holds onto his 23-month-old son Nathan Rivera as he looks at the remains of their home for the first time. The family evacuated from their rental cabin before it was completely destroyed in last Monday’s fires. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Dec 5, 2016; Gatlinburg, TN, USA; Homes destroyed by"/><p/><div><p>
+Dec 5, 2016; Gatlinburg, TN, USA; Homes destroyed by fire are seen near the downtown area of Gatlinburg on Monday, Dec. 5, 2016. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Volunteers sort through donated items for victims of"/><p/><div><p>
+Volunteers sort through donated items for victims of the Gatlinburg fire Monday, Dec. 5, 2016, in Sevierville, Tenn. A week ago on Monday, hurricane-force winds whipped up fires that killed over a dozen people and damaged or destroyed over a 1,000 buildings in the Great Smoky Mountains tourist region. (Bianna Paciorka/Knoxville News Sentinel via AP)  <span>
+Bianna Paciorka, AP</span></p></div><span/></div></div><div><div><img alt="Gatlinburg wildfire evacuee Lenin Romero, left, holds"/><p/><div><p>
+Gatlinburg wildfire evacuee Lenin Romero, left, holds her 3-month-old son, Ethan, as her partner, Allan Rivera, fills out paperwork at the Iglesia Cristiana La Luz De Jesus Church, Monday, Dec. 5, 2016, in Pigeon Forge, Tenn. A week ago on Monday, hurricane-force winds whipped up fires that killed over a dozen people and damaged or destroyed over a 1,000 buildings in the Great Smoky Mountains tourist region. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+Amy Smotherman Burgess, AP</span></p></div><span/></div></div><div><div><img alt="Destroyed homes near the downtown area of Gatlinburg,"/><p/><div><p>
+Destroyed homes near the downtown area of Gatlinburg, Tenn., are shown Dec. 5, 2016. A week ago on Monday, hurricane-force winds whipped up fires that killed 14 people and damaged or destroyed almost 1,700 buildings in the Great Smoky Mountains tourist region.  <span>
+Andrew Nelles/The Tennessean</span></p></div><span/></div></div><div><div><img alt="Volunteers sort through donated items for victims of"/><p/><div><p>
+Volunteers sort through donated items for victims of the Gatlinburg fire Monday, Dec. 5, 2016, in Sevierville, Tenn. A week ago on Monday, hurricane-force winds whipped up fires that killed over a dozen people and damaged or destroyed over a 1,000 buildings in the Great Smoky Mountains tourist region. (Bianna Paciorka/Knoxville News Sentinel via AP)  <span>
+Bianna Paciorka, AP</span></p></div><span/></div></div><div><div><img alt="Gatlinburg wildfire evacuee Savannah Sherrill, with"/><p/><div><p>
+Gatlinburg wildfire evacuee Savannah Sherrill, with her 20-month-old daughter, Creedence, visits with Knoxville Police Department Chaplain Lee Ragsdale, right, and Knoxville Fire Department Chaplain Paul Trumpore, center, on Monday, Dec. 5, 2016, in Gatlinburg, Tenn. A week ago on Monday, hurricane-force winds whipped up fires that killed over a dozen people and damaged or destroyed over a 1,000 buildings in the Great Smoky Mountains tourist region. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+Amy Smotherman Burgess, AP</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; The Sky Lift and"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; The Sky Lift and Space Needle after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="FILE - In this Tuesday, Nov. 29, 2016, file photo,"/><p/><div><p>
+FILE - In this Tuesday, Nov. 29, 2016, file photo, smoke rises from destroyed homes, many burned down to the foundation, the day after a wildfire that hit Gatlinburg, Tenn. Experts said that escaping a fire-filled forest, as thousands did Nov. 28 in the Great Smoky Mountains, can be more traumatic than disasters such as hurricanes, floods or earthquakes. One reason: Flames that scorched neighborhoods in the Gatlinburg, Tenn., area spread so rapidly that people had no time to brace for it. (Paul Efird/Knoxville News Sentinel via AP, File)  <span>
+Paul Efird, AP</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Damage to a car"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Damage to a car parked outside of apartments along Cherokee Orchard Rd. in the city of Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Smoke billows from the remains of a home on the northern"/><p/><div><p>
+Smoke billows from the remains of a home on the northern outskirts of Gatlinburg, Tenn., Thursday, Dec. 1, 2016. A devastating wildfire destroyed numerous homes and buildings on Monday. (Andrew Nelles/The Tennessean via AP)  <span>
+Andrew Nelles, AP</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Property damage"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Property damage inside the city of Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Owners and managers"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Owners and managers of the historic Gatlinburg Inn, Jack and David Maples, Gary Bailey and Bart Huskey, survey damage at the Inn and the Sky Lift in downtown Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Blanca Paz-Mejia"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Blanca Paz-Mejia returns to check on her apartment which was a total loss along Cherokee Orchard Rd. in the city of Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA; Division Supervisor"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; Division Supervisor Josh O'Connor communicates with fire crew members along the Roaring Fork Motor Nature Trail in the Great Smoky Mountains National Park. Officials say the Chimney Tops 2 fire has killed 13 people and destroyed more than 700 structures. It is human caused and under investigation. Mandatory Credit: Paul Efird/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Paul Efird, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="The stone walls are all that stands of the Roaring"/><p/><div><p>
+The stone walls are all that stands of the Roaring Fork Baptist Church in Gatlinburg, Tenn., Friday, Dec. 2, 2016, following the devastating wildfires from Monday night, Nov. 28. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+AMY SMOTHERMAN BURGESS, AP</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA; A U.S. Forest Service"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; A U.S. Forest Service crew from the Helena National Forest remove fallen trees from Newfound Gap Road in the Great Smoky Mountains National Park. They are part of the 458 personnel deployed to fight the Chimney Tops 2 fire that has killed 13 people and destroyed more than 700 structures. Mandatory Credit: Paul Efird/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Paul Efird, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA; The wildfire-scarred"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; The wildfire-scarred Chimney Tops is pictured in the Great Smoky Mountains National Park. Officials say the fire that has killed 13 people and destroyed more than 700 structures started here on Nov 23. The fire is human caused and under investigation. Mandatory Credit: Paul Efird/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Paul Efird, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; A checkpoint established"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; A checkpoint established on Highway 321 near the Food City at Glades Rd. asks for identification for property owners to be allowed in to the city of Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; A checkpoint established"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; A checkpoint established on Highway 321 near the Food City at Glades Rd. asks for identification for property owners to be allowed in to the city of Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Residents return"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Residents return to check on apartments along Cherokee Orchard Rd. in the city of Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; The Park Vista after"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; The Park Vista after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Residents return"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Residents return to check on apartments along Cherokee Orchard Rd. in the city of Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; A home damaged after"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; A home damaged after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; The Parkway in downtown"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; The Parkway in downtown Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Spot fires can be"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Spot fires can be seen along the skyline in downtown Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; The pool at the"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; The pool at the Riverside Motorlodge on River Rd. after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA; U.S. Forest Service"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; U.S. Forest Service crew members from the Helena National Forest walk Newfound Gap Road in the Great Smoky Mountains National Park. They are part of the 458 personnel deployed to fight the Chimney Tops 2 fire that has killed 13 people and destroyed more than 700 structures. Mandatory Credit: Paul Efird/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Paul Efird, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Cleanup begins at"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Cleanup begins at the Mountain Mall on the Parkway in downtown Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Police officers"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Police officers and firefighters stage near the Ripley's Aquarium of the Smokies after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Passengers check"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Passengers check out the damage as they drive through downtown Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Jennifer Lewis and"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Jennifer Lewis and Joe Hotaling look at damage to the Brookside Resort and Event center as they walk in to see any damage to their own residence after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Damage to the Carr"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Damage to the Carr rentals in downtown Gatlinburg after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; David Chandler returns"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; David Chandler returns to see his residence after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Darmesh Patel, owner"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Darmesh Patel, owner of the Country Town N' Suites, surveys damage to his property after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Damage to rentals"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Damage to rentals in downtown Gatlinburg after wildfires in Pigeon Forge and Gatlinburg, Tenn. earlier in the week, Friday, Dec. 2, . Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; asey Mize, with"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; asey Mize, with Great Smoky mountain Catering Company, talks with an employee as she tries to plan to still staff a wedding for tomorrow in the parking lot of the Brookside Resort and Event Center, after wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gaitlinburg, TN, USA; Foreign exchange"/><p/><div><p>
+Dec 2, 2016; Gaitlinburg, TN, USA; Foreign exchange students pack up their belongings after damage to their hotel rooms at the Brookside Resort from wildfires in Pigeon Forge and Gatlinburg. Mandatory credit: Amy Smotherman Burgess/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Amy Smotherman Burgess, Knoxville News Sentinal-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 4, 2016; Knoxville, TN, USA; The Tennessee Lady"/><p/><div><p>
+Dec 4, 2016; Knoxville, TN, USA; The Tennessee Lady Volunteers wear "Gatlinburg" warmup shirts to show supports for victims of the wildfires prior to the game against the Baylor Bears at Thompson-Boling Arena. Mandatory Credit: Randy Sartin-USA TODAY Sports  <span>
+Randy Sartin, Randy Sartin-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Charred home and cars sit on a property, while a neighbor's"/><p/><div><p>
+Charred home and cars sit on a property, while a neighbor's home, background, is undamaged Thursday, Dec. 1, 2016, in Gatlinburg, Tenn. A devastating wildfire destroyed numerous homes and buildings on Monday. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="Veronica Carney looks at the skyline from the remains"/><p/><div><p>
+Veronica Carney looks at the skyline from the remains of the home where she grew up in Gatlinburg, Tenn., on Thursday, Dec. 1, 2016. Carney flew in from Massachusetts to assist her parents, who safely evacuated as a wildfire approached Monday evening. (Andrew Nelles/The Tennessean via AP)  <span>
+Andrew Nelles, AP</span></p></div><span/></div></div><div><div><img alt="Tammy Sherrod and her husband, Scott, examine the remains"/><p/><div><p>
+Tammy Sherrod and her husband, Scott, examine the remains of their home in the Roaring Fork neighborhood of Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents on Friday, were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (AP Photo/Adam Beam)  <span>
+Adam Beam, AP</span></p></div><span/></div></div><div><div><img alt="Tammy Sherrod, right, and her daughter, Brianna, look"/><p/><div><p>
+Tammy Sherrod, right, and her daughter, Brianna, look for what few possessions remained in the burnt remains of Tammy's home in the Roaring Fork neighborhood of Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents on Friday, were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (AP Photo/Adam Beam?  <span>
+Adam Beam, AP</span></p></div><span/></div></div><div><div><img alt="The stone walls are all that stands of the Roaring"/><p/><div><p>
+The stone walls are all that stands of the Roaring Fork Baptist Church in Gatlinburg, Tenn., Friday, Dec. 2, 2016, following the devastating wildfires from Monday night, Nov. 28. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+AMY SMOTHERMAN BURGESS, AP</span></p></div><span/></div></div><div><div><img alt="U.S. Forest Service firefighters Cash Jessop, left,"/><p/><div><p>
+U.S. Forest Service firefighters Cash Jessop, left, and Brandon Allen extinguish a pocket of fire Friday, Dec. 2, 2016, in the Twin Creeks area of the Great Smoky Mountains National Park in Gatlinburg, Tenn. Officials say the Chimney Tops 2 fire near Gatlinburg, Tenn., has killed 13 people and destroyed more than 700 structures. They say it is human caused and is under investigation. (Paul Efird Knoxville News Sentinel via AP)  <span>
+Paul Efird, AP</span></p></div><span/></div></div><div><div><img alt="The TreeTops Resort is destroyed in Gatlinburg, Tenn.,"/><p/><div><p>
+The TreeTops Resort is destroyed in Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents on Friday, were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+AMY SMOTHERMAN BURGESS, AP</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA; The wildfire-scarred"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; The wildfire-scarred Chimney Tops is pictured in the Great Smoky Mountains National Park. Officials say the fire that has killed 13 people and destroyed more than 700 structures started here on Nov, 23. The fire is human caused and under investigation. Mandatory Credit: Paul Efird/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Paul Efird, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Property damage inside the city of Gatlinburg, Tenn.,"/><p/><div><p>
+Property damage inside the city of Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents on Friday, were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+AMY SMOTHERMAN BURGESS, AP</span></p></div><span/></div></div><div><div><img alt="A fire damaged vehicle rest in a ditch in the Roaring"/><p/><div><p>
+A fire damaged vehicle rest in a ditch in the Roaring Fork area of Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents on Friday, were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+AMY SMOTHERMAN BURGESS, AP</span></p></div><span/></div></div><div><div><img alt="Gary Moore holds up the remains of one of his guns"/><p/><div><p>
+Gary Moore holds up the remains of one of his guns as he examines what was left of his home in Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents on Friday, were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (AP Photo/Adam Beam)  <span>
+Adam Beam, AP</span></p></div><span/></div></div><div><div><img alt="Charlotte Moore, right, and her neighbor, Morgan Wallace,"/><p/><div><p>
+Charlotte Moore, right, and her neighbor, Morgan Wallace, look at what remains of Moore’s car in the Roaring Fork neighborhood of Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents on Friday, were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (AP Photo/Adam Beam)  <span>
+Adam Beam, AP</span></p></div><span/></div></div><div><div><img alt="Darmesh Patel, owner of the Country Town N' Suites,"/><p/><div><p>
+Darmesh Patel, owner of the Country Town N' Suites, surveys damage to his property in Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents on Friday, were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+AMY SMOTHERMAN BURGESS, AP</span></p></div><span/></div></div><div><div><img alt="Tammy Sherrod views the remains of her home in the"/><p/><div><p>
+Tammy Sherrod views the remains of her home in the Roaring Fork neighborhood of Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents on Friday, were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (AP Photo/Adam Beam)  <span>
+Adam Beam, AP</span></p></div><span/></div></div><div><div><img alt="An Air National Guard helicopter flies over Gatlinburg,"/><p/><div><p>
+An Air National Guard helicopter flies over Gatlinburg, Tenn., Thursday, Dec. 1, 2016 searching for problems following Monday's devastating wildfire. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="Small wildfires linger in Gatlinburg, Tenn., Thursday,"/><p/><div><p>
+Small wildfires linger in Gatlinburg, Tenn., Thursday, Dec. 1, 2016, following Monday's devastating wildfire. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="The burnt remains of Laurel Point Resort on Sky Mountain"/><p/><div><p>
+The burnt remains of Laurel Point Resort on Sky Mountain Rd. sits atop a hill in Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="Chris and Trina Rial retrieve some of their belongings"/><p/><div><p>
+Chris and Trina Rial retrieve some of their belongings from their motell room in Gatlinburg, Tenn., Friday, Dec. 2, 2016, Residents were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="Police officers examine papers as vehicles wait to"/><p/><div><p>
+Police officers examine papers as vehicles wait to enter Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="Utility workers install a line in Gatlinburg, Tenn.,"/><p/><div><p>
+Utility workers install a line in Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="Tennessee Gov. Bill Haslam speaks during a press conference,"/><p/><div><p>
+Tennessee Gov. Bill Haslam speaks during a press conference, Friday, Dec. 2, 2016, in Gatlinburg, Tenn. (Andrew Nelles/The Tennessean via AP)  <span>
+Andrew Nelles, AP</span></p></div><span/></div></div><div><div><img alt="The burnt remains of a home known to visitors as The"/><p/><div><p>
+The burnt remains of a home known to visitors as The Castle is seen from downtown Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="A burnt home sits on a hillside in Gatlinburg, Tenn.,"/><p/><div><p>
+A burnt home sits on a hillside in Gatlinburg, Tenn., Friday, Dec. 2, 2016. Residents were getting their first look at what remains of their homes and businesses in Gatlinburg, after a wildfire tore through the resort community on Monday, Nov. 28. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA;  Roaring Fork Baptist"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; Roaring Fork Baptist Church after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA;  First Baptist Church"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; First Baptist Church in Gatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA; Trina Rial retrieves"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; Trina Rial retrieves her father's Harley vest from their belongings in their room at Travelers on US321 in Gatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA;  SA crew works to"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; SA crew works to remove another downed tree in Gatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA;  Scenes from downtown"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; Scenes from downtown Gatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA;  First Baptist Church"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; First Baptist Church in Gatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA;  Scenes from downtown"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; Scenes from downtown Gatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA;  Scenes from downtown"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; Scenes from downtown Gatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA; The Park Vista Hotel"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; The Park Vista Hotel in downtown Gatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA;  Crews are busy cleaning"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; Crews are busy cleaning up the inside lobby of the Park Vista HotelGatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 2, 2016; Gatlinburg, TN, USA;  A crew removing"/><p/><div><p>
+Dec 2, 2016; Gatlinburg, TN, USA; A crew removing cut up tree from roadGatlinburg after residents were allowed back in following the devastating fires on Monday night. Mandatory Credit: Michael Patrick/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Michael Patrick, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="The charred foundation and burnt out vehicle is all"/><p/><div><p>
+The charred foundation and burnt out vehicle is all that remains of a home in the Cobbly Knob area of Pigeon Forge, Tenn., Thursday, Dec. 1, 2016. A devastating wildfire destroyed numerous homes and buildings on Monday. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+AMY SMOTHERMAN BURGESS, AP</span></p></div><span/></div></div><div><div><img alt="This Dec. 1, 2016, satellite image using near-infrared"/><p/><div><p>
+This Dec. 1, 2016, satellite image using near-infrared (NIR) provided by DigitalGlobe shows damage from the wildfire near Ripley's Aquarium of the Smokies in Gatlinburg, Tenn. NIR imagery causes healthy vegetation to appear red and the burn scar from the wildfire to be dark brown. More than 14,000 residents and visitors in Gatlinburg were forced to evacuate, and the typically bustling tourist city has been shuttered ever since. (Digital Globe via AP)  <span>
+AP</span></p></div><span/></div></div><div><div><img alt="Banner Baptist Church sits in the background, Thursday,"/><p/><div><p>
+Banner Baptist Church sits in the background, Thursday, Dec. 1, 2016, in Gatlinburg, Tenn., was saved while their fellowship hall burned to the ground by Monday's wildfire. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="Dec 1, 2016; Gatlinburg, TN, USA;  Rebecca Bell sifts"/><p/><div><p>
+Dec 1, 2016; Gatlinburg, TN, USA; Rebecca Bell sifts through the remains of a car outside of her home. Bell and her family evacuated on Monday when smoke started building up. Mandatory Credit: Andrew Nelles/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Andrew Nelles, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 1, 2016; Gatlinburg, TN, USA;  Soldiers from the"/><p/><div><p>
+Dec 1, 2016; Gatlinburg, TN, USA; Soldiers from the Tennessee National Guard conduct door to door searches. Mandatory Credit: Andrew Nelles/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Andrew Nelles, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 1, 2016; Gatlinburg, TN, USA;  Soldiers from the"/><p/><div><p>
+Dec 1, 2016; Gatlinburg, TN, USA; Soldiers from the Tennessee National Guard conduct door to door searches. Mandatory Credit: Andrew Nelles/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Andrew Nelles, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Dec 1, 2016; Gatlinburg, TN, USA;  Soldiers from the"/><p/><div><p>
+Dec 1, 2016; Gatlinburg, TN, USA; Soldiers from the Tennessee National Guard conduct door to door searches. Mandatory Credit: Andrew Nelles/Knoxville News Sentinel via USA TODAY NETWORK  <span>
+Andrew Nelles, Knoxville News Sentinel-USA TODA</span></p></div><span/></div></div><div><div><img alt="Nov 30, 2016; Gatlinburg, TN, USA; Fire engines pass"/><p/><div><p>
+Nov 30, 2016; Gatlinburg, TN, USA; Fire engines pass by a burned out van on U.S. Highway 321 in Gatlinburg. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Nov 30, 2016; Gatlinburg, TN, USA; The remains of the"/><p/><div><p>
+Nov 30, 2016; Gatlinburg, TN, USA; The remains of the Alamo Steakhouse in Gatlinburg are seen in this photo taken Wednesday. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Janie Thompson speaks about her financial concerns"/><p/><div><p>
+Janie Thompson speaks about her financial concerns outside of a temporary shelter in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016. Thompson, who works at the McDonalds in Gatlinburg, has been unable to work due to the wildfire that hit the town, and doesn't know when she can return. (Andrew Nelles/The Tennessean via AP)  <span>
+Andrew Nelles, AP</span></p></div><span/></div></div><div><div><img alt="The remains of Creek Place Efficiencies are seen after"/><p/><div><p>
+The remains of Creek Place Efficiencies are seen after a wildfire in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016. Tornadoes that dropped out of the night sky killed several people in two states and injured at least a dozen more early Wednesday, adding to a seemingly biblical onslaught of drought, flood and fire plaguing the South. (Andrew Nelles/The Tennessean via AP)  <span>
+Andrew Nelles, AP</span></p></div><span/></div></div><div><div><img alt="The remains of Creek Place Efficiencies in front of"/><p/><div><p>
+The remains of Creek Place Efficiencies in front of an unharmed BB&amp;T bank in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016. Tornadoes that dropped out of the night sky killed several people in two states and injured at least a dozen more early Wednesday, adding to a seemingly biblical onslaught of drought, flood and fire plaguing the South. (Andrew Nelles/The Tennessean via AP)  <span>
+Andrew Nelles, AP</span></p></div><span/></div></div><div><div><img alt="A scorched vehicle sits next to a burned out building"/><p/><div><p>
+A scorched vehicle sits next to a burned out building in Gatlinburg, Tenn., on Tuesday, Nov. 29, 2016. The fatal fires swept over the tourist town the night before, causing widespread damage. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="A damaged pool is among the remains of Creek Place"/><p/><div><p>
+A damaged pool is among the remains of Creek Place Efficiencies after a wildfire in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016. Tornadoes that dropped out of the night sky killed several people in two states and injured at least a dozen more early Wednesday, adding to a seemingly biblical onslaught of drought, flood and fire plaguing the South. The storms tore through just as firefighters began to get control of wildfires that killed multiple people and damaged or wiped out more than 700 homes and businesses around the resort town of Gatlinburg. (Andrew Nelles/The Tennessean via AP)  <span>
+Andrew Nelles, AP</span></p></div><span/></div></div><div><div><img alt="Nov 30, 2016; Gatlinburg, TN, USA; Gatlinburg Mayor"/><p/><div><p>
+Nov 30, 2016; Gatlinburg, TN, USA; Gatlinburg Mayor Mike Werner takes a phone call before speaking at a press conference. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Burnt vehicles remain among the damage from wildfires"/><p/><div><p>
+Burnt vehicles remain among the damage from wildfires at Creek Place Efficiencies in Gatlinburg, Tenn., Wednesday, Nov. 30, 2016. Tornadoes that dropped out of the night sky killed several people in two states and injured at least a dozen more early Wednesday, adding to a seemingly biblical onslaught of drought, flood and fire plaguing the South. (Andrew Nelles/The Tennessean via AP)  <span>
+Andrew Nelles, AP</span></p></div><span/></div></div><div><div><img alt="Donated shoes are displayed at the LeConte Center Wednesday,"/><p/><div><p>
+Donated shoes are displayed at the LeConte Center Wednesday, Nov. 30, 2016, in Pigeon Forge, Tenn., which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+Amy Smotherman Burgess, AP</span></p></div><span/></div></div><div><div><img alt="A burned car sits in a parking lot Wednesday, Nov."/><p/><div><p>
+A burned car sits in a parking lot Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn., after a wildfire swept through the area Monday. Three more bodies were found in the ruins of wildfires that torched hundreds of homes and businesses in the Great Smoky Mountains area, officials said Wednesday. (AP Photo/Mark Humphrey)  <span>
+Mark Humphrey, AP</span></p></div><span/></div></div><div><div><img alt="Gatlinburg, Tenn., resident Ric Morgan, displaced by"/><p/><div><p>
+Gatlinburg, Tenn., resident Ric Morgan, displaced by the mandatory evacuations caused by wildfires, waits at Rocky Top Sport World just outside of Gatlinburg, Wednesday, Nov. 30, 2016. (Michael Patrick/Knoxville News Sentinel via AP)  <span>
+Michael Patrick, AP</span></p></div><span/></div></div><div><div><img alt="Nov 30, 2016; Gatlinburg, TN, USA; Ripley's Aquarium"/><p/><div><p>
+Nov 30, 2016; Gatlinburg, TN, USA; Ripley's Aquarium of the Smokies is seen in this photo take in Gatlinburg. Ripley's Aquarium of the Smokies was left unharmed during this week's wildfires. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Red Cross officials and volunteers, from left, John"/><p/><div><p>
+Red Cross officials and volunteers, from left, John Manners, Louie Keeling, Kathleen Manners and Sharon Hudson, confer at the LeConte Center Wednesday, Nov. 30, 2016, in Pigeon Forge, Tenn., which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+Amy Smotherman Burgess, AP</span></p></div><span/></div></div><div><div><img alt="Nov 30, 2016; Gatlinburg, TN, USA; An emergency vehicle"/><p/><div><p>
+Nov 30, 2016; Gatlinburg, TN, USA; An emergency vehicle drives through downtown Gatlinburg as rain falls. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="Nov 30, 2016; Gatlinburg, TN, USA; Cassius Cash, superintendent"/><p/><div><p>
+Nov 30, 2016; Gatlinburg, TN, USA; Cassius Cash, superintendent of the Great Smoky Mountains National Park, speaks during a press conference in Gatlinburg. Mandatory Credit: Andrew Nelles / The Tennessean via USA TODAY NETWORK  <span>
+Andrew Nelles, The Tennessean-USA TODAY Sports</span></p></div><span/></div></div><div><div><img alt="People gather to watch a press conference given by"/><p/><div><p>
+People gather to watch a press conference given by officials at the LeConte Center Wednesday, Nov. 30, 2016, in Pigeon Forge, Tenn., which has been serving as a Red Cross shelter since the wildfires in Pigeon Forge and Gatlinburg. (Amy Smotherman Burgess/Knoxville News Sentinel via AP)  <span>
+Amy Smotherman Burgess, AP</span></p></div><span/></div></div><div><div><img alt="A Franklin Fire Department engine waits in a staging"/><p/><div><p>
+A Franklin Fire Department engine waits in a staging area in downtown Gatlinburg, Tenn., Wednesday, Nov. 30, 2016. Tornadoes that killed several people are adding to an onslaught of drought, flood and fire plaguing the South. The deadly overnight storms crashed into Alabama and Tennessee just as crews began to control wildfires around the resort town of Gatlinburg. (Andrew Nelles/The Tennessean via AP)  <span>
+Andrew Nelles, AP</span></p></div><span/></div></div><div><div><img alt="Smokes still rises out of the remains of a burned-out"/><p/><div><p>
+Smokes still rises out of the remains of a burned-out business Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn., after a wildfire swept through the area Monday. Three more bodies were found in the ruins of wildfires that torched hundreds of homes and businesses in the Great Smoky Mountains area, officials said Wednesday. (AP Photo/Mark Humphrey)  <span>
+Mark Humphrey, AP</span></p></div><span/></div></div><div><div><img alt="A burned car sits in a parking lot Wednesday, Nov."/><p/><div><p>
+A burned car sits in a parking lot Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn., after a wildfire swept through the area Monday. Three more bodies were found in the ruins of wildfires that torched hundreds of homes and businesses in the Great Smoky Mountains area, officials said Wednesday. (AP Photo/Mark Humphrey)  <span>
+Mark Humphrey, AP</span></p></div><span/></div></div><div><div><img alt="Smoke rises from the remains of the Alamo Steak House"/><p/><div><p>
+Smoke rises from the remains of the Alamo Steak House Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn., after a wildfire swept through the area Monday. Three more bodies were found in the ruins of wildfires that torched hundreds of homes and businesses in the Great Smoky Mountains area, officials said Wednesday. (AP Photo/Mark Humphrey)  <span>
+Mark Humphrey, AP</span></p></div><span/></div></div><div><div><img alt="Some walls of a burned-out business remain Wednesday,"/><p/><div><p>
+Some walls of a burned-out business remain Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn., after a wildfire swept through the area Monday. Three more bodies were found in the ruins of wildfires that torched hundreds of homes and businesses in the Great Smoky Mountains area, officials said Wednesday. (AP Photo/Mark Humphrey)  <span>
+Mark Humphrey, AP</span></p></div><span/></div></div><div><div><img alt="A burned car sits in a parking lot Wednesday, Nov."/><p/><div><p>
+A burned car sits in a parking lot Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn., after a wildfire swept through the area Monday. Three more bodies were found in the ruins of wildfires that torched hundreds of homes and businesses in the Great Smoky Mountains area, officials said Wednesday. (AP Photo/Mark Humphrey)  <span>
+Mark Humphrey, AP</span></p></div><span/></div></div><div><div><img alt="A swimming pool in a motel complex shows burn marks"/><p/><div><p>
+A swimming pool in a motel complex shows burn marks Wednesday, Nov. 30, 2016, in Gatlinburg, Tenn., after a wildfire swept through the area Monday. Three more bodies were found in the ruins of wildfires that torched hundreds of homes and businesses in the Great Smoky Mountains area, officials said Wednesday. (AP Photo/Mark Humphrey)  <span>
+Mark Humphrey, AP</span></p></div><span/></div></div><div><div><img alt="A handout photo made available on November 29, 2016"/><p/><div><p>
+A handout photo made available on November 29, 2016 by the Arrowmont School of Arts and Crafts showing a school building on fire during evacuation as wildfires move through the area, in Gatlinburg, Tennessee, USA, 28 November 2016. Reports state that three people have died because of the wildfires, and hundreds of buildings have been destroyed. Thousands of residents have been evacuated. EPA/BILL MAY / ARROWMONT SCHOOL OF ARTS AND CRAFTS / HANDOUT HANDOUT, EDITORIAL USE ONLY, NO SALES  <span>
+Bil May</span></p></div><span/></div></div><div><div><img alt="Smoke surrounds a home as seen from aboard a National"/><p/><div><p>
+Smoke surrounds a home as seen from aboard a National Guard helicopter near Gatlinburg, Tenn., Tuesday, Nov. 29, 2016. Thousands of people have fled deadly wildfires that have destroyed hundreds of homes and a resort in the Great Smoky Mountains. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Burned structures are seen from aboard a National Guard"/><p/><div><p>
+Burned structures are seen from aboard a National Guard helicopter near Gatlinburg, Tenn., Tuesday, Nov. 29, 2016. Thousands of people raced through a hell-like landscape to escape wildfires that killed several people and destroyed hundreds of homes in the Great Smoky Mountains. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Burned structures are seen from aboard a National Guard"/><p/><div><p>
+Burned structures are seen from aboard a National Guard helicopter near Gatlinburg, Tenn., Tuesday, Nov. 29, 2016. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Destroyed buildings sit among burned trees Tuesday,"/><p/><div><p>
+Destroyed buildings sit among burned trees Tuesday, Nov. 29, 2016, near Gatlinburg, Tenn., after a wildfire swept through the area Monday. (AP Photo/Wade Payne)  <span>
+Wade Payne, AP</span></p></div><span/></div></div><div><div><img alt="A helicopter can be seen as it flies over the mountains"/><p/><div><p>
+A helicopter can be seen as it flies over the mountains Tuesday, Nov. 29, 2016, near Gatlinburg, Tenn., after a wildfire swept through the area Monday. (AP Photo/Wade Payne)  <span>
+Wade Payne, AP</span></p></div><span/></div></div><div><div><img alt="Dakota Cogdill, left, and Liberty Baptist Church pastor"/><p/><div><p>
+Dakota Cogdill, left, and Liberty Baptist Church pastor Dan Suttles sift through the remains of a home after a wild fire burned the home Monday in Pigeon Forge, Tenn., Tuesday, Nov. 29, 2016. . Hundreds of structures have apparently been destroyed with more than 1,300 people evacuated overnight Monday November 29, 2016. Emergency officials ordered evacuations in downtown Gatlinburg and Pigeon Forge and in other areas of Sevier County near the Great Smoky Mountains. About 14,000 residents and visitors were evacuated from Gatlinburg alone. (Tom Sherlin/The Daily Times via AP)  <span>
+Tom Sherlin, AP</span></p></div><span/></div></div><div><div><img alt="A scorched vehicle sits next to a burned out building"/><p/><div><p>
+A scorched vehicle sits next to a burned out building in Gatlinburg, Tenn., Tuesday, Nov. 29, 2016. The fatal fires swept over the tourist town the night before, causing widespread damage. Thousands of people raced through a hell-like landscape to escape wildfires that killed several people and destroyed hundreds of homes in the Great Smoky Mountains. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Burned structures are seen from aboard a National Guard"/><p/><div><p>
+Burned structures are seen from aboard a National Guard helicopter near Gatlinburg, Tenn., Tuesday, Nov. 29, 2016. The fires spread quickly on Monday night, when winds topping 87 mph whipped up the flames, catching residents and tourists in the Gatlinburg area by surprise. Police banged on front doors and told people to get out immediately. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Burned structures are seen from aboard a National Guard"/><p/><div><p>
+Burned structures are seen from aboard a National Guard helicopter near Gatlinburg, Tenn., Tuesday, Nov. 29, 2016. The fires spread quickly on Monday night, when winds topping 87 mph whipped up the flames, catching residents and tourists in the Gatlinburg area by surprise. Police banged on front doors and told people to get out immediately. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Destroyed homes sit among burned trees Tuesday, Nov."/><p/><div><p>
+Destroyed homes sit among burned trees Tuesday, Nov. 29, 2016, near Gatlinburg, Tenn., after a wildfire swept through the area Monday. (AP Photo/Wade Payne)  <span>
+Wade Payne, AP</span></p></div><span/></div></div><div><div><img alt="A burned out building smolders in Gatlinburg, Tenn.,"/><p/><div><p>
+A burned out building smolders in Gatlinburg, Tenn., Tuesday, Nov. 29, 2016. The fatal wildfires swept over the tourist town the night before, causing widespread damage. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><img alt="Burned structures are seen from aboard a National Guard"/><p/><div><p>
+Burned structures are seen from aboard a National Guard helicopter near Gatlinburg, Tenn., on Tuesday, Nov. 29, 2016. (AP Photo/Erik Schelzig)  <span>
+Erik Schelzig, AP</span></p></div><span/></div></div><div><div><div><h3>Like this topic? You may also like these photo galleries:</h3></div><span/></div></div></div><div><p><b>1</b>
+of <b>150</b></p><p><span>Autoplay</span></p><p><span>Show Thumbnails</span></p><p><span>Show Captions</span></p></div><a>Last Slide</a><a>Next Slide</a><div><p>150 Photos</p><p>Gatlinburg Fire from the Air and on the Ground</p></div><p/></div></div></div><p>Gatlinburg Mayor Mike Werner, who lost his home and business in the fire, said the city's spirit still stands tall.</p><p>"Gatlinburg is the people," he said. "That's what Gatlinburg is. It's not the buildings. It's the people."</p><p>Besides the search for missing loved ones, calls continue to come in about missing pets. Authorities have asked that information on specific animals be provided to the county humane society at sevierhumane.org or on the society's Facebook page.</p><p>The Red Cross still has an abundance of food, water, clothing and other items, and has asked people to make only monetary donations for now. Donations may be made by calling 866-586-4483 or 865-430-7384.</p><p>A Pigeon Forge business donated $100,000 to relief efforts Wednesday, and country music icon Dolly Parton, Sevier County's most famous native, pledged to donate $1,000 per month for six months to every family who lost a home in the fire.</p><p>U.S. senators Bob Corker and Lamar Alexander said they would work with local authorities to ensure funding from the Federal Emergency Management Agency was timely and useful. They plan to tour areas hit by the fire Friday.</p><p>The state Department of Labor will work with local agencies to help expedite applications for unemployment insurance, Sevier County Mayor Larry Waters said. Insurance adjusters will be on hand as well.</p><p><em>Follow Tyler Whetstone on Twitter: @tyler_whetstone</em></p><div><div><div><div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>These devastating photos show Gatlinburg fires up close | 0:49</span><p>Photographer Brandon Reese and his work partner walked through the fire that scorched the town of Gatlinburg, Tennessee, classifying it as 'an apocalyptic wasteland.'
+<span>
+USA TODAY NETWORK</span><i/></p></div></div><p>1 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Raw: Aerial Video shows Tennessee homes in ashes | 0:58</span><p>Aerial video shows homes and trees damaged in wildfires in Gatlinburg, Tennessee. Officials say crews discovered the remains of more people as they searched through rubble, bringing the death toll to 11. (Dec. 2)
+<span>
+AP</span><i/></p></div></div><p>2 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>At least 10 killed in Smoky Mountain wildfire | 0:55</span><p>A fire has scorched 17,000 acres and killed several people in eastern Tennessee. At least 10 killed In Smoky Mountain wildfire, others still missing.
+<span>
+Time</span><i/></p></div></div><p>3 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Mayor: 'Heart' of Tenn. City Intact After Fire | 1:45</span><p>Officials are discussing re-opening a Tennessee city later this week after wildfires forced the evacuation of thousands. "The downtown area is the pulse, the heart of the city. Thankfully it’s intact," said Gatlinburg Mayor Mike Werner. (Dec. 1)
+<span>
+AP</span><i/></p></div></div><p>4 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>AP Exclusive: National park in Tenn. after fire | 2:49</span><p>The Associated Press was allowed inside the Great Smoky Mountains National Park Thursday, to shoot video of fire damage. No other media have been allowed in the park since the fire started spreading on Monday. (Dec. 2)
+<span>
+AP</span><i/></p></div></div><p>5 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Tennessee wildfires leave trail of destruction | 1:04</span><p>At least seven people have been killed in Tennessee's devastating wildfires, and others are still missing.
+<span>
+USA TODAY NETWORK</span><i/></p></div></div><p>6 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Mayor: More bodies recovered in wildfire rubble | 1:46</span><p>A Tennessee mayor says three more bodies have been recovered after the wildfires in the Great Smoky Mountains, bringing the death toll to seven. (Nov. 30)
+<span>
+AP</span><i/></p></div></div><p>7 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Stepbrothers film harrowing escape from TN Fire | 0:56</span><p>Thousands of people made "hell-like" escapes from wildfires that burned hundreds of homes, destroyed a resort in the Great Smoky Mountains and killed three people. Two stepbrothers caught their harrowing escape on their iPhone. (Nov. 29)
+<span>
+AP</span><i/></p></div></div><p>8 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Over 100 Structures Damaged in Tenn. Wildfire | 2:08</span><p>City officials say that hundreds of homes and other buildings were damaged or destroyed by flames from wildfires in Tennessee. (Nov. 29)
+<span>
+AP</span><i/></p></div></div><p>9 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>General manager: 'All is fine' at Ripley's Aquarium | 0:51</span><p>Ryan Desear, general manager of Ripley's Aquarium of the Smokies, talks about the Gatlinburg fire on Tuesday, Nov. 29, 2016.
+<span>
+Michael Patrick</span><i/></p></div></div><p>10 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Gatlinburg homes, hotels ablaze as wildfires spread in the south | 0:54</span><p>But no deaths reported in Smoky Mountains blazes in Tenn.
+<span>
+Time</span><i/></p></div></div><p>11 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Evacuations ordered as Tennessee wildfires rage | 1:36</span><p>Tennessee officials say thousands of residents and visitors in the Gatlinburg area have been evacuated and hundreds of structures have been damaged and destroyed by spreading wildfires. (Nov. 29)
+<span>
+AP</span><i/></p></div></div><p>12 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Arrowmont executive director: Most of school saved from fire | 0:59</span><p>Bill May, executive director of Arrowmont School of Arts and Crafts, says Tuesday, Nov. 29, 2016, that most of the school's property was saved from the fires in Gatlinburg.
+<span>
+Michael Patrick/News Sentinel</span><i/></p></div></div><p>13 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Fire forces Ripley's Aquarium staff to leave animals behind | 1:23</span><p>Ripley's Aquarium of the Smokies is home to nearly 11,000 animals, including some endangered species. The general manager says staff were forced to evacuate, but would rather sacrifice their own lives to save the animals.
+<span>
+WBIR</span><i/></p></div></div><p>14 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>Dramatic escape from Tennessee wildfire caught on camera | 1:28</span><p>As everything around them burned, two stepbrothers captured their harrowing drive to safety in Gatlinburg, Tennessee.
+<span>
+USA TODAY NETWORK</span><i/></p></div></div><p>15 of 16</p></div></div><div><div><div><div><span>WILDFIRES WREAK HAVOC IN TENNESSEE</span><span>First responders assembled for Sevier County wildfire response | 0:23</span><p>First responders have gathered at
+<culink>Gatlinburg-Pittman High School</culink>
+on Tuesday, Nov. 29, 2016, to aid in the Sevier County wildfire response. <span>
+Amy Smotherman Burgess/News Sentinel</span><i/></p></div></div><p>16 of 16</p></div></div></div><a>Last Video</a><a>Next Video</a></div><div><div><ul><li><span><span>v</span></span><div><span><span/><img alt="These devastating photos show Gatlinburg fires up close" src="https://archive.is/sSTDw/1d0587d35e55232fa08d5834ef6448432fcac5e8.jpg"/></span><p><span/>0:49</p></div><p>
+These devastating photos show Gatlinburg fires up close </p></li><li><span><span>v</span></span><div><span><span/><img alt="Raw: Aerial Video shows Tennessee homes in ashes" src="https://archive.is/sSTDw/25d06ebc6b8b0092d1ec73eab1ed2f5c5bc206b9.jpg"/></span><p><span/>0:58</p></div><p>
+Raw: Aerial Video shows Tennessee homes in ashes </p></li><li><span><span>v</span></span><div><span><span/><img alt="At least 10 killed in Smoky Mountain wildfire" src="https://archive.is/sSTDw/f2694d8bc64088b617523d1d36d3ba35a82b5844.jpg"/></span><p><span/>0:55</p></div><p>
+At least 10 killed in Smoky Mountain wildfire </p></li><li><span><span>v</span></span><div><span><span/><img alt="Mayor: 'Heart' of Tenn. City Intact After Fire" src="https://archive.is/sSTDw/8f75af339da1922de9b61111c64f78974311fd20.jpg"/></span><p><span/>1:45</p></div><p>
+Mayor: 'Heart' of Tenn. City Intact After Fire </p></li><li><span><span>v</span></span><div><span><span/><img alt="AP Exclusive: National park in Tenn. after fire" src="https://archive.is/sSTDw/b65e02785c3a4430d319d99b08e3fd6efe9c59e8.jpg"/></span><p><span/>2:49</p></div><p>
+AP Exclusive: National park in Tenn. after fire </p></li><li><span><span>v</span></span><div><span><span/><img alt="Tennessee wildfires leave trail of destruction" src="https://archive.is/sSTDw/a9b4ab1a5d8665a84d190e6ba745499c5dab143e.jpg"/></span><p><span/>1:04</p></div><p>
+Tennessee wildfires leave trail of destruction </p></li><li><span><span>v</span></span><div><span><span/><img alt="Mayor: More bodies recovered in wildfire rubble" src="https://archive.is/sSTDw/a26a2b2fa850810fc212885a1091b978e2cb9c9d.jpg"/></span><p><span/>1:46</p></div><p>
+Mayor: More bodies recovered in wildfire rubble </p></li><li><span><span>v</span></span><div><span><span/><img alt="Stepbrothers film harrowing escape from TN Fire" src="https://archive.is/sSTDw/7759291266bfb54c7ab25a2bcc841856fd87fb1c.jpg"/></span><p><span/>0:56</p></div><p>
+Stepbrothers film harrowing escape from TN Fire </p></li><li><span><span>v</span></span><div><span><span/><img alt="Over 100 Structures Damaged in Tenn. Wildfire" src="https://archive.is/sSTDw/4fd82aa9d6817e994c474d9e3338eedff5d171c8.jpg"/></span><p><span/>2:08</p></div><p>
+Over 100 Structures Damaged in Tenn. Wildfire </p></li><li><span><span>v</span></span><div><span><span/><img alt="General manager: 'All is fine' at Ripley's Aquarium" src="https://archive.is/sSTDw/3dad85e1d627bbab1f9caa7c6b294735466be79a.jpg"/></span><p><span/>0:51</p></div><p>
+General manager: 'All is fine' at Ripley's Aquarium </p></li><li><span><span>v</span></span><div><span><span/><img alt="Gatlinburg homes, hotels ablaze as wildfires spread in the south" src="https://archive.is/sSTDw/143069258d643ede0a7c0fd4a5ad56c790e9ead9.jpg"/></span><p><span/>0:54</p></div><p>
+Gatlinburg homes, hotels ablaze as wildfires spread in the south </p></li><li><span><span>v</span></span><div><span><span/><img alt="Evacuations ordered as Tennessee wildfires rage" src="https://archive.is/sSTDw/99734a9caa9131b0d6bb9e68104a75fb3eed0fb6.jpg"/></span><p><span/>1:36</p></div><p>
+Evacuations ordered as Tennessee wildfires rage </p></li><li><span><span>v</span></span><div><span><span/><img alt="Arrowmont executive director: Most of school saved from fire" src="https://archive.is/sSTDw/faf7cd7cdcbb2872cc99be17440650959b47434f.jpg"/></span><p><span/>0:59</p></div><p>
+Arrowmont executive director: Most of school saved from fire </p></li><li><span><span>v</span></span><div><span><span/><img alt="Fire forces Ripley's Aquarium staff to leave animals behind" src="https://archive.is/sSTDw/0c0fb023b6ce880aa6b4383effa236bfc6e795f9.jpg"/></span><p><span/>1:23</p></div><p>
+Fire forces Ripley's Aquarium staff to leave animals behind </p></li><li><span><span>v</span></span><div><span><span/><img alt="Dramatic escape from Tennessee wildfire caught on camera" src="https://archive.is/sSTDw/61b5f14d5cefdfefc14c0a461fea4d61396d4a81.jpg"/></span><p><span/>1:28</p></div><p>
+Dramatic escape from Tennessee wildfire caught on camera </p></li><li><span><span>v</span></span><div><span><span/><img alt="First responders assembled for Sevier County wildfire response" src="https://archive.is/sSTDw/ee33971874ec0fe13911e8f29114f46b6cf46f7b.jpg"/></span><p><span/>0:23</p></div><p>
+First responders assembled for Sevier County wildfire response </p></li></ul></div></div></div></div><p>Read or Share this story: http://usat.ly/2gRm4tx</p></div></div>

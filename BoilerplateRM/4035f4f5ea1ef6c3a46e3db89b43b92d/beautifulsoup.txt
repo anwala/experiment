@@ -1,0 +1,927 @@
+Victoria's Secret Angel Jasmine Tookes' Diet,Workout Routine@font-face {
+font-family:GeorgiaProCondSemiBold;
+font-style:italic;
+src: url('https://archive.is/SduYw/fcc28e805a675a690418f736a90d0daf19cd19e0') format('woff');
+}
+@font-face {
+font-family:GeorgiaProCondSemiBold;
+src: url('https://archive.is/SduYw/335602d447577cf3ac4aab884e658ed31bbbb2b3') format('woff');
+}
+@font-face {
+font-family:MillerHeadlineLight;
+font-style:italic;
+src: url('https://archive.is/SduYw/682e0924560486225c60b8e5519125e8ba220586') format('woff');
+}
+@font-face {
+font-family:MillerHeadlineLight;
+src: url('https://archive.is/SduYw/40699131281928a78a20fc15b9a526bf24a75a5b') format('woff');
+}
+@font-face {
+font-family:MillerHeadlineSemiBold;
+font-style:italic;
+src: url('https://archive.is/SduYw/e02815f7510dd5ad89ee1d30940e6f99a1bbfe78') format('woff');
+}
+@font-face {
+font-family:MillerHeadlineSemiBold;
+src: url('https://archive.is/SduYw/e08f1f65581c18b21d64778009cb493ed357f3d9') format('woff');
+}
+@font-face {
+font-family:ooyala-slick-type;
+src: url('https://archive.is/SduYw/08d3e8a4d6a55a125baf7e9cade0aab4932d2371') format('embedded-opentype'), url('https://archive.is/SduYw/2e7e65b2ba28c5dd9244155bf867353eb8493cda.woff') format('woff'), url('https://archive.is/SduYw/2598d58a2f3e5324e92a915a3d8c14edc4eab103.ttf') format('truetype'), url('https://archive.is/SduYw/ebefe9d4b0185ac0400c005d9883554193ce4157.svg') format('svg');
+font-weight:normal;
+font-style:normal;
+}
+@font-face {
+font-family:'Roboto Condensed';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/SduYw/c4c0ff55023e4fe335874d6cf37bd2bf5c29aac8.woff2') format('woff2'), url('https://archive.is/SduYw/b413bc3f07796c26287a5dfb70f4d175c68f0a80.woff') format('woff'), url('https://archive.is/SduYw/d2361557c5b889b409a772c0681a10b51e8ae52e.ttf') format('truetype');
+unicode-range:;
+}
+@font-face {
+font-family:'Roboto Condensed Bold';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/SduYw/0a6699ef55fd4ece4ec459d7dd6920d988645a2a.woff2') format('woff2'), url('https://archive.is/SduYw/9f66703b711ec13354db64bd0189d16721684b35.woff') format('woff'), url('https://archive.is/SduYw/54e12b006031b23f35fff4cdf827fc1298b8f57e.ttf') format('truetype');
+unicode-range:;
+}
+@font-face {
+font-family:Roboto;
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/SduYw/a86889a4bc039cca998fc0255a9bed58549f9c10.woff2') format('woff2'), url('https://archive.is/SduYw/89e7bf27190d62c7b508dc92c7012c1180458f4e.ttf') format('truetype'), url('https://archive.is/SduYw/4932a1b55bd4f3a3dcc95db33ec07ba729e86c61.woff') format('woff');
+unicode-range:;
+}
+@font-face {
+font-family:'Roboto Bold';
+font-style:normal;
+font-weight:700;
+src: url('https://archive.is/SduYw/59f3a7dc544ec37f75983b19d03bf1ef80491bca.woff2') format('woff2'), url('https://archive.is/SduYw/c93cb6eb6a75a7f4312fd2bafe5bab7fbadf12d9.ttf') format('truetype'), url('https://archive.is/SduYw/622799489e97e418c8967cbf1e011dce834e14fa.woff') format('woff');
+unicode-range:;
+}
+@font-face {
+font-family:'Open Sans';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/SduYw/0477e48f455cbfe729f90389d3fd8aaca6cc483b.woff2') format('woff2'), url('https://archive.is/SduYw/1547224e0a0be06e5178815718797bd6607169a4.woff') format('woff'), url('https://archive.is/SduYw/3e193feab52524db86cd1508693f2e5086102669.ttf') format('truetype');
+unicode-range:;
+}
+@font-face {
+font-family:'Open Sans';
+font-style:normal;
+font-weight:400;
+src: url('https://archive.is/SduYw/0477e48f455cbfe729f90389d3fd8aaca6cc483b.woff2') format('woff2'), url('https://archive.is/SduYw/1547224e0a0be06e5178815718797bd6607169a4.woff') format('woff'), url('https://archive.is/SduYw/3e193feab52524db86cd1508693f2e5086102669.ttf') format('truetype');
+unicode-range:;
+}
+archive.iswebpage captureSaved fromno other snapshots from this url22 Dec 2016 17:53:39 UTCAll snapshotsfrom host nymag.comWebpageScreenshotsharedownload .zipreport error or abuseRedditVoatTwitterVKontaktePinboardLivejournalFacebookGoogle+short linklong linkmarkdownhtml code<a href="http://archive.is/SduYw">
+ <img style="width:300px;height:200px;background-color:white" src="https://archive.is/SduYw/6700819536ce478a3ea2d017e81f04876424cdad/scr.png"><br>
+ Victoria's Secret Angel Jasmine Tookes' Diet,Workout Routine<br>
+ archived 22 Dec 2016 17:53:39 UTC
+</a>wiki code{{cite web
+ | title       = Victoria's Secret Angel Jasmine Tookes' Diet,Workout Routine
+ | url         = http://nymag.com/thecut/2016/12/victorias-secret-angel-jasmine-tookes-diet-workout-routine.html
+ | date        = 2016-12-22
+ | archiveurl  = http://archive.is/SduYw
+ | archivedate = 2016-12-22 }}
+
+
+
+
+
+NYMag.com
+Daily Intelligencer
+Vulture
+The Cut
+Science of Us
+Select All
+Grub Street
+The Strategist
+
+
+Log In|
+Register
+
+
+
+
+My Account
+My Profile
+My Comments
+My Reviews
+My Friends
+Sign Out
+
+
+
+
+FOLLOW:
+Facebook
+Twitter
+Instagram
+
+
+
+
+
+
+
+
+The Cut
+
+
+
+
+
+
+
+
+
+Fashions 
+
+
+
+
+
+ 
+Runway
+Street Style
+Designers
+ 
+
+Fame
+Beauty
+Goods
+Love & War
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sections
+Fashions
+Fame
+Beauty
+Goods
+Love & War
+
+
+Plus
+Runway
+Street Style
+Designers
+
+
+Sites
+NYMag.com
+Daily Intelligencer
+Vulture
+Science of Us
+Grub Street
+Bedford & Bowery
+
+
+
+Like Us
+Follow Us
+Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+Ad will collapse in
+
+seconds… 
+CLOSE
+
+
+
+
+
+
+
+
+
+
+
+
+Popular on The Cut
+»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wellness theories
+December 1, 2016
+12/01/2016
+12:04 p.m.
+Victoria’s Secret Model Jasmine Tookes on Eating Hot Wings and Not Doing Cardio
+By
+
+
+Jasmine Tookes as told to Kathleen Hou
+
+
+
+
+Share
+Share
+Tweet
+Share
+Pin It
+Email
+Comment
+
+Print
+
+
+
+
+
+
+
+Jasmine Tookes.Photo: Getty Images
+Five years ago, the Cut featured
+Jasmine Tookes
+as “The New Girl.” The up-and-comer talked about her enviably fast metabolism, which let her skip workouts, eat pizza, and never gain weight. Half a decade later, Tookes is a Victoria’s Secret Angel, the face of the brand’s
+Scandalous fragrance, and the lucky (or unlucky, depending on how you see her
+three-hour bra fitting) wearer of the diamond-encrusted $3 Million Fantasy Bra. Her metabolism might still be fast, but she’s got a disciplined fitness routine now too.
+
+The Cut talked to Tookes about what she does to get a bigger butt, why she still works out, and how she resists comparing herself to anyone else. This year’s Victoria’s Secret show will air December 5 at 10 p.m. EST.
+How I start my day: I love to
+sleep in, but I feel good when I get up early and get the day started. I try to get up early, work out in the morning, and get it over and done with. If I wait for the evening, it’s not going to happen. So, I wake up and have a protein shake. I’ll put in banana, chocolate whey powder, peanut butter, strawberries, and almond milk. I like the
+Isopure chocolate whey powder; it’s one of the cleanest ones. Then I’ll have breakfast, which is usually two hard-boiled eggs with spinach.
+
+
+On food: I love to eat tons of food with lots of carbs. I balance it with working out. But generally, I try to be very clean and eat healthy, and always have a lot of protein. I do have a lot of cheat days. I feel like you should be able to eat what you want.
+How I like to eat when I’m alone: Really messy. I love to have hot wings and French fries.
+What wellness means to me: It’s about being the best version of yourself and not comparing yourself to others. Everyone’s body is different.
+How wellness changed for me: Growing up, I did gymnastics for 16 years. For a while when I was modeling, I completely stopped working out. I thought,
+I’m fine, I don’t have to work out, I have a fast metabolism. But feeling really strong has changed my mind-set so much. You feel really good.
+How I sweat: I like to mix it up. I work out about four times a week. I love doing barre classes once a week. I do
+Physique 57. Their class is less cardio-based — it’s slower. I love doing Pilates on a reformer for tightening and lightening. Twice a week, I’ll do weight training to build thighs and bulk up a little more. I’ll go to Dogpound. They really listen to you and what you want to accomplish. And for me, I want to build my legs and my butt. That’s always a goal. I love a bigger butt.
+Story continued below
+
+Story continued below
+
+There’s a stigma surrounding heavy weight lifting, but you just have to figure out what’s good for you. Some people might bulk up with doing heavy weight lifting, but I don’t. I would say, try it once a week. Add more lengthening and Pilates and see if you see a difference. For me, personally, because of my metabolism, I try to stay far away from cardio for my body type. I also need a lot of protein. It’s the only way for me to maintain my body.
+On weekends, it’s so hard to go work out. I remind myself to do it. I also go with friends. If I sign up with
+Josephine [Skriver]
+or
+Romee [Strijd], I can’t say no. Josephine and I created an
+Instagram account called @Joja
+to show people what to do. We love working out together. We mostly do it ourselves or have a photographer snap a few images.
+Once you see improvement in your body from working out, you can’t really stop. I don’t work out based on my job. I work out based on what makes me feel good. If the client doesn’t like that, they can go find someone else. I’ve always had a very strong mind-set. I’ve never compared myself to anyone.
+My wellness shortcut: I take a little travel workout pack. You can do things in your hotel room. I bring my ankle weights so I can do a few butt workouts. If I don’t, I lose the momentum and take two to three weeks off.
+This interview has been condensed and edited.
+
+Tags:
+cut homepage lede|wellness theories
+
+
+Share
+on
+Facebook
+
+
+Tweet
+this
+Story
+
+
+
+
+
+
+
+Top StoriesIt’s Too Late for Shipping, So Print These Gifts OutPretty Little Liars
+Star Troian Bellisario Opens Up About WellnessThis Holiday Pop-Up Is Full of Last-Minute Gifts for Your Favorite Aesthete
+
+
+
+
+
+
+
+
+
+
+Most Viewed Stories
+
+
+1
+
+Olivia Wilde Chopped Her Hair Because of Trump
+
+
+2
+
+21-Year-Old Man Kills and Rapes Woman for Rejecting His Sexual Advances
+
+
+3
+
+Watch: This Instagram Is Dedicated to Bringing You Cats Behaving Like Melodramatic Humans
+
+
+4
+
+Watch: These Clothes Perfectly Blend Into Landscapes
+
+
+5
+
+Here’s How Women Artists Are Reacting to a Donald Trump Presidency
+
+
+6
+
+André Leon Talley Is Leaving ‘Trumpland’ But Says Melania Trump Is a ‘Nice Person’
+
+
+7
+
+This Story Will Make You Pity Tiffany Trump
+
+
+8
+
+The Women’s March on Washington Organized a Fleet of Buses to Get New Yorkers to D.C.
+
+
+9
+
+Lena Dunham: ‘I Still Haven’t Had an Abortion, But I Wish I Had’
+
+
+10
+
+Kellyanne Conway Named Counselor to the President
+
+
+
+
+From Our Partners 
+
+
+
+
+
+
+Man Repeller 
+Sienna Miller Looks So Damn Good All the Time, Does Not…
+
+
+
+
+
+
+
+
+goop 
+How to Clear Hormonal Acne
+
+
+
+
+
+
+
+
+Newser 
+Study Suggests You Should Leave Your Pubic Hair Alone
+
+
+
+powered by
+
+PubExchange 
+
+
+
+
+
+
+
+
+
+
+
+
+Most Watched on The Cut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Latest on the Cut
+
+
+5 mins ago
+It’s Too Late for Shipping, So Print These Gifts Out
+Yes, it’s late, but beggars can still be choosers.
+19 mins ago
+Pretty Little Liars
+Star Troian Bellisario Opens Up About Wellness
+Bellisario talks moisturizing, sleep, and working long hours on set.
+11:17 a.m.
+This Holiday Pop-Up Is Full of Last-Minute Gifts for Your Favorite Aesthete
+Hand-painted candle shades, Susan Minot découpage, pug pillows, and more.
+10:48 a.m.
+Johnny Depp Wants Amber Heard to Pay $100,000 to Cover His Attorney Fees
+He’s reportedly asking that she pay $100,000 out of his $1 million bill.
+10:46 a.m.
+This Story Will Make You Pity Tiffany Trump
+Always the bridesmaid, never the bride.
+10:34 a.m.
+Carolina Herrera Is Suing Oscar de la Renta Over Incoming Designer Laura Kim
+Here’s why.
+10:00 a.m.
+25 Famous Women on Pregnancy
+Hillary Clinton, Beyoncé, Zadie Smith, and more celebrity moms on what it’s really like.
+9:52 a.m.
+The Pantsuit Nation Backlash Is Here, and It’s Intense
+All it took was a book deal.
+8:58 a.m.
+The Cyberbullying Gabby Douglas Experienced During the Olympics Is Horrifying
+“I’m not a target, I’m a human being.”
+8:41 a.m.
+Looks Like Kellyanne Conway Changed Her Mind About Working in the White House
+Donald Trump’s former campaign manager is going to the White House.
+
+
+
+
+
+
+4:25 a.m.
+North Carolina Lawmakers Fail to Repeal Anti-Transgender Bathroom Law
+The deal stalled over a Republican plan to impose a six-month moratorium on local ordinances barring LGBT discrimination.
+2:32 a.m.
+André Leon Talley Clarifies His Thoughts About Donald and Melania Trump
+“She’s a nice person. I do not endorse Trumpism on any level.”
+1:16 a.m.
+Katy Perry, Orlando Bloom Dressed As Mr. and Mrs. Santa Claus for a Good Cause
+The couple visited the Children’s Hospital Los Angeles.
+Yesterday at 10:14 p.m.
+This Is How Rihanna Dresses for the Holidays
+Who says Santa Claus isn’t stylish?
+Yesterday at 6:06 p.m.
+The Beyoncé-Inspired Tower Is Officially Being Built
+Not your average building.
+Yesterday at 4:50 p.m.
+Justin Bieber Indicted for Alleged 2013 Assault
+More legal trouble for music’s resident enfant terrible.
+Yesterday at 4:19 p.m.
+Florida Man Arrested for Raping Woman After Shooting Her for Rejecting Him
+Christopher William Shows was arrested December 16.
+Yesterday at 4:00 p.m.
+Is Walmart Discriminating Against Blacks by Locking Up Black Hair Products?
+Beauty products for black customers are disproportionately scrutinized.
+Yesterday at 3:49 p.m.
+Chrissy Teigen Opens Up About How Pregnancy Affected Her Body Image
+During her first photo shoot since giving birth.
+Yesterday at 3:14 p.m.
+Highly Giftable Deal of the Day: A Slouchy, Elegant Coat
+It’s plaid, but without being full-on L.L. Bean catalogue.
+
+
+
+
+
+
+
+connect:
+
+
+Newsletters
+|
+
+
+Facebook
+|
+
+
+Twitter
+|
+
+
+Pinterest
+|
+
+
+Instagram
+|
+
+
+RSS
+|
+
+
+Feedly
+
+
+
+Privacy|
+Terms|
+
+Sitemap|
+Media Kit|
+Ad Choices|
+About Us|
+Contacts|
+Feedback|
+We’re Hiring!
+
+
+© 2016, New York Media LLC. View all trademarks
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOG IN
+REGISTER
+
+
+
+
+Social Account
+Facebook
+███or
+
+
+
+
+
+
+
+Remember Me 
+Forgot Password?
+
+
+
+
+Sign up with a social account:
+Facebook
+Don’t worry. We will
+never
+post to your social media account without your permission.
+or create an account
+
+
+
+
+
+
+
+Female
+Male
+
+
+
+
+NYMag.com may email me about new site features and special offers.
+
+
+
+By creating an account, you agree with the
+Terms of Service
+and Privacy Policy.
+
+
+
+
+
+
+We’ve sent a registration confirmation email to
+.
+Please follow the instructions in the email within 48 hours to complete your registration.
+
+
+Forgot Your Password?
+Enter your email address or username and we’ll email instructions on how to reset your password.
+
+
+
+
+
+
+
+This username or email is associated with a Facebook account.
+Log in with your social account:
+Facebook
+
+
+Check Your Inbox
+We’ve sent you an email with instructions on how to reset your password.
+
+
+Choose a Username
+Your username will appear next to your comments.
+
+
+
+
+Email:
+
+
+
+By creating a NYMag.com account, you agree with the Terms of Service
+and Privacy Policy.
+
+
+
+
+You already have an account registered under
+. You can link your Facebook account to your existing account.
+
+
+
+
+
+No, Sign In
+
+
+Welcome! You are now a registered user of NYMag.com, TheCut.com, Vulture.com, ScienceOfUs.com and GrubStreet.com.
+Want more? Subscribe to our daily newsletters.
+
+
+
+Daily Intelligencer
+Constant news updates on politics, business, media, and real estate.
+
+
+Vulture
+Breaking news and analysis on all the latest TV, movies, music, books, theater, and art.
+
+
+The Cut
+Get the latest fashion, beauty, and shopping news and recommendations.
+
+
+
+
+
+
+No Thanks
+
+
+We're sorry. You must confirm your registration within 48 hours of submitting your registration request. Please
+register
+again.
+
+
+You are already registered. Please
+log in.
+
+
+Reset Your Password
+Enter a new password
+
+
+
+
+
+
+
+
+
+Your password has been successfully changed.
+Please
+log in.
+
+
+
+
+
+
+
+SECURITY WARNING: Please treat the URL above as you would your password and do not share it with anyone. See the Facebook Help Center
+for more information. 
+SECURITY WARNING: Please treat the URL above as you would your password and do not share it with anyone. See the Facebook Help Center
+for more information. 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%function showDivShare() {
+  updateShareLinks();
+  document.getElementById("SHARER"  ).style.display="none";
+  document.getElementById("DIVSHARE").style.display="block";
+  return false;
+}
+function updateShareLinks() {
+  var shortlink = "http://archive.is/SduYw";
+  var re = new RegExp(shortlink.replace(".", "\.") + "(#selection-[0-9.-]+)?");
+  var adr = document.location.hash.match(/(selection-\d+\.\d+-\d+\.\d+)/);
+  document.getElementById("SHARE_SHORTLINK").value = document.getElementById("SHARE_SHORTLINK").value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_MARKDOWN" ).value = document.getElementById("SHARE_MARKDOWN" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_HTMLCODE" ).value = document.getElementById("SHARE_HTMLCODE" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+  document.getElementById("SHARE_WIKICODE" ).value = document.getElementById("SHARE_WIKICODE" ).value.replace(re, adr ? shortlink + document.location.hash : shortlink);
+}
+function findXY(obj) {
+  var cur = {x:0, y:0};
+  while (obj && obj.offsetParent) {
+    cur.x += obj.offsetLeft; // todo: + webkit-transform
+    cur.y += obj.offsetTop; // todo: + webkit-transform
+    obj = obj.offsetParent;
+  }
+  return cur;
+}
+function findXY2(obj, textpos) { // it could reset selection
+  if (obj.nodeType==3) {
+    var parent = obj.parentNode;
+    var text = document.createTextNode(obj.data.substr(0, textpos));
+    var artificial = document.createElement("SPAN");
+    artificial.appendChild(document.createTextNode(obj.data.substr(textpos)));
+    parent.insertBefore(text, obj);
+    parent.replaceChild(artificial, obj);
+    var y = findXY(artificial);
+    parent.removeChild(text);
+    parent.replaceChild(obj, artificial);
+    return y;
+  } else {
+    return findXY(obj);
+  }
+}
+var prevhash = "";
+function scrollToHash() {
+  if (document.location.hash.replace(/^#/, "")==prevhash.replace(/^#/, ""))
+    return;
+  prevhash = document.location.hash;
+  if (document.location.hash.match(/#[0-9.]+%/)) {
+    var p = parseFloat(document.location.hash.substring(1));
+    if (0 < p && p < 100 /*&& p%5 != 0*/) {
+      var content = document.getElementById("CONTENT")
+      var y = findXY(content).y + (content.offsetHeight)*p/100;
+      window.scrollTo(0, y-16);
+    }
+  }
+
+  var adr = document.location.hash.match(/selection-(\d+)\.(\d+)-(\d+)\.(\d+)/);
+  if (adr) {
+    var pos=0,begin=null,end=null;
+    function recur(e) {
+      if (e.nodeType==1) pos = (pos&~1)+2;
+      if (e.nodeType==3) pos = pos|1;
+      if (pos==adr[1]) begin=[e, adr[2]];
+      if (pos==adr[3]) end  =[e, adr[4]];
+      for (var i=0; i<e.childNodes.length; i++)
+        recur(e.childNodes[i]);
+      if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+        pos = (pos&~1)+2;
+    }
+    var content = document.getElementById("CONTENT");
+    recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+    if (begin!=null && end!=null) {
+      window.scrollTo(0, findXY2(begin[0], begin[1]).y-8);
+
+      if (window.getSelection) {
+        var sel = window.getSelection();
+        sel.removeAllRanges();
+        var range = document.createRange();
+        range.setStart(begin[0], begin[1]);
+        range.setEnd  (  end[0],   end[1]);
+        sel.addRange(range);
+      } else if (document.selection) { // IE
+      }
+    }
+  }
+}
+window.onhashchange = scrollToHash;
+var initScrollToHashDone = false;
+function initScrollToHash() {
+  if (!initScrollToHashDone) {
+    initScrollToHashDone = true;
+    scrollToHash();
+  }
+}
+window.onload = initScrollToHash;
+setTimeout(initScrollToHash, 500); /* onload can be delayed by counter code */
+
+//document.onselectionchange = /* only webkit has working document.onselectionchange */
+document.onmousedown = document.onmouseup = function(e) {
+  var SHARER = document.getElementById("SHARER");
+  var newhash = "";
+  if (window.getSelection) {
+    var sel=window.getSelection();
+    if (!sel.isCollapsed) {
+      var pos=0,begin=[0,0],end=[0,0];
+      var range=sel.getRangeAt(0);
+      function recur(e) {
+        if (e.nodeType==1) pos = (pos&~1)+2;
+        if (e.nodeType==3) pos = pos|1;
+        if (range.startContainer===e) begin=[pos, range.startOffset];
+        if (range.endContainer  ===e) end  =[pos, range.endOffset  ];
+        for (var i=0; i<e.childNodes.length; i++)
+          recur(e.childNodes[i]);
+        if (e.childNodes.length>0 && e.lastChild.nodeType==3)
+          pos = (pos&~1)+2;
+      }
+
+      var content = document.getElementById("CONTENT");
+      recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
+      if (begin[0]>0 && end[0]>0) {
+        newhash = "selection-"+begin[0]+"."+begin[1]+"-"+end[0]+"."+end[1];
+      }
+    }
+  } else if (document.selection) { // IE
+  }
+
+  try {
+    var oldhash = location.hash.replace(/^#/, "");
+    if (oldhash != newhash) {
+      prevhash = newhash; /* avoid firing window.onhashchange and scrolling */
+      if (history.replaceState) {
+        history.replaceState('', document.title, newhash.length>0 ? '#'+newhash : window.location.pathname);
+      } else {
+        if (newhash.length>0) location.hash = newhash;
+      }
+    }
+  } catch(e) {
+  }
+
+  if (newhash == "") {
+    SHARER.style.display="none";
+  }
+};
+
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: ""+63*44843, type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+document.cookie="_ga=GA1.2.661111166."+Math.floor((new Date()).getTime()/1000)+";expires="+(new Date((new Date()).getTime()+2*60*60*1000)).toUTCString()+";path=/";
+
+
+

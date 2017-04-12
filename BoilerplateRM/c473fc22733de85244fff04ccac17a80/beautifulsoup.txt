@@ -1,0 +1,1869 @@
+
+
+
+
+
+
+
+
+INSTART.Init({"apiDomain":"assets.insnw.net","correlation_id":"1489512191:4ac40a04f21a4daf","custName":"atlanticmedia","devJsExtraFlags":"{\"disableQuerySelectorInterception\" :true,  'rumDataConfigKey':'/instartlogic/clientdatacollector/getconfig/monitorprod.json','custName':'atlanticmedia','propName':'theatlantic'}","disableInjectionXhr":true,"disableInjectionXhrQueryParam":"instart_disable_injection","iframeCommunicationTimeout":3000,"nanovisorGlobalNameSpace":"I10C","partialImage":false,"propName":"theatlantic","rId":"613","release":"nv-7.0.9","rum":true,"serveNanovisorSameDomain":true,"useIframeRpc":false,"useWrapper":false,"ver":"loader","virtualDomains":4,"virtualizeDomains":["^accounts\\.theatlantic\\.com$","^cdn\\.theatlantic\\.com$","^sponsored\\.theatlantic\\.com$","^theatlantic\\.com$","^www\\.indiastimetofly\\.com$","^www\\.theatlantic\\.com$"]}
+);
+
+
+
+
+Trevor Noah's Sharp Interview With Tomi Lahren on 'The Daily Show' - The Atlantic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "The Atlantic",
+          "url": "https://www.theatlantic.com",
+          "logo": "https://cdn.theatlantic.com/front/images/logo/213x70.png",
+          "sameAs" : [
+            "https://www.facebook.com/TheAtlantic",
+            "https://twitter.com/theatlantic",
+            "https://plus.google.com/109258622984321091629/posts"]
+        }
+        
+
+
+        // Chartbeat head
+        var _sf_async_config = _sf_async_config || {};
+        _sf_async_config.uid = 17396; // ACCOUNT NUMBER
+        _sf_async_config.domain = (function() {
+            // Paid Facebook traffic will have a UTM code in the form of
+            // fbMMDD_VERSION. When this happens, we send traffic to the
+            // a different site in Chartbeat to differentiate the traffic
+            var domain = window.location.host;
+            var is_paid = location.search.match(/utm_(?:campaign|source)=fb\d{4}_\d+/i);
+            if (is_paid !== null) {
+                domain = domain.replace('www.', 'paid.');
+            }
+            return domain;
+        })();
+        _sf_async_config.flickerControl = false;
+        _sf_async_config.path = "/entertainment/archive/2016/12/trevor\u002Dnoah\u002Dfinds\u002Dhis\u002Dlate\u002Dnight\u002Dvoice/509318/" || window.location.pathname;
+        var _sf_startpt = (new Date()).getTime();
+    
+
+
+
+
+
+
+        #article .lead-img .img {
+            padding-bottom: 66.875%;
+        }
+
+        .article-wide #article .article-cover,
+        .article-wide #article .ad-article-wrapper {
+            padding-top: 66.875%;
+            padding-top: -webkit-calc(66.875% + 35px);
+            padding-top: calc(66.875% + 35px);
+
+        }
+
+        .article-wide #article .boxtop-most-popular,
+        .article-wide #article .article-blocker-msg-wrapper {
+            margin-top: 66.875%;
+            margin-top: -webkit-calc(66.875% + 35px);
+            margin-top: calc(66.875% + 35px);
+        }
+
+        @media (max-width: 680px) {
+            .article-wide #article .article-cover,
+            .article-wide #article .ad-article-wrapper {
+                padding-top: 66.875%;
+                padding-top: -webkit-calc(66.875% + 20px);
+                padding-top: calc(66.875% + 20px);
+            }
+
+            .article-wide #article .boxtop-most-popular,
+            .article-wide #article .article-blocker-msg-wrapper {
+                margin-top: 66.875%;
+                margin-top: -webkit-calc(66.875% + 20px);
+                margin-top: calc(66.875% + 20px);
+            }
+        }
+
+        @media (max-width: 1010px) {
+            
+            .article-full #article .article-cover {
+                padding-top: 66.875%;
+            }
+        }
+    
+
+        var Atlantic = {};
+        Atlantic.page_info = {
+  "domain": "www.theatlantic.com", 
+  "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/12/Tomi3/facebook.jpg?1480619996", 
+  "channels": [
+    "entertainment"
+  ], 
+  "article_type": "blog", 
+  "is_features": false, 
+  "trump_channel": "entertainment", 
+  "twitter_image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/12/Tomi3/facebook.jpg?1480619996", 
+  "canonical_url": "https://www.theatlantic.com/entertainment/archive/2016/12/trevor-noah-finds-his-late-night-voice/509318/", 
+  "is_amp": false, 
+  "is_freelance": false, 
+  "original_url": "http://www.theatlantic.com/entertainment/archive/2016/12/trevor-noah-finds-his-late-night-voice/509318/", 
+  "seo_title": "Trevor Noah's Sharp Interview With Tomi Lahren on 'The Daily Show'", 
+  "site_url": "http://www.theatlantic.com", 
+  "primary_channel": "entertainment", 
+  "share_dek": "The 'Daily Show' host was measured, respectful, and challenging in his 26-minute conversation with TheBlaze pundit Tomi Lahren.", 
+  "is_instant": false, 
+  "share_title": "Trevor Noah Finds His Late-Night Voice", 
+  "description": "The<em> Daily Show</em> host was measured, respectful, and challenging in his 26-minute conversation with TheBlaze pundit Tomi Lahren.", 
+  "tags": [], 
+  "is_404": false, 
+  "kicker": "", 
+  "authors": [
+    "David Sims"
+  ], 
+  "date": "2016-12-01T15:58:00-05:00", 
+  "path": "/entertainment/archive/2016/12/trevor-noah-finds-his-late-night-voice/509318/", 
+  "article_id": 509318, 
+  "categories": [
+    "Culture"
+  ], 
+  "share_text": "Trevor Noah finds his late-night voice", 
+  "url": "http://www.theatlantic.com/entertainment/archive/2016/12/trevor-noah-finds-his-late-night-voice/509318/", 
+  "is_sponsored": false, 
+  "title": "Trevor Noah Finds His Late-Night Voice", 
+  "og_type": "article", 
+  "report": "", 
+  "is_magazine": false, 
+  "view": "article"
+};
+        Atlantic.STATIC_URL = "https://cdn.theatlantic.com/assets/static/b/";
+        Atlantic.MEDIA_URL = "https://cdn.theatlantic.com/assets/media/";
+        Atlantic.PROFILES_STATICFILES = {
+  "CSS": [
+    "https://cdn.theatlantic.com/assets/static/b/theatlantic/css/profiles.min.b5773bf7c74e.css"
+  ], 
+  "JS": "https://cdn.theatlantic.com/assets/static/b/janrain/profiles.c43f9fa7eaf6.js"
+};
+        Atlantic.PROFILES_URL = "https://accounts.theatlantic.com/"
+
+        // Used for comment counts
+        var disqus_shortname = 'theatlantic';
+        var s_account = "atlanticprod";
+    
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+The Atlantic
+
+
+
+
+
+
+Popular
+
+
+
+
+
+Latest
+
+
+
+
+
+Sections
+
+
+
+Sections
+
+
+
+
+Politics & Policy
+Culture
+Business
+Science
+Technology
+Health
+Education
+U.S.
+Global
+News
+Notes
+
+
+
+
+Photo
+Video
+Events
+Writers
+Projects
+Next America
+
+
+
+
+
+
+
+Magazine
+
+
+
+Magazine
+
+
+
+
+Current issue
+All issues
+Manage subscription
+Subscribe
+
+
+
+
+
+
+
+More
+
+
+
+More
+
+
+
+
+
+Create account
+Your account
+
+
+Sign in
+Sign out
+
+
+
+
+
+Newsletters
+Life Timeline
+Events
+Books
+Shop
+
+
+
+
+
+
+
+View all
+
+
+
+
+Subscribe
+
+
+
+
+
+Search
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+Quick Links
+
+James Fallows
+Ta Nehisi Coates
+Manage subscription
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+
+James Fallows
+Ta Nehisi Coates
+Manage subscription
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trevor Noah Finds His Late-Night Voice
+The Daily Show host was measured, respectful, and challenging in his 26-minute conversation with TheBlaze pundit Tomi Lahren.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comedy Central
+
+
+
+
+
+
+
+
+
+
+
+Most Popular
+
+
+
+
+                    Kellyanne’s Alternative Universe
+                
+
+
+Molly Ball
+6:00 AM ET
+
+
+
+
+
+                    Why Is Silicon Valley So Awful to Women?
+                
+
+
+Liza Mundy
+6:00 AM ET
+
+
+
+
+
+                    This Article Won’t Change Your Mind
+                
+
+
+Julie Beck
+Mar 13, 2017
+
+
+
+
+
+                    How Republicans Can Win by Making Their Peace With Obamacare
+                
+
+
+David Frum
+Mar 13, 2017
+
+
+
+
+
+                    Why Won't Steve King Assimilate and Embrace American Values?
+                
+
+
+Conor Friedersdorf
+10:01 AM ET
+
+
+
+
+
+
+David Sims
+
+Dec 1, 2016
+
+
+
+                        Culture
+
+
+
+
+Share
+
+
+Tweet
+
+
+…
+
+
+LinkedIn
+
+
+Email
+
+
+Print
+
+
+
+
+Text Size
+
+
+
+
+
+
+
+
+
+Tomi Lahren, the 24-year-old host of Tomi on the conservative cable network TheBlaze, feels like a pundit created by a computer algorithm, someone who primarily exists to say something provocative enough to jump to the top of a Facebook feed. She’s called the Black Lives Matter movement “the new KKK,” partly blamed the 2015 Chattanooga shootings on President Obama’s “Muslim sensitivity,” and declared Colin Kaepernick a “whiny, indulgent, attention-seeking cry-baby.” At a time when such charged political rhetoric feels increasingly like the norm, Lahren stands at one end of a widening gulf—which made her appearance on The Daily Show with Trevor Noah Wednesday night all the more fascinating.In his first year at The Daily Show, Noah has struggled to distinguish himself in an outrage-driven late-night universe. He has sometimes seemed too flip about the failures of the country’s news media, something his predecessor Jon Stewart made a perennial target. Noah’s 26-minute conversation with Lahren, though, posted in its entirety online, set the kind of tone that Stewart frequently called for throughout his tenure. The segment never turned into a screaming match, but it also avoided platitudes and small-talk. Lahren was unapologetic about her online bombast and leaned into arguments that drew gasps and boos from Noah’s audience, but the host remained steadfastly evenhanded throughout. If Noah was looking for a specific episode that would help him break out in his crowded field, he may have finally found it.
+        
+            Related Story
+        
+    
+
+
+
+
+The Anger of Samantha Bee
+Lahren first made a name for herself in 2015 with her commentary on the Chattanooga shootings for the network OAN. At the age of 22, she seemed poised to become a star who could appeal to young conservatives online, the kind of firebrand who could stick out in a social-media feed. “I care that our commander-in-chief is more concerned with Muslim sensitivity than the honor and sacrifice made by these Marines,” she said. In the same segment, she also somehow implicated President Obama’s actions on issues like climate change and universal healthcare in an act committed by a man diagnosed with bipolar disorder who was seemingly radicalized by online propaganda.“Why are you so angry?” Noah asked Lahren as she sat down, referring to the biting tone she often uses in her broadcast. He seemed to be getting at other questions, too: Does anger like Lahren’s, delivered in bite-size, shareable video clips eagerly devoured by a certain segment of the population, exist only to grab their attention? Is it a more extreme example of the “Samantha Bee problem” that Ross Douthat claimed hurt the Clinton campaign—that overt activism was getting injected into previously mainstream areas of the media like late-night comedy? Noah has largely steered clear of giving lectures straight to the camera, perhaps because hosts like Seth Meyers and John Oliver have staked out that territory so well. In talking with Lahren, he seemed interested in going a more conciliatory, diplomatic route.Still, Noah wasn’t afraid to challenge his guest, including on her widely criticized comment that the Black Lives Matter movement was the “next KKK” because of some violent anti-police rhetoric from isolated members of the movement. “Just because you say the thing doesn’t mean that’s what it stands for,” Noah said exasperatedly. “You’ve argued on your show, just because Donald Trump has KKK supporters doesn’t mean he’s in the KKK.” Indeed, minutes later she angrily refuted the idea that she or Trump belonged to the white supremacist alt-right, just because that group supported him.In the wake of the 2016 election, even a bare minimum of respectful discourse stands out.“Surely you understand the incendiary feeling of your comments, surely?” Noah pleaded. “It’s controversial, but I think there are some things that need to be said,” Lahren countered. Her point, it seems, is the foundation for so much in the factionalized world of social media-driven news. If something is controversial, is it defensible simply because it “needed” to be said? Her argument is rooted in the First Amendment, which Lahren kept referencing, but Noah remarked on some inconsistencies in her views on free speech. Lahren has criticized the San Francisco 49ers quarterback Colin Kaepernick for his kneeling protest during the national anthem—but Noah noted the parallels between Lahren’s professed right to criticize Kaepernick and Kaepernick’s right to not kneel.Toward the end, Noah crystallized his point without having to yell it at the audience like some of his late-night peers: He tried to get a genuine answer from Lahren on a much more nuanced query relating to Kaepernick’s protest. “Here’s a black man who says, ‘I don’t know how to get this message across. If I march in the streets people say I’m a thug. If I go out and protest, people say it’s a riot. If I go down on one knee, it’s wrong,’” Noah said. “What is the right way, I’ve always wanted to know, what is the right way for a black person to get attention in America?” Lahren didn’t give a full answer, but Noah kept coming around to the same idea, trying to untangle the baffling contradictions he’s noticed in the country’s political discourse.The interview was frustrating in that it produced few answers to the questions Noah and Lahren lobbed at each other. Every topic of conversation, from Black Lives Matter to immigration reform, ended with the pair politely agreeing to disagree. But in the wake of the 2016 election, even that bare minimum of respectful discourse stands out—as Lahren later said on Twitter, neither side resorted to name-calling, but on social media afterward, the personal insults began flying between each of their supporters. Noah’s approach was memorable both for how measured it felt and for how quickly it moved to more complicated topics. Even if the interview didn’t find much common ground, it was an encouraging, intelligent step forward for Noah as he charts a course for his show in the coming year.
+
+
+
+
+Share
+
+
+Tweet
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+Latest Video
+
+
+
+
+
+How Did Tech Become So Male Dominated?
+
+
+    Women developed computer science. Today, the industry is mostly men.
+
+
+Caitlin Cadieux and Alice Roth
+
+
+        
+            8:49 AM ET
+        
+        
+
+
+
+
+
+About the Author
+
+
+
+
+David Sims is a senior associate editor at The Atlantic, where he covers culture.
+
+                
+            
+        
+
+Twitter
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+Most Popular
+
+            Presented by
+            
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+WG600; Carolyn Kaster / AP; NASA
+
+Kellyanne’s Alternative Universe
+
+
+Molly Ball
+
+
+
+
+Will the truth ever catch up with Trump’s most skilled spin artist?
+
+Even in triumph, Kellyanne Conway nursed a grudge. As she reflected on Donald Trump’s November victory, she made clear that she hadn’t forgotten how people treated her back when they thought she was a sure loser. Their attitude wasn’t one of outright rudeness or contempt; it was so much worse than that. It was syrupy condescension—the smarmy, indulgent niceness of people who think they’re better than you.
+“ ‘Kellyanne works hard,’ ” Conway said, assuming the voice of her erstwhile sympathizers. “ ‘We all love Kellyanne, but this is a fool’s errand.’ Or ‘She’s done a really nice job, she should hold her head high, but this is just happy talk’ … You know, it was some combination of that. It was ‘We love her, but she’s full of shit.’ ”
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jason Madara / Erik Tanner / Paul Spella / The Atlantic
+
+Why Is Silicon Valley So Awful to Women?
+
+
+Liza Mundy
+
+
+
+
+Tech companies are spending hundreds of millions of dollars to improve conditions for female employees. Here’s why not much has changed—and what might actually work.
+
+One weekday morning in 2007, Bethanye Blount came into work early to interview a job applicant. A veteran software engineer then in her 30s, Blount held a senior position at the company that runs Second Life, the online virtual world. Good-natured and self-confident, she typically wore the kind of outfit—jeans, hoodie, sneakers—that signals coding gravitas. That day, she might even have been wearing what’s known as the “full-in start-up twin set”: a Second Life T-shirt paired with a Second Life hoodie.
+In short, everything about her indicated that she was a serious technical person. So she was taken aback when the job applicant barely gave her the time of day. He knew her job title. He knew she would play a key role in deciding whether he got hired. Yet every time Blount asked him a question about his skills or tried to steer the conversation to the scope of the job, he blew her off with a flippant comment. Afterward, Blount spoke to another top woman—a vice president—who said he’d treated her the same way.
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+John Garrison
+
+This Article Won’t Change Your Mind
+
+
+Julie Beck
+
+
+
+
+The facts on why facts alone can’t fight false beliefs
+
+“I remember looking at her and thinking, ‘She’s totally lying.’ At the same time, I remember something in my mind saying, ‘And that doesn’t matter.’” For Daniel Shaw, believing the words of the guru he had spent years devoted to wasn’t blind faith exactly. It was something he chose. “I remember actually consciously making that choice.”
+There are facts, and there are beliefs, and there are things you want so badly to believe that they become as facts to you.
+Back in 1980, Shaw had arrived at a Siddha Yoga meditation center in upstate New York during what he says was a “very vulnerable point in my life.” He’d had trouble with relationships, and at work, and none of the therapies he’d tried really seemed to help. But with Siddha Yoga, “my experiences were so good and meditation felt so beneficial [that] I really walked into it more and more deeply. At one point, I felt that I had found my life’s calling.” So, in 1985, he saved up money and flew to India to join the staff of Gurumayi Chidvilasananda, the spiritual leader of the organization, which had tens of thousands of followers. Shaw rose through the ranks, and spent a lot of time traveling for the organization, sometimes with Gurumayi, sometimes checking up on centers around the U.S.
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aaron Bernstein / Reuters
+
+How Republicans Can Win by Making Their Peace With Obamacare
+
+
+David Frum
+
+
+
+
+As efforts to repeal the ACA sputter, the GOP can refocus on protecting private enterprise from the voracity of a health-care industry that takes too much and delivers too little.
+
+“The old order changeth,” Tennyson wrote, “yielding place to new.”
+For three-quarters of a century, Americans have been debating whether the state should guarantee health coverage for all. With the passage of the Affordable Care Act, the “yes” side seemed at last to have prevailed, or nearly so. Obamacare is not quite a universal health-care program, but it shifted the U.S. closer to that outcome. For seven years, Republicans have vowed to shift it back. Now the moment for reversal has arrived. If Paul Ryan’s version of health-care reform prevails, the speaker will have accomplished something that Ronald Reagan and Margaret Thatcher never could: Repeal a fully operational social-insurance program.
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mark Kauzlarich / Reuters
+
+Why Won't Steve King Assimilate and Embrace American Values?
+
+
+Conor Friedersdorf
+
+
+
+
+The Iowa Republican retains an Old World outlook on race and ethnicity that is anathema to those who support the principles of the American founding.
+
+Last year, the Heritage Foundation, a conservative Washington, D.C., think tank, published a report titled “Patriotic Assimilation Is an Indispensable Condition in a Land of Immigrants.” It complained that “elites—in the government, the culture, and the academy—have led a push toward multiculturalism, which emphasizes group differences,” and ominously warned against “deterring national unity by requiring Americans to remain sorted into separate ethnic categories.”
+Instead, it argued that Americans, regardless of their background, should unite in assimilating to the universal principles of equality, liberty, and limited government.
+Since Representative Steve King has complained that political correctness causes people in the United States to “just walk on eggshells,” afraid to address things “that are really on their mind,” I trust he will forgive my bluntness in rendering a judgment about him: King is living proof that some Americans do fail to assimilate in this manner, even when their families have been in this country for several generations.
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KCNA / Getty
+
+North Korea: What Is China Thinking?
+
+
+Minxin Pei
+
+
+
+
+Why Beijing won't solve Washington's problem with Kim Jong Un
+
+When Chinese Foreign Minister Wang Yi gave a news conference during the annual session of the National People’s Congress on March 8, he warned that the United States and North Korea were behaving “like accelerating trains coming toward each other,” and wondered whether the countries were “ready for a head-on collision.”
+Wang’s remarks and the accompanying imagery certainly drew the attention of the international media. But as Wang surely knew, this proverbial train wreck would also do grievous damage to Sino-U.S. relations: China would inevitably be dragged into a military conflict, should one erupt as a result of North Korea’s provocations. Indeed, as Pyongyang continues ratcheting up tensions through its repeated nuclear and missile tests, Beijing faces stark strategic choices, each of which comes with its own fraught trade-off.
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brian Frank/Reuters
+
+Steve King Thinks I’m a Threat to American Civilization 
+
+
+Alex Wagner
+
+
+
+
+My father is a white Christian from Iowa. He married an immigrant. And then they had me: somebody else’s baby.
+
+On Sunday, Iowa Congressman Steve King embarked on what was to be a multi-day revival of the Steve King Xenophobia Road Show, tweeting out support for the far-right anti-Islam Dutch politician Geert Wilders:
+
+Wilders understands that culture and demographics are our destiny. We can't restore our civilization with somebody else's babies. https://t.co/4nxLipafWO
+— Steve King (@SteveKingIA) March 12, 2017
+By Monday morning, King was effectively doubling down on the idea that “somebody else’s babies” are not really, truly American babies.
+CNN host Chris Cuomo began his interview by citing King’s tweet:
+
+Cuomo: If you want to apply that kind of thinking to America, it seems like a complete contradiction of what we’re all about. This is the melting pot. We are known by those countries as the bastion of diversity. It’s an unqualified strength for us … Who is ‘somebody else's babies’?
+King: There’s an American culture, American civilization. It’s raised within these children in these American homes. That’s one of the reasons why we require that the president of the United States be raised with an American experience…
+
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J. Scott Applewhite / AP
+
+The CBO Deals Paul Ryan’s Health-Care Plan a Major Blow
+
+
+Russell Berman
+
+
+
+
+The hotly anticipated Congressional Budget Office report on the Republican replacement for Obamacare found it would increase the number of uninsured Americans by 86 percent.
+
+Updated on March 13, 2017 at 6:34 p.m. ET
+The Republicans’ effort to pass their proposed replacement for the Affordable Care Act just got a whole lot harder.
+The Congressional Budget Office on Monday projected that the House leadership’s American Health Care Act would result in 24 million Americans losing their health insurance while raising premiums for those covered on the individual market. Their bill would lower federal deficits by $337 billion over 10 years, largely as a result of cuts to Medicaid that would reduce its enrollment by 14 million, according to the estimate. Average premiums would rise by as much as 20 percent in 2018 and 2019 before falling in later years.
+CBO is the official nonpartisan scorekeeper of legislation on Capitol Hill, and its projections on the impact of policy proposals can determine whether they have the political momentum to pass the House and Senate. But they are rarely a surprise, and both parties had telegraphed in recent days how they thought the score would turn out.
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CBS / YouTube
+
+Stephen Colbert, Anxiety Translator
+
+
+Sophie Gilbert
+
+
+
+
+In his opening monologue on Monday night, the CBS host found the line between comedy and tragedy.
+
+In a story for Vulture published yesterday, titled “How Stephen Colbert Got His Groove Back,” Josef Adalian has an intriguing and detailed analysis of all the factors that have contributed to Colbert’s recent resurgence in the ratings. These include: learning not to micromanage, getting more comfortable with incorporating aspects of his Colbert Report persona after an initial vault away from the character, and—most notably—a Trump bump. Compared with Jimmy Fallon, Adalian writes, Colbert’s brand of political comedy seems perfectly attuned to the current moment of crisis for liberal viewers:
+
+Fallon’s show hasn’t suffered from any obvious decline in quality. But with so much of the country obsessed with politics and the fate of the free world, Fallon’s brand of fun and games — while still plenty popular — just feels less … relevant. As [CBS CEO Leslie] Moonves told attendees of the Deutsche Bank Media and Telecom Conference last week, with Trump in the White House, “People want to see social commentary at the end of the night. They don’t want to see fun and games.”
+
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kevin Tong
+
+Welcome to Pleistocene Park
+
+
+Ross Andersen
+
+
+
+
+In Arctic Siberia, Russian scientists are trying to stave off catastrophic climate change—by resurrecting an Ice Age biome complete with lab-grown woolly mammoths.
+
+Nikita Zimov’s nickname for the vehicle seemed odd at first. It didn’t look like a baby mammoth. It looked like a small tank, with armored wheels and a pit bull’s center of gravity. Only after he smashed us into the first tree did the connection become clear.
+We were driving through a remote forest in Eastern Siberia, just north of the Arctic Circle, when it happened. The summer thaw was in full swing. The undergrowth glowed green, and the air hung heavy with mosquitoes. We had just splashed through a series of deep ponds when, without a word of warning, Nikita veered off the trail and into the trees, ramming us into the trunk of a young 20-foot larch. The wheels spun for a moment, and then surged us forward. A dry crack rang out from under the fender as the larch snapped cleanly at its base and toppled over, falling in the quiet, dignified way that trees do.
+
+
+
+        
+        Continue Reading
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mass Incarceration, Visualized
+
+
+Jackie Lay, Bruce Western, Kasia Cieplak-Mayr von Baldegg, and Ta-Nehisi Coates
+
+
+
+
+In this animated interview, the sociologist Bruce Western explains the current inevitability of prison for certain demographics of young black men.
+
+
+        
+        Watch Video
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Stunning Scale Model of Our Solar System, Drawn in the Desert
+
+
+Jaclyn Skurie
+
+
+
+
+A true illustration of our place in the universe
+
+
+        
+        Watch Video
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can It Happen Here?
+
+
+Daniel Lombroso and David Frum
+
+
+
+
+David Frum on Donald Trump's authoritarian tendencies
+
+
+        
+        Watch Video
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+More Popular Stories
+
+
+
+
+
+
+
+
+
+Show Comments
+
+
+
+    <aside>
+    <form id="injector-signup-daily" action="" method="post"  data-newsletter-signup="1">
+        <p>
+            Like <em>​The Atlantic</em>? Subscribe to <strong>​</strong><a href="http://www.theatlantic.com/newsletters/daily/" target="_blank">The Atlantic Daily​</a>, our free weekday email newsletter.
+        </p>
+        <input type="hidden" name="newsletters" value="7581216"><input type="email" name="email" class="email-address" placeholder="Email"><input type="submit" value="Sign up">
+        <p class="message"></p>
+    </form>
+</aside>
+
+
+
+    <div class="article-embed-share">
+        <ul class="share social-icons round color">
+            <li><a href="#" class="facebook social-icon" data-share="facebook" data-share-text="<%= title %>" data-share-url="<%= original_url %>" data-omni-click="r'videoembedshare_fb',<%= video_id %>">
+            </a></li>
+
+            <li><a href="#" class="twitter social-icon" data-share="twitter" data-share-text="<%= title %>" data-share-url="<%= original_url %>" data-omni-click="r'videoembedshare_tw',<%= video_id %>" data-share-via="theatlantic">
+            </a></li>
+        </ul>
+    </div>
+
+[]
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Share
+
+
+
+
+
+Tweet
+
+
+
+Next story in Culture
+
+
+
+
+
+
+
+Subscribe
+Get 10 issues a year and save 65% off the cover price.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+State
+Alabama
+Alaska
+Alberta
+American Samoa
+APO/FPO-Africa
+APO/FPO-Canada
+APO/FPO-Europe
+APO/FPO-Middle East
+APO/FPO-Americas
+APO/FPO-Pacific
+Arizona
+Arkansas
+British Columbia
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Guam
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Manitoba
+Marshall Islands
+Maryland
+Massachusetts
+Michigan
+Micronesia
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Brunswick
+New Hampshire
+New Jersey
+New Mexico
+New York
+Newfoundland
+Newfoundland-Labrador
+North Carolina
+North Dakota
+Northern Mariana Isles
+Northwest Territories
+Nova Scotia
+Nunavut
+Ohio
+Oklahoma
+Ontario
+Oregon
+Palau
+Pennsylvania
+Prince Edward Island
+Puerto Rico
+Quebec
+Quebec
+Rhode Island
+Saskatchewan
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virgin Islands
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Yukon Territories
+
+
+
+
+
+
+
+
+
+Fraud Alert regarding The Atlantic
+
+
+
+
+
+Newsletters+
+
+
+
+
+
+
+                The Atlantic
+            
+
+
+
+
+The Atlantic Daily
+                    
+
+
+
+
+                        This Week
+                    
+
+
+
+
+                        This Month
+                    
+
+
+
+
+
+
+                        New Photo Galleries
+                    
+
+
+
+
+                        Top Videos This Week
+                    
+
+
+
+
+                        Politics & Policy Daily
+                    
+
+
+
+
+
+
+CityLab
+
+
+
+                    Today’s Top Stories
+                
+
+
+
+
+                    This Week's Most Popular Stories
+                
+
+
+
+
+
+
+I want to receive updates from partners and sponsors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow+
+
+
+
+Facebook
+Twitter
+LinkedIn
+Tumblr
+Pinterest
+RSS
+App Store
+
+
+
+
+
+About+
+
+
+
+
+Masthead
+FAQ
+Press
+Jobs
+
+
+Shop
+Books
+Emporium
+
+
+
+
+Contact Us
+Privacy Policy
+Advertise
+Advertising Guidelines
+
+
+Terms and Conditions
+Manage Subscription
+Responsible Disclosure
+Site Map
+
+
+
+
+
+
+ Copyright © 2017 by The Atlantic Monthly Group. All Rights Reserved. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+  "detective": {
+    "url": "/assets/static/theatlantic/img/sherlock.gif"
+  }, 
+  "peer39": true, 
+  "lazy_load": 3, 
+  "adomik": true, 
+  "amazon": "3239", 
+  "globals": {
+    "src": "article", 
+    "xpost": [], 
+    "rubric": "entertainment", 
+    "title": "trevor-noah-finds-his-late-night-voice", 
+    "type": "non-mag-reg", 
+    "id": 509318, 
+    "cat": [
+      "culture"
+    ]
+  }, 
+  "zone": "/4624/TheAtlanticOnline/channel_entertainment", 
+  "adtest_domain": "dctestsite", 
+  "krux": true, 
+  "headerbidding": true, 
+  "outofpage": true
+}
+
+
+Close
+
+
+
+
+
+
+
+
+Skip to article in 
+Skip Ad >
+
+
+
+
+
+
+
+
+
+    Atlantic.ad_queue = Atlantic.ad_queue || [];
+    Atlantic.ad_queue.push(function(){
+
+        // Be nice to those who whitelist
+        if (Atlantic.Utils.readCookie("recently_adblocking")) {
+            $(".welcome-lightbox").remove();
+        }
+
+        Atlantic.Ad.sizeListener(/^welcome/, function(pos, size){
+            if (!size) {
+                return false;
+            }
+            var $lightbox = $('#lightbox-welcome');
+
+            // The lightbox's class includes the size, so ipad
+            // ads and other weird cases can have their own styling.
+            $lightbox.addClass("active format-" + size.join("x"));
+            if (typeof window.welcomeScreen === 'undefined') {
+                window.welcomeScreen = new Atlantic.WelcomeScreen();
+            }
+            window.welcomeScreen.show();
+        });
+    });
+
+
+
+
+
+    if (/adtest\=1/.test(window.location.search) || /adtest\./.test(window.location.hostname)) {
+        amznads.debug_mode = true;
+    }
+
+
+
+
+
+
+
+    var disqus_identifier = "mt509318";
+    var disqus_url = "http://www.theatlantic.com/entertainment/archive/2016/12/trevor-noah-finds-his-late-night-voice/509318/";
+    var disqus_title = "Trevor Noah Finds His Late-Night Voice";
+
+
+(function (s) {
+    // Set all mandatory properties that don't change.
+    s.account = "atlanticprod";
+    s.charSet="UTF-8";
+    s.currencyCode="USD";
+    s.trackDownloadLinks=true;
+    s.trackExternalLinks=true;
+    s.trackInlineStats=true;
+    s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";
+    s.linkInternalFilters="javascript:,thewire.com,citylab.com,theatlantic.com,localhost";
+    s.linkLeaveQueryString=false;
+    s.linkTrackVars="None";
+    s.linkTrackEvents="None";
+    s.visitorNamespace="atlanticmedia";
+    s.trackingServer="atlanticmedia.122.2o7.net";
+
+    // Optimizely Adobe Analytics SiteCatalyst Integration
+     window.optimizely = window.optimizely || [];
+     window.optimizely.push("activateSiteCatalyst");
+
+    // We don't want to track page views for iframes loaded on TheAtlantic.com
+    // to prevent pages from being double counted
+    var track_page_views = true;
+    try {
+        if (window.parent !== window && window.parent.location.hostname === "www.theatlantic.com") {
+            track_page_views = false;
+        }
+    } catch(e) {}
+
+    if (track_page_views && s.t) {
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code = s.t();
+        if (s_code) document.write(s_code)
+        if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');
+    }
+})(window.s);
+
+
+
+
+    (function() {
+        // Duplicate a few existing s.props to be passed with linkTrackVars. If
+        // we just reused the existing s.props, data would be recorded twice.
+        s.prop66 = location.pathname;
+        s.prop67 = Atlantic.page_info.view;
+        s.prop68 = s.prop23; // Viewport
+        s.prop69 = ""; // Referring domain.
+
+        // You can coerce a URL into a URL object by creating a fake <a>
+        // element and setting the href. Newer browsers have a real URL
+        // constructor but this works in IE<10.
+        if (document.referrer !== "") {
+            var tmp = document.createElement("a");
+            tmp.href = document.referrer;
+            s.prop69 = tmp.hostname;
+        }
+
+        s.linkTrackVars =
+        "prop37,prop61,prop66,prop67,prop68,prop69,prop43,prop44,eVar21,eVar22,eVar25,eVar26,eVar27,eVar32,eVar33,eVar35,eVar36,eVar37,eVar38,eVar39,eVar40,eVar20,evar41,evar43";
+    })();
+    
+
+
+
+
+
+
+
+
+
+
+//<![CDATA[
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6463921" });
+
+
+
+
+
+
+
+
+
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () {
+d.onerror = d.onload = null;
+};
+d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-906344h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+
+
+
+
+
+
+
+
+
+window.GoogleAnalyticsObject = "ga";
+window.ga = window.ga || function() {
+    (window["ga"].q = window["ga"].q || []).push(arguments)
+}
+window["ga"].l = 1 * new Date();
+ga('create', 'UA-20189-19', 'auto' );
+ga('send', 'pageview');
+
+
+
+
+(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    _fbq.push(['addPixelId', "1407501962855831"]);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+
+
+
+
+
+
+window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+(function(){
+var k=document.createElement('script');k.type='text/javascript';k.async=true;
+k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/qrixx06d0.js';
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+}());
+
+
+
+        {
+            "facebook": "KprCnYga",
+            "twitter": "KprDGKs_",
+            "linkedin": "KprE2Sd6",
+            "email": "KprFEE7b"
+        }
+    
+
+    // Chartbeat footer
+    var _sf_async_config = _sf_async_config || {};
+    _sf_async_config.title = Atlantic.page_info.title;
+
+    // Hack. All our video players live in theatlantic.com
+    _sf_async_config.playerdomain = "www.theatlantic.com";
+
+    _sf_async_config.sections = (function(page){
+        var sections = [];
+
+        switch(page.article_type) {
+            case "note":
+            case "thread":
+                sections.push("notes");
+                break;
+            case "blog":
+            case "citylab":
+            case "wire":
+                // Not meaningful
+                break;
+            case "":
+                // Pages without articles types are landing pages
+                // and have primary channels.
+                sections.push(page.primary_channel);
+            default:
+                sections.push(page.article_type);
+        }
+
+        // Add all the channels
+        sections = sections.concat(page.channels);
+
+        return sections.join(",");
+    })(Atlantic.page_info);
+
+    _sf_async_config.authors = Atlantic.page_info.authors.join(",");
+
+    if (Atlantic.page_info.is_sponsored) {
+        _sf_async_config.zone='sponsored';
+    }
+
+    if (Atlantic.page_info.sponsor) {
+        _sf_async_config.sponsorName = Atlantic.page_info.sponsor;
+    }
+
+    window._sf_endpt=(new Date()).getTime();
+
+    
+    // Chartbeat YouTube Integration
+    _sf_async_config.ytApikey = "AIzaSyDP5dqEZLyedSSUKle2MCEtXyN6ppCmx8Y"
+    var _cbv = window._cbv || (window._cbv = []);
+    _cbv.push(["autoDetectYouTubeIframes"]);
+    
+
+
+
+
+__reach_config = {
+  "channels": [
+    "culture"
+  ], 
+  "date": "2016-12-01T15:58:00", 
+  "title": "Trevor Noah Finds His Late-Night Voice", 
+  "url": "http://www.theatlantic.com/entertainment/archive/2016/12/trevor-noah-finds-his-late-night-voice/509318/", 
+  "authors": [
+    "david-sims"
+  ], 
+  "pid": "516eed0e4240cfbf3000002a", 
+  "tags": [], 
+  "page_url": "https://www.theatlantic.com/entertainment/archive/2016/12/trevor-noah-finds-his-late-night-voice/509318/"
+}
+
+
+
+
+    var ezt = ezt ||[];
+    ezt.push({
+        qacct: 'p-b0K-eQJGBXxXE',
+        uid: '',
+        labels: "The Atlantic.Editorial.Title.Trevor Noah Finds His Late-Night Voice, The Atlantic.Editorial.Author.David Sims, The Atlantic.Editorial.Channel.Culture, The Atlantic.Editorial.Category.Culture"
+    });
+
+
+
+
+
+
+
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId: '100770816677686',
+      xfbml      : false,
+      version    : 'v2.7'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+
+
+
+    /**
+     * Route blockers
+     */
+     (function(){
+        function redirect() {
+
+            // Chrome 54-57 has a bug with its extensions that breaks
+            // whitelisting on the first pageview when sent through
+            // a shortened url. We can't detect shorturls reliable,
+            // so let it slide.
+            var chromeFreePV = (function(){
+                var host = window.location.protocol + "//" + window.location.host;
+                var isFirstPV = (document.referrer.indexOf(host) !== 0);
+                var isChrome = (window.navigator.userAgent.match(/Chrome\//) !== null);
+                return isFirstPV && isChrome;
+            })();
+
+            var isCrawlser = (function(){
+                var botsRe = "(Googlebot|Bingbot|Yahoo! Slurp|DuckDuckBot|facebookexternalhit)";
+                return (window.navigator.userAgent.match(botsRe) !== null);
+            }());
+
+            if ((navigator.onLine === false) ||
+                isCrawlser ||
+                chromeFreePV ||
+                Atlantic.User.isAdFree({strict: false}) ||
+                Atlantic.Utils.readCookie("seen-blocker-wall")) {
+                    return;
+            }
+            var next = encodeURIComponent(window.location.href);
+            var url = window.location.protocol + "//" + window.location.host + "/please-support-us/?next=";
+            window.location.href = url + next;
+        };
+
+        // Prevent race condition
+        if (Modernizr["blocker-enabled"]) {
+            redirect();
+        } else {
+            $(window).one("blocker-detected", redirect);
+        }
+     })();
+
+
+
+
+
