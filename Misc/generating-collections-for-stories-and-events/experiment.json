@@ -1,0 +1,109 @@
+{
+	"name": "experiment-col",
+	"date-retrieved": "2017-05-01T23:01:00Z",
+	"clusters-description": "Multiple stories to test multiple clustering parameters",
+	"gold-standard-defined": true, 
+	"gold-standards":
+	[
+		{
+			"Tad Cummins teen kidnapper":
+			["http://www.ajc.com/news/national/teacher-accused-kidnapping-student-asks-wife-forgiveness-jailhouse-call/EWFx5kviwEH2xtVGY1GbeP/",
+			"http://www.cnn.com/2017/04/28/us/tennessee-teacher-wife-interview/",
+			"http://www.insideedition.com/headlines/23045-tad-cummins-wife-he-told-me-he-slept-with-teenage-student-asked-for-forgiveness",
+			"http://fox6now.com/2017/04/28/tad-cummins-told-wife-he-slept-with-teen-she-says/",
+			"http://www.christianpost.com/news/elizabeth-thomas-tad-cummins-update-teens-father-urges-daughter-not-to-listen-to-liar-former-teacher-180955/"]
+		},
+		{
+			"Trump 100 days":
+			["http://time.com/4748940/historians-president-trump-100-days/",
+			"http://www.amny.com/news/president-donald-trump-s-first-100-days-nyc-weighs-in-1.13533798",
+			"https://arstechnica.com/tech-policy/2017/04/100-days-of-donald-trump-an-unexpected-presidency-with-many-unknowns-ahead/",
+			"http://www.foxnews.com/opinion/2017/04/28/marie-harf-democrats-honest-take-on-trumps-first-100-days.html",
+			"http://www.vox.com/policy-and-politics/2017/4/28/15365438/donald-trump-100-days-kleptocracy",
+			"http://www.cnn.com/2017/04/28/politics/donald-trump-100-day-data/"]
+		},
+		{
+			"United Airlines forcefully ejects passenger":
+			["https://www.nytimes.com/2017/04/10/business/united-flight-passenger-dragged.html",
+			"http://www.cnn.com/2017/04/10/travel/passenger-removed-united-flight-trnd/",
+			"http://www.npr.org/sections/thetwo-way/2017/04/10/523275494/passenger-forcibly-removed-from-united-flight-prompting-outcry",
+			"http://www.aljazeera.com/news/2017/04/united-ceo-apologises-passenger-removed-170412012733328.html"]
+		},
+		{
+			"Travel ban":
+			["http://www.cnn.com/2017/01/28/politics/donald-trump-executive-order-immigration-reaction/index.html",
+			"https://www.nytimes.com/2017/01/28/us/politics/a-sweeping-order-unlikely-to-reduce-terrorist-threat.html",
+			"https://www.theguardian.com/us-news/2017/jan/28/federal-judge-stays-deportations-trump-muslim-executive-order",
+			"http://abcnews.go.com/Politics/detained-york-airport-cairo-wake-trumps-executive-order/story?id=45109972"]
+		},
+		{
+			"North korean nuclear conflict":
+			["http://www.couriermail.com.au/news/queensland/north-korea-nuclear-tests-could-cause-eruption-of-volcano-at-paektu-mountain-geologist-warns/news-story/041761a89ab5452be816048b800162cf",
+			"http://www.skynews.com.au/news/top-stories/2017/04/28/-major-conflict--with-north-korea-possible.html",
+			"http://www.news.com.au/world/asia/north-korea-spends-whopping-22-per-cent-of-gdp-on-military-despite-blackouts-and-starving-population/news-story/c09c12d43700f28d389997ee733286d2",
+			"http://www.sbs.com.au/news/article/2017/04/25/north-korea-conducts-massive-artillery-drill",
+			"https://au.news.yahoo.com/world/a/35201504/se-asia-voices-grave-concern-on-n-korea-despite-appeal/#page1",
+			"http://www.bbc.com/news/world-asia-39740347"]
+		},
+		{
+			"Brexit":
+			["http://www.bbc.com/news/uk-politics-32810887",
+			"http://www.bbc.co.uk/news/uk-politics-39325561",
+			"https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe",
+			"http://www.bbc.co.uk/news/uk-politics-37532364",
+			"https://www.usatoday.com/story/news/world/2016/02/22/explainer-what-when-and-why-brexit/80723334/"]
+		},
+		{
+			"Trumpcare":
+			["http://fortune.com/2017/03/14/trumpcare-planned-parenthood-maternity-coverage/",
+			"http://www.foxnews.com/opinion/2017/03/14/eric-bolling-ryancare-is-still-obamacare-here-are-five-ways-to-start-over.html",
+			"https://www.theatlantic.com/politics/archive/2017/03/obamacare-lite-yes-and-no/518772/",
+			"http://www.nbcchicago.com/news/politics/House-Health-Care-Vote-AHCA-Trump-Demand-417007763.html",
+			"https://www.theguardian.com/us-news/2017/mar/24/republican-healthcare-plan-bill-vote-pulled-obamacare-trump"]
+		},
+		{
+			"Women's march":
+			["http://www.slate.com/blogs/xx_factor/2017/01/12/the_women_s_march_on_washington_has_released_its_platform_and_it_is_unapologetically.html",
+			"http://abcnews.go.com/Politics/womens-march/story?id=44884784",
+			"https://www.theguardian.com/us-news/2016/dec/27/womens-march-on-washington-dc-guide",
+			"https://www.washingtonpost.com/national/it-started-with-a-grandmother-in-hawaii-now-the-womens-march-on-washington-is-poised-to-be-the-biggest-inauguration-demonstration/2017/01/03/8af61686-c6e2-11e6-bf4b-2c064d32a4bf_story.html?utm_term=.096d9c3d2cda",
+			"http://www.latimes.com/entertainment/la-et-sundance-updates-chelsea-handler-jessica-williams-1485022615-htmlstory.html",
+			"http://www.newsweek.com/samantha-bee-chelsea-handler-womens-march-546002",
+			"https://www.washingtonpost.com/news/arts-and-entertainment/wp/2017/01/23/plenty-of-celebrities-showed-up-for-the-womens-marches-as-demonstrators-not-performers/?utm_term=.77a77158addf",
+			"http://www.etonline.com/news/208130_katy_perry_drew_barrymore_charlize_theron_ariana_grande_attend_womens_march_across_the_nation/"]
+		},
+		{
+			"March for science":
+			["https://www.washingtonpost.com/news/speaking-of-science/wp/2017/01/24/are-scientists-going-to-march-on-washington/?utm_term=.b555102677d6",
+			"https://www.washingtonpost.com/news/speaking-of-science/wp/2017/03/30/bill-nye-will-join-the-march-for-science/?utm_term=.8b642bf89ed9",
+			"http://www.ourmidland.com/news/article/March-for-Science-march-draws-500-plus-11093198.php",
+			"http://www.thegazette.com/subject/life/people-places/hundreds-advocate-for-evidence-based-policies-at-iowa-city-march-for-science-20170422",
+			"http://www.capitalgazette.com/news/annapolis/ph-ac-cn-scientists-march-0423-20170422-story.html",
+			"http://wkrg.com/2017/04/22/hundreds-march-for-science-on-earth-day-in-mobile/",
+			"https://www.bu.edu/today/2017/march-for-science-dc/"]
+		},
+		{
+			"Random":
+			["http://www.foxnews.com/health/2017/04/27/company-recalls-organic-dog-food-that-may-contain-euthanasia-drug.html",
+			"https://www.washingtonpost.com/news/checkpoint/wp/2017/04/28/u-s-military-launches-investigation-into-deaths-of-army-rangers-citing-potential-friendly-fire/?utm_term=.56244b860040",
+			"http://pilotonline.com/news/government/local/norfolk-s-new-city-treasurer-is-jim-oliver-a-former/article_9a371280-c263-51ef-8692-e9acb00c4b45.html",
+			"http://www.eonline.com/news/846752/snl-s-aidy-bryant-is-engaged-to-conner-o-malley-i-thought-his-proposal-was-a-joke",
+			"http://www.wsj.com/articles/indiana-gives-7-million-in-tax-breaks-to-keep-carrier-jobs-1480608461",
+			"http://www.cnbc.com/2016/12/01/howard-schultz-stepping-down-as-starbucks-ceo.html",
+			"http://www.usatoday.com/story/news/nation-now/2016/12/01/death-toll-tennessee-wildfires-rises-10/94756844/?utm_source=dlvr.it&utm_medium=twitter",
+			"https://www.washingtonpost.com/politics/shouting-match-erupts-between-clinton-and-trump-aides/2016/12/01/7ac4398e-b7ea-11e6-b8df-600bd9d38a02_story.html?utm_term=.f17f35b548b4",
+			"http://www.telegraph.co.uk/football/2016/12/01/arsenal-should-glad-efl-cup/",
+			"http://nymag.com/thecut/2016/12/victorias-secret-angel-jasmine-tookes-diet-workout-routine.html",
+			"http://www.nytimes.com/aponline/2016/12/01/world/europe/ap-eu-france-election.html?_r=0",
+			"http://www.latimes.com/local/lanow/la-me-san-bernardino-terror-probe-20161130-story.html",
+			"http://www.wsj.com/articles/wells-fargo-to-keep-commissions-based-retirement-accounts-under-fiduciary-rule-1480615211",
+			"http://www.theatlantic.com/entertainment/archive/2016/12/trevor-noah-finds-his-late-night-voice/509318/",
+			"https://www.yahoo.com/news/sanders-calls-obamas-400k-wall-street-speaking-fee-unfortunate-150857262.html",
+			"https://sports.yahoo.com/news/philadelphias-outdoor-nfl-draft-upstaged-everyone-even-jerry-jones-035228225.html",
+			"https://www.yahoo.com/tv/tucker-carlson-ann-coulter-fox-news-five-115706906.html",
+			"https://sports.yahoo.com/news/court-records-aaron-hernandez-estate-114003700.html",
+			"http://nypost.com/2017/04/28/espn-firings-have-led-to-ugly-media-fights/",
+			"https://finance.yahoo.com/news/heres-why-delta-passenger-kicked-171000948.html"]
+		}
+	]
+}
